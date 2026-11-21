@@ -1,0 +1,381 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:35+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "mt_MT",
+        "plural-forms": "nplurals=4; plural=(n==1 ? 0 : n==0 || (n%100>1 && n%100<11) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "Dashboard ta' Konformità Legali WM BFSG 2025 u Ġeneratur tal-Anness 3"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Jiġġenera d-dikjarazzjoni ta' aċċessibbiltà mid-dettalji tal-operatur (shortcode u blokk) u jwettaq tliet kontrolli ta' mudelli fuq il-kontenut maħżun ta' sa 20 paġna."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Kontroll tal-Mudelli u Dikjarazzjoni"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Il-kontroll tal-mudelli għadu ma twettaqx"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Sejbiet fuq %1$d minn %2$d paġni ċċekkjati"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Tliet kontrolli ta' mudelli fil-kontenut maħżun – mhux awditu WCAG"
+      ],
+      "Geprüfte Seiten": [
+        "Paġni ċċekkjati"
+      ],
+      "Mit Befunden": [
+        "B'sejbiet"
+      ],
+      "nicht angegeben": [
+        "mhux iddikjarat"
+      ],
+      "Erklärter Stand": [
+        "Livell iddikjarat"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Iftaħ id-Dashboard BFSG"
+      ],
+      "WM BFSG Dashboard": [
+        "Dashboard WM BFSG"
+      ],
+      "BFSG Dashboard": [
+        "Dashboard BFSG"
+      ],
+      "Übersicht": [
+        "Ħarsa ġenerali"
+      ],
+      "Erklärung": [
+        "Dikjarazzjoni"
+      ],
+      "Prüfbericht": [
+        "Rapport tal-kontroll"
+      ],
+      "Begriffe": [
+        "Termini"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Dikjarazzjoni ta' Aċċessibbiltà"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Iġġenera dikjarazzjoni mid-dettalji tiegħek &bull; tliet kontrolli ta' mudelli fil-kontenut maħżun"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parti mill-familja ta' plugins WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Awtonomu"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "LIVELL TA' KONFORMITÀ MHUX IDDIKJARAT"
+      ],
+      "Was dieses Plugin tut": [
+        "X'jagħmel dan il-plugin"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Jiġġenera dikjarazzjoni ta' aċċessibbiltà mid-dettalji tiegħek (livell ta' konformità bħala awtovalutazzjoni, data, kuntatt, korp ta' infurzar) u juriha permezz ta' shortcode fuq paġna. Barra minn hekk jiċċekkja tliet mudelli fil-kontenut maħżun ta' sa 20 paġna, artiklu u prodott ippubblikati. Il-kontroll ma jissostitwixxix valutazzjoni skont WCAG jew EN 301 549."
+      ],
+      "Bereiche": [
+        "Taqsimiet"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Awtovalutazzjoni fit-tab “Dikjarazzjoni”"
+      ],
+      "höchstens 20 je Lauf": [
+        "massimu ta' 20 kull darba"
+      ],
+      "Seiten mit Befunden": [
+        "Paġni b'sejbiet"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img mingħajr alt, ħoloq vojta, livelli ta' intestatura maqbuża"
+      ],
+      "Letzter Lauf": [
+        "L-aħħar eżekuzzjoni"
+      ],
+      "nie": [
+        "qatt"
+      ],
+      "nur auf Anforderung": [
+        "fuq talba biss"
+      ],
+      "Erklärung veröffentlichen": [
+        "Ippubblika d-dikjarazzjoni"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Fit-tab “Dikjarazzjoni”, daħħal il-livell ta' konformità, il-kuntatt u l-korp ta' infurzar."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Oħloq paġna (eż. “Dikjarazzjoni ta' Aċċessibbiltà”) u daħħal dan is-shortcode:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Żid ħolqa għall-paġna fil-footer."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Mexxi l-kontroll tal-mudelli issa"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Qed jiġi ċċekkjat il-kontenut maħżun …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Ma nstabu l-ebda paġni, artikli jew prodotti ppubblikati: xejn ma ġie ċċekkjat."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Lest. Paġni ċċekkjati:"
+      ],
+      "mit Befunden:": [
+        "b'sejbiet:"
+      ],
+      "Fehler:": [
+        "Żball:"
+      ],
+      "Angaben für die Erklärung": [
+        "Dettalji għad-dikjarazzjoni"
+      ],
+      "Name des Unternehmens": [
+        "Isem il-kumpanija"
+      ],
+      "Adresse der Website": [
+        "Indirizz tas-sit web"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Status ta' konformità"
+      ],
+      "— bitte wählen —": [
+        "— jekk jogħġbok agħżel —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "L-awtovalutazzjoni tiegħek. Iddikjara biss dak li evalwazzjoni tas-sit tiegħek tappoġġja."
+      ],
+      "Datum der Selbstbewertung": [
+        "Data tal-awtovalutazzjoni"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Id-dikjarazzjoni ssemmi din id-data bħala d-data tat-tfassil. Mingħajr data maħżuna tidher “għadu mhux iddikjarat”."
+      ],
+      "Ansprechperson (optional)": [
+        "Persuna ta' kuntatt (mhux obbligatorju)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-mail għall-feedback"
+      ],
+      "Telefon (optional)": [
+        "Telefon (mhux obbligatorju)"
+      ],
+      "Durchsetzungsstelle": [
+        "Korp ta' infurzar"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Nota: Taħt dan l-isem, id-dikjarazzjoni bħalissa dejjem tipprintja linja u indirizz elettroniku tal-uffiċċju ta' Saxony-Anhalt."
+      ],
+      "Deinstallation": [
+        "Diżinstallazzjoni"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Neħħi d-dettalji maħżuna u r-rapport tal-kontroll meta tħassar il-plugin"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "B'mod awtomatiku, id-dettalji tad-dikjarazzjoni u l-aħħar rapport jinżammu waqt id-diżinstallazzjoni."
+      ],
+      "Speichern": [
+        "Issejvja"
+      ],
+      "Vorschau": [
+        "Dehra minn qabel"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Rapport tal-aħħar kontroll tal-mudelli"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Għad m'hemm l-ebda kontroll b'kontenut iċċekkjat. Mexxih fit-tab “Ħarsa ġenerali”."
+      ],
+      "Kennung des Laufs": [
+        "Identifikatur tal-eżekuzzjoni"
+      ],
+      "Zeitpunkt": [
+        "Ħin"
+      ],
+      "Prüfungen": [
+        "Kontrolli"
+      ],
+      "Ergebnis": [
+        "Riżultat"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Mhux ċertifikat u l-ebda dikjarazzjoni ta' konformità legali: ir-rapport jelenka biss dak li sabu t-tliet mudelli."
+      ],
+      "Seite": [
+        "Paġna"
+      ],
+      "Punkte": [
+        "Punti"
+      ],
+      "Befunde": [
+        "Sejbiet"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Dikjarazzjoni ta' aċċessibbiltà"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "It-test iġġenerat minn dan il-plugin: status ta' konformità (awtovalutazzjoni), data tat-tfassil, kuntatt għall-feedback u korp ta' infurzar. Il-plugin ma jevalwax jekk is-servizz tiegħek jeħtieġx tali dikjarazzjoni."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Katalgi ta' rekwiżiti tekniċi għal kontenut tal-web aċċessibbli. Evalwazzjoni sħiħa tkopri ħafna aktar mit-tliet mudelli ta' dan il-plugin."
+      ],
+      "Musterprüfung": [
+        "Kontroll tal-mudelli"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Ifittex fil-kontenut maħżun elementi img mingħajr alt, ħoloq mingħajr test u livelli ta' intestatura maqbuża. Ma jispezzjonax it-tema, il-menus, il-formoli, il-kuntrasti jew it-tastiera."
+      ],
+      "WM BFSG Kennzahlen": [
+        "Metriċi WM BFSG"
+      ],
+      "BFSG Kennzahl": [
+        "Metrika BFSG"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Juri dettall maħżun mid-dikjarazzjoni jew metrika mill-aħħar kontroll tal-mudelli."
+      ],
+      "Kennzahl": [
+        "Metrika"
+      ],
+      "noch nicht angegeben": [
+        "għadu mhux iddikjarat"
+      ],
+      "nicht geprüft": [
+        "mhux iċċekkjat"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Dikjarazzjoni ta' Aċċessibbiltà (skont l-Anness 3 BFSG u l-Art. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s tistinka biex tagħmel is-sit web tagħha (%2$s) aċċessibbli skont l-Att dwar it-Tisħiħ tal-Aċċessibbiltà (BFSG), l-istandard Ewropew EN 301 549 V3.2.1 u l-Linji Gwida dwar l-Aċċessibbiltà tal-Kontenut tal-Web (WCAG 2.2 Livell AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Status ta' konformità mar-rekwiżiti"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Abbażi tal-awtovalutazzjoni tal-operatur, dan is-sit web huwa %s mar-rekwiżiti tal-istandard Ewropew armonizzat EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "L-istatus ta' konformità għadu ma ġiex iddikjarat."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Tfassil ta' din id-dikjarazzjoni ta' aċċessibbiltà"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Din id-dikjarazzjoni tlestiet nhar %s. Id-dettalji dwar l-istatus ta' konformità huma bbażati fuq awtovalutazzjoni mill-operatur."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Id-data tat-tfassil għadha ma ġietx iddikjarata."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Id-dettalji dwar l-istatus ta' konformità huma bbażati fuq awtovalutazzjoni mill-operatur."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Feedback u dettalji ta' kuntatt (mekkaniżmu ta' feedback)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Innutajt xi nuqqasijiet fl-aċċess mingħajr ostakli għall-kontenut ta' %s? Jew għandek mistoqsijiet dwar l-implimentazzjoni tal-aċċessibbiltà? Tista' tikkuntattja lill-persuna responsabbli tagħna fi kwalunkwe ħin:"
+      ],
+      "Ansprechpartner:": [
+        "Persuna ta' kuntatt:"
+      ],
+      "E-Mail:": [
+        "E-mail:"
+      ],
+      "Telefon:": [
+        "Telefon:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Proċedura ta' infurzar u awtorità ta' sorveljanza tas-suq"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Jekk ma tirċevix tweġiba sodisfaċenti għal notifiki jew mistoqsijiet dwar l-aċċessibbiltà fi żmien sitt ġimgħat, tista' tikkuntattja lill-korp kompetenti ta' sorveljanza tas-suq u infurzar:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Awtorità Superviżorja għall-Aċċessibbiltà Diġitali • Stat ta' Saxony-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Din id-dikjarazzjoni tlestiet nhar %s abbażi ta' awtovalutazzjoni. Mhijiex ibbażata fuq ċertifikazzjoni minn korp estern."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Din id-dikjarazzjoni hija bbażata fuq awtovalutazzjoni. Mhijiex ibbażata fuq ċertifikazzjoni minn korp estern."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d stampa mingħajr attribut alt (WCAG 1.1.1)",
+        "%d stampi mingħajr attribut alt (WCAG 1.1.1)",
+        "%d stampa mingħajr attribut alt (WCAG 1.1.1)",
+        "%d stampa mingħajr attribut alt (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d ħolqa mingħajr test (WCAG 2.4.4)",
+        "%d ħoloq mingħajr test (WCAG 2.4.4)",
+        "%d ħolqa mingħajr test (WCAG 2.4.4)",
+        "%d ħolqa mingħajr test (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d livell ta' intestatura maqbuż (WCAG 1.3.1)",
+        "%d livelli ta' intestatura maqbuża (WCAG 1.3.1)",
+        "%d livell ta' intestatura maqbuż (WCAG 1.3.1)",
+        "%d livell ta' intestatura maqbuż (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Dikjarazzjoni ta' Aċċessibbiltà (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Juri d-dikjarazzjoni ta' aċċessibbiltà mis-settings maħżuna jew attributi fakultattivi tal-blokk."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Issostitwixxi d-dettalji (mhux obbligatorju)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Uża s-setting maħżun"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Dikjarazzjoni ta' Aċċessibbiltà (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Juri d-dikjarazzjoni ta' aċċessibbiltà mis-settings maħżuna jew attributi fakultattivi tal-blokk."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "aċċessibbiltà"
+      ],
+      "block keyword\u0004anlage 3": [
+        "anness 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "dikjarazzjoni"
+      ]
+    }
+  }
+}

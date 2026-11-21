@@ -1,0 +1,375 @@
+{
+  "translation-revision-date": "2026-11-21T13:56:15+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "et",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "WM BFSG 2025 õiguskuulekuse töölaud ja Lisa 3 generaator"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Koostab ligipääsetavuse avalduse haldaja sisestatud andmete põhjal (lühikood ja plokk) ning teeb kolm mustrikontrolli kuni 20 lehe salvestatud sisule."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Mustrikontroll ja avaldus"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Mustrikontrolli pole veel käivitatud"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Leiud %1$d lehel %2$d kontrollitud lehest"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Kolm mustrikontrolli salvestatud sisus – ei ole WCAG-audit"
+      ],
+      "Geprüfte Seiten": [
+        "Kontrollitud lehed"
+      ],
+      "Mit Befunden": [
+        "Leidudega"
+      ],
+      "nicht angegeben": [
+        "märkimata"
+      ],
+      "Erklärter Stand": [
+        "Deklareeritud tase"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Ava BFSG töölaud"
+      ],
+      "WM BFSG Dashboard": [
+        "WM BFSG töölaud"
+      ],
+      "BFSG Dashboard": [
+        "BFSG töölaud"
+      ],
+      "Übersicht": [
+        "Ülevaade"
+      ],
+      "Erklärung": [
+        "Avaldus"
+      ],
+      "Prüfbericht": [
+        "Kontrolliaruanne"
+      ],
+      "Begriffe": [
+        "Mõisted"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Ligipääsetavuse avaldus"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Loo avaldus oma andmete põhjal &bull; kolm mustrikontrolli salvestatud sisus"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Osa WM Suite pistikprogrammide perekonnast"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Eraldiseisev"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "VASTAVUSTASE MÄRKIMATA"
+      ],
+      "Was dieses Plugin tut": [
+        "Mida see pistikprogramm teeb"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "See koostab ligipääsetavuse avalduse teie andmete põhjal (vastavustase enesehindamisena, kuupäev, kontakt, järelevalveasutus) ja kuvab selle lühikoodiga lehel. Lisaks kontrollib see kolme mustrit kuni 20 avaldatud lehe, postituse ja toote salvestatud sisus. Kontroll ei asenda WCAG või EN 301 549 auditit ega hinda, kas BFSG teie pakkumisele kohaldub."
+      ],
+      "Bereiche": [
+        "Jaotised"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Enesehindamine vahekaardil „Avaldus”"
+      ],
+      "höchstens 20 je Lauf": [
+        "kuni 20 ühe käivituse kohta"
+      ],
+      "Seiten mit Befunden": [
+        "Leidudega lehed"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "alt-atribuudita img, tühjad lingid, vahelejäetud pealkirjatasemed"
+      ],
+      "Letzter Lauf": [
+        "Viimane käivitus"
+      ],
+      "nie": [
+        "mitte kunagi"
+      ],
+      "nur auf Anforderung": [
+        "ainult nõudmisel"
+      ],
+      "Erklärung veröffentlichen": [
+        "Avalda avaldus"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Sisestage vahekaardil „Avaldus” vastavustase, kontakt ja järelevalveasutus."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Looge leht (nt „Ligipääsetavuse avaldus”) ja lisage see lühikood:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Lisage lehe link jalusesse."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Käivita mustrikontroll kohe"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Salvestatud sisu kontrollimine …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Avaldatud lehti, postitusi ega tooteid ei leitud: midagi ei kontrollitud."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Valmis. Kontrollitud lehed:"
+      ],
+      "mit Befunden:": [
+        "leidudega:"
+      ],
+      "Fehler:": [
+        "Viga:"
+      ],
+      "Angaben für die Erklärung": [
+        "Avalduse andmed"
+      ],
+      "Name des Unternehmens": [
+        "Ettevõtte nimi"
+      ],
+      "Adresse der Website": [
+        "Veebisaidi aadress"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Vastavuse seisund"
+      ],
+      "— bitte wählen —": [
+        "— palun valige —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Teie enesehindamine. Deklareerige ainult seda, mida teie veebisaidi kontroll kinnitab."
+      ],
+      "Datum der Selbstbewertung": [
+        "Enesehindamise kuupäev"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Avaldus märgib selle kuupäeva koostamiskuupäevana. Salvestatud kuupäeva puudumisel kuvatakse „veel märkimata”."
+      ],
+      "Ansprechperson (optional)": [
+        "Kontaktisik (valikuline)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "Tagasiside e-post"
+      ],
+      "Telefon (optional)": [
+        "Telefon (valikuline)"
+      ],
+      "Durchsetzungsstelle": [
+        "Järelevalveasutus"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Märkus: Selle nime all kuvab avaldus praegu alati Saksi-Anhalti asutuse rea ja e-posti aadressi."
+      ],
+      "Deinstallation": [
+        "Eemaldamine"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Kustuta salvestatud andmed ja kontrolliaruanne pistikprogrammi kustutamisel"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Vaikimisi säilitatakse avalduse andmed ja viimane aruanne eemaldamisel."
+      ],
+      "Speichern": [
+        "Salvesta"
+      ],
+      "Vorschau": [
+        "Eelvaade"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Viimase mustrikontrolli aruanne"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Kontrollitud sisuga mustrikontroll puudub. Käivitage see vahekaardil „Ülevaade”."
+      ],
+      "Kennung des Laufs": [
+        "Käivituse tunnus"
+      ],
+      "Zeitpunkt": [
+        "Aeg"
+      ],
+      "Prüfungen": [
+        "Kontrollid"
+      ],
+      "Ergebnis": [
+        "Tulemus"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Ei ole sertifikaat ega hinnang õiguslikule vastavusele: aruanne loetleb vaid kolme mustri leiud."
+      ],
+      "Seite": [
+        "Leht"
+      ],
+      "Punkte": [
+        "Punktid"
+      ],
+      "Befunde": [
+        "Leiud"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Ligipääsetavuse avaldus"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Pistikprogrammi koostatav tekst: vastavuse seisund (enesehindamine), koostamiskuupäev, tagasisidekontakt ja järelevalveasutus. Pistikprogramm ei hinda, kas teie teenus sellist avaldust vajab."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Ligipääsetava veebisisu tehnilised nõudekataloogid. Täielik hindamine hõlmab palju enamat kui selle pistikprogrammi kolm mustrit."
+      ],
+      "Musterprüfung": [
+        "Mustrikontroll"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Otsib salvestatud sisust alt-atribuudita img-elemente, tekstita linke ja vahelejäetud pealkirjatasemeid. Teemat, menüüsid, vorme, kontraste ega klaviatuurikasutust see ei näe."
+      ],
+      "WM BFSG Kennzahlen": [
+        "WM BFSG näitajad"
+      ],
+      "BFSG Kennzahl": [
+        "BFSG näitaja"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Väljastab avalduse salvestatud andmevälja või viimase mustrikontrolli näitaja."
+      ],
+      "Kennzahl": [
+        "Näitaja"
+      ],
+      "noch nicht angegeben": [
+        "veel märkimata"
+      ],
+      "nicht geprüft": [
+        "kontrollimata"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Ligipääsetavuse avaldus (vastavalt BFSG lisale 3 ja EGBGB art 246)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s püüab muuta oma veebisaidi (%2$s) ligipääsetavaks kooskõlas ligipääsetavuse tugevdamise seaduse (BFSG), Euroopa standardi EN 301 549 V3.2.1 ning veebisisu ligipääsetavuse suunistega (WCAG 2.2 tase AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Nõuetele vastavuse seisund"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Haldaja enesehindamise põhjal on see veebisait harmoneeritud Euroopa standardi EN 301 549 nõuetega %s."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Vastavuse seisund ei ole veel märgitud."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Käesoleva ligipääsetavuse avalduse koostamine"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "See avaldus koostati %s. Vastavuse seisundi andmed põhinevad haldaja enesehindamisel."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Koostamiskuupäev ei ole veel märgitud."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Vastavuse seisundi andmed põhinevad haldaja enesehindamisel."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Tagasiside ja kontaktandmed (tagasisidemehhanism)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Kas olete märganud puudusi veebisaidi %s sisule ligipääsemisel? Või on teil küsimusi ligipääsetavuse rakendamise kohta? Võite igal ajal pöörduda meie vastutava kontaktisiku poole:"
+      ],
+      "Ansprechpartner:": [
+        "Kontaktisik:"
+      ],
+      "E-Mail:": [
+        "E-post:"
+      ],
+      "Telefon:": [
+        "Telefon:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Järelevalvemenetlus ja turujärelevalveasutus"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Kui te ei saa kuue nädala jooksul rahuldavat vastust ligipääsetavust puudutavatele teadetele või päringutele, võite pöörduda pädeva turujärelevalve- ja täitevasutuse poole:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Digitaalse ligipääsetavuse järelevalveasutus • Saksi-Anhalti liidumaa"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "See avaldus koostati %s enesehindamise alusel. Selle aluseks ei ole välise asutuse sertifikaat."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "See avaldus põhineb enesehindamisel. Selle aluseks ei ole välise asutuse sertifikaat."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d alt-atribuudita pilt (WCAG 1.1.1)",
+        "%d alt-atribuudita pilti (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d tekstita link (WCAG 2.4.4)",
+        "%d tekstita linki (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d vahelejäetud pealkirjatase (WCAG 1.3.1)",
+        "%d vahelejäetud pealkirjataset (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Ligipääsetavuse avaldus (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Kuvab ligipääsetavuse avalduse salvestatud seadetest või ploki valikulistest atribuutidest."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Kirjuta andmed üle (valikuline)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Kasuta salvestatud seadet"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Ligipääsetavuse avaldus (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Kuvab ligipääsetavuse avalduse salvestatud seadetest või ploki valikulistest atribuutidest."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "ligipääsetavus"
+      ],
+      "block keyword\u0004anlage 3": [
+        "lisa 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "avaldus"
+      ]
+    }
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:35+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "pl_PL",
+        "plural-forms": "nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "Panel Zgodności Prawnej WM BFSG 2025 i Generator Załącznika 3"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Generuje deklarację dostępności na podstawie danych operatora (shortcode i blok) oraz wykonuje trzy testy wzorców w zapisanej treści maksymalnie 20 stron."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Kontrola wzorców i deklaracja"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Kontrola wzorców nie została jeszcze uruchomiona"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Uwagi na %1$d z %2$d sprawdzonych stron"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Trzy kontrole wzorców w zapisanej treści – to nie jest audyt WCAG"
+      ],
+      "Geprüfte Seiten": [
+        "Sprawdzone strony"
+      ],
+      "Mit Befunden": [
+        "Z uwagami"
+      ],
+      "nicht angegeben": [
+        "nie podano"
+      ],
+      "Erklärter Stand": [
+        "Zadeklarowany poziom"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Otwórz panel BFSG"
+      ],
+      "WM BFSG Dashboard": [
+        "Panel WM BFSG"
+      ],
+      "BFSG Dashboard": [
+        "Panel BFSG"
+      ],
+      "Übersicht": [
+        "Przegląd"
+      ],
+      "Erklärung": [
+        "Deklaracja"
+      ],
+      "Prüfbericht": [
+        "Raport z kontroli"
+      ],
+      "Begriffe": [
+        "Słownik"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Deklaracja dostępności"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Generuj deklarację z własnych danych &bull; trzy kontrole wzorców w zapisanej treści"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Część rodziny wtyczek WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Samodzielny"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "POZIOM ZGODNOŚCI NIEPODANY"
+      ],
+      "Was dieses Plugin tut": [
+        "Co robi ta wtyczka"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Generuje deklarację dostępności z podanych danych (poziom zgodności jako samoocena, data, kontakt, organ nadzoru) i wyświetla ją przez shortcode na stronie. Sprawdza również trzy wzorce w zapisanej treści maksymalnie 20 opublikowanych stron, wpisów i produktów. Kontrola nie zastępuje badania według WCAG ani EN 301 549 i nie ocenia, czy ustawa BFSG dotyczy Twojej oferty."
+      ],
+      "Bereiche": [
+        "Sekcje"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Samoocena, w zakładce „Deklaracja”"
+      ],
+      "höchstens 20 je Lauf": [
+        "maksymalnie 20 na przebieg"
+      ],
+      "Seiten mit Befunden": [
+        "Strony z uwagami"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img bez alt, puste linki, pominięte poziomy nagłówków"
+      ],
+      "Letzter Lauf": [
+        "Ostatnie uruchomienie"
+      ],
+      "nie": [
+        "nigdy"
+      ],
+      "nur auf Anforderung": [
+        "tylko na żądanie"
+      ],
+      "Erklärung veröffentlichen": [
+        "Opublikuj deklarację"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "W zakładce „Deklaracja” wpisz poziom zgodności, dane kontaktowe i organ nadzoru."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Utwórz stronę (np. „Deklaracja dostępności”) i wstaw ten shortcode:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Dodaj link do strony w stopce."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Uruchom kontrolę wzorców teraz"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Sprawdzanie zapisanych treści …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Nie znaleziono opublikowanych stron, wpisów ani produktów: niczego nie sprawdzono."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Gotowe. Sprawdzone strony:"
+      ],
+      "mit Befunden:": [
+        "z uwagami:"
+      ],
+      "Fehler:": [
+        "Błąd:"
+      ],
+      "Angaben für die Erklärung": [
+        "Dane do deklaracji"
+      ],
+      "Name des Unternehmens": [
+        "Nazwa firmy"
+      ],
+      "Adresse der Website": [
+        "Adres witryny"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Stan zgodności"
+      ],
+      "— bitte wählen —": [
+        "— wybierz —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Twoja samoocena. Deklaruj wyłącznie to, co potwierdza weryfikacja Twojej witryny."
+      ],
+      "Datum der Selbstbewertung": [
+        "Data samooceny"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Deklaracja podaje tę datę jako datę sporządzenia. Bez zapisanej daty wyświetla się „jeszcze nie podano”."
+      ],
+      "Ansprechperson (optional)": [
+        "Osoba kontaktowa (opcjonalnie)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-mail do zgłoszeń"
+      ],
+      "Telefon (optional)": [
+        "Telefon (opcjonalnie)"
+      ],
+      "Durchsetzungsstelle": [
+        "Organ egzekwowania"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Uwaga: Pod tą nazwą deklaracja wyświetla obecnie zawsze wiersz i adres e-mail urzędu w Saksonii-Anhalt."
+      ],
+      "Deinstallation": [
+        "Dezinstalacja"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Usuń zapisane dane i raport z kontroli podczas usuwania wtyczki"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Domyślnie dane deklaracji i ostatni raport są zachowywane podczas dezinstalacji."
+      ],
+      "Speichern": [
+        "Zapisz"
+      ],
+      "Vorschau": [
+        "Podgląd"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Raport z ostatniej kontroli wzorców"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Brak kontroli ze sprawdzoną treścią. Uruchom ją w zakładce „Przegląd”."
+      ],
+      "Kennung des Laufs": [
+        "Identyfikator przebiegu"
+      ],
+      "Zeitpunkt": [
+        "Czas wykonania"
+      ],
+      "Prüfungen": [
+        "Kontrole"
+      ],
+      "Ergebnis": [
+        "Wynik"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "To nie certyfikat ani potwierdzenie zgodności z prawem: raport wymienia jedynie wyniki trzech wzorców."
+      ],
+      "Seite": [
+        "Strona"
+      ],
+      "Punkte": [
+        "Punkty"
+      ],
+      "Befunde": [
+        "Uwagi"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Deklaracja dostępności"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Tekst generowany przez wtyczkę: stan zgodności (samoocena), data sporządzenia, kontakt do zgłoszeń i organ egzekwowania. Wtyczka nie ocenia, czy Twoja oferta wymaga takiej deklaracji."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Techniczne katalogi wymagań dotyczących dostępnych treści internetowych. Pełne badanie obejmuje znacznie więcej niż trzy wzorce tej wtyczki."
+      ],
+      "Musterprüfung": [
+        "Kontrola wzorców"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Wyszukuje w zapisanej treści elementy img bez alt, linki bez tekstu i pominięte poziomy nagłówków. Nie bada motywu, menu, formularzy, kontrastów ani obsługi klawiaturą."
+      ],
+      "WM BFSG Kennzahlen": [
+        "Wskaźniki WM BFSG"
+      ],
+      "BFSG Kennzahl": [
+        "Wskaźnik BFSG"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Wyświetla zapisaną daną deklaracji lub wskaźnik z ostatniej kontroli wzorców."
+      ],
+      "Kennzahl": [
+        "Wskaźnik"
+      ],
+      "noch nicht angegeben": [
+        "jeszcze nie podano"
+      ],
+      "nicht geprüft": [
+        "nie sprawdzono"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Deklaracja dostępności (zgodnie z Załącznikiem 3 BFSG i art. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s dokłada starań, aby jej serwis internetowy (%2$s) był dostępny zgodnie z ustawą o wzmocnieniu dostępności (BFSG), normą europejską EN 301 549 V3.2.1 oraz wytycznymi dla dostępności treści internetowych (WCAG 2.2 poziom AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Stan zgodności z wymaganiami"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Zgodnie z samooceną operatora niniejszy serwis internetowy jest %s z wymaganiami zharmonizowanej normy europejskiej EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Stan zgodności nie został jeszcze podany."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Sporządzenie niniejszej deklaracji dostępności"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Niniejsza deklaracja została sporządzona dnia %s. Informacje o stanie zgodności opierają się na samoocenie operatora."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Data sporządzenia nie została jeszcze podana."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Informacje o stanie zgodności opierają się na samoocenie operatora."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Informacje zwrotne i dane kontaktowe (mechanizm kontaktu)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Czy zauważyli Państwo bariery w dostępie do treści serwisu %s? A może mają Państwo pytania dotyczące wdrażania dostępności? W każdej chwili mogą Państwo skontaktować się z naszą osobą odpowiedzialną:"
+      ],
+      "Ansprechpartner:": [
+        "Osoba kontaktowa:"
+      ],
+      "E-Mail:": [
+        "E-mail:"
+      ],
+      "Telefon:": [
+        "Telefon:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Postępowanie egzekucyjne i organ nadzoru rynku"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "W przypadku braku satysfakcjonującej odpowiedzi na zgłoszenia lub pytania dotyczące dostępności w terminie sześciu tygodni można zwrócić się do właściwego organu nadzoru rynku i egzekwowania:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Organ nadzoru ds. dostępności cyfrowej • Kraj związkowy Saksonia-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Niniejsza deklaracja została sporządzona dnia %s na podstawie samooceny. Nie opiera się na certyfikacji zewnętrznego podmiotu."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Niniejsza deklaracja opiera się na samoocenie. Nie opiera się na certyfikacji zewnętrznego podmiotu."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d obraz bez atrybutu alt (WCAG 1.1.1)",
+        "%d obrazy bez atrybutu alt (WCAG 1.1.1)",
+        "%d obrazów bez atrybutu alt (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d link bez tekstu (WCAG 2.4.4)",
+        "%d linki bez tekstu (WCAG 2.4.4)",
+        "%d linków bez tekstu (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d pominięty poziom nagłówka (WCAG 1.3.1)",
+        "%d pominięte poziomy nagłówków (WCAG 1.3.1)",
+        "%d pominiętych poziomów nagłówków (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Deklaracja dostępności (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Wyświetla deklarację dostępności z zapisanych ustawień lub opcjonalnych atrybutów bloku."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Nadpisz dane (opcjonalnie)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Użyj zapisanego ustawienia"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Deklaracja dostępności (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Wyświetla deklarację dostępności z zapisanych ustawień lub opcjonalnych atrybutów bloku."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "dostępność"
+      ],
+      "block keyword\u0004anlage 3": [
+        "załącznik 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "deklaracja"
+      ]
+    }
+  }
+}

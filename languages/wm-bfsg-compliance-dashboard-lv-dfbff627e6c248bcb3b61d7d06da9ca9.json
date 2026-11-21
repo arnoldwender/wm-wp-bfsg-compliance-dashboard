@@ -1,0 +1,378 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:35+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "lv",
+        "plural-forms": "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "WM BFSG 2025 Juridiskās atbilstības panelis un 3. pielikuma ģenerators"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Izveido piekļūstamības paziņojumu no uzturētāja datiem (īskods un bloks) un veic trīs paraugu pārbaudes līdz 20 lapu saglabātajam saturam."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Paraugu pārbaude un paziņojums"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Paraugu pārbaude vēl nav veikta"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Konstatējumi %1$d no %2$d pārbaudītajām lapām"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Trīs paraugu pārbaudes saglabātajā saturā – nav WCAG audits"
+      ],
+      "Geprüfte Seiten": [
+        "Pārbaudītās lapas"
+      ],
+      "Mit Befunden": [
+        "Ar konstatējumiem"
+      ],
+      "nicht angegeben": [
+        "nav norādīts"
+      ],
+      "Erklärter Stand": [
+        "Deklarētais līmenis"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Atvērt BFSG paneli"
+      ],
+      "WM BFSG Dashboard": [
+        "WM BFSG panelis"
+      ],
+      "BFSG Dashboard": [
+        "BFSG panelis"
+      ],
+      "Übersicht": [
+        "Pārskats"
+      ],
+      "Erklärung": [
+        "Paziņojums"
+      ],
+      "Prüfbericht": [
+        "Pārbaudes pārskats"
+      ],
+      "Begriffe": [
+        "Jēdzieni"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Paziņojums par piekļūstamību"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Izveidot paziņojumu no jūsu datiem &bull; trīs paraugu pārbaudes saglabātajā saturā"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Daļa no WM Suite spraudņu saimes"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Autonoms"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "ATBILSTĪBAS LĪMENIS NAV NORĀDĪTS"
+      ],
+      "Was dieses Plugin tut": [
+        "Ko dara šis spraudnis"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Tas izveido piekļūstamības paziņojumu no jūsu datiem (atbilstības līmenis kā pašnovērtējums, datums, kontakti, uzraudzības iestāde) un izvada to ar īskodu lapā. Turklāt tas pārbauda trīs paraugus līdz 20 publicētu lapu, ierakstu un produktu saglabātajā saturā. Pārbaude neaizstāj WCAG vai EN 301 549 auditu un nevērtē, vai BFSG attiecas uz jūsu piedāvājumu."
+      ],
+      "Bereiche": [
+        "Sadaļas"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Pašnovērtējums cilnē “Paziņojums”"
+      ],
+      "höchstens 20 je Lauf": [
+        "ne vairāk kā 20 vienā reizē"
+      ],
+      "Seiten mit Befunden": [
+        "Lapas ar konstatējumiem"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img bez alt, tukšas saites, izlaisti virsrakstu līmeņi"
+      ],
+      "Letzter Lauf": [
+        "Pēdējā pārbaude"
+      ],
+      "nie": [
+        "nekad"
+      ],
+      "nur auf Anforderung": [
+        "tikai pēc pieprasījuma"
+      ],
+      "Erklärung veröffentlichen": [
+        "Publicēt paziņojumu"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Cilnē “Paziņojums” ievadiet atbilstības līmeni, kontaktinformāciju un uzraudzības iestādi."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Izveidojiet lapu (piem., “Paziņojums par piekļūstamību”) un ievietojiet šo īskodu:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Pievienojiet lapas saiti kājenē."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Izpildīt paraugu pārbaudi tagad"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Pārbauda saglabāto saturu …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Nav atrastas publicētas lapas, ieraksti vai produkti: nekas netika pārbaudīts."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Gatavs. Pārbaudītās lapas:"
+      ],
+      "mit Befunden:": [
+        "ar konstatējumiem:"
+      ],
+      "Fehler:": [
+        "Kļūda:"
+      ],
+      "Angaben für die Erklärung": [
+        "Paziņojuma dati"
+      ],
+      "Name des Unternehmens": [
+        "Uzņēmuma nosaukums"
+      ],
+      "Adresse der Website": [
+        "Tīmekļa vietnes adrese"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Atbilstības statuss"
+      ],
+      "— bitte wählen —": [
+        "— lūdzu, izvēlieties —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Jūsu pašnovērtējums. Norādiet tikai to, ko pamato jūsu vietnes pārbaude."
+      ],
+      "Datum der Selbstbewertung": [
+        "Pašnovērtējuma datums"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Paziņojumā šis datums tiek norādīts kā sagatavošanas datums. Bez saglabāta datuma tiek rādīts “vēl nav norādīts”."
+      ],
+      "Ansprechperson (optional)": [
+        "Kontaktpersona (neobligāti)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-pasts atsauksmēm"
+      ],
+      "Telefon (optional)": [
+        "Tālrunis (neobligāti)"
+      ],
+      "Durchsetzungsstelle": [
+        "Izpildes iestāde"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Piezīme: Zem šī nosaukuma paziņojumā pašlaik vienmēr tiek rādīta Saksijas-Anhaltes iestādes rinda un e-pasta adrese."
+      ],
+      "Deinstallation": [
+        "Atinstalēšana"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Dzēšot spraudni, noņemt saglabātos datus un pārbaudes pārskatu"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Pēc noklusējuma paziņojuma dati un pēdējais pārskats atinstalējot tiek saglabāti."
+      ],
+      "Speichern": [
+        "Saglabāt"
+      ],
+      "Vorschau": [
+        "Priekšskatījums"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Pēdējās paraugu pārbaudes pārskats"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Vēl nav veikta pārbaude ar pārbaudītu saturu. Izpildiet to cilnē “Pārskats”."
+      ],
+      "Kennung des Laufs": [
+        "Izpildes identifikators"
+      ],
+      "Zeitpunkt": [
+        "Laiks"
+      ],
+      "Prüfungen": [
+        "Pārbaudes"
+      ],
+      "Ergebnis": [
+        "Rezultāts"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Nav sertifikāts un nav atzinums par juridisko atbilstību: pārskatā uzskaitīts tikai trīs paraugu atrastais."
+      ],
+      "Seite": [
+        "Lapa"
+      ],
+      "Punkte": [
+        "Punkti"
+      ],
+      "Befunde": [
+        "Konstatējumi"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Paziņojums par piekļūstamību"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Spraudņa ģenerētais teksts: atbilstības statuss (pašnovērtējums), sagatavošanas datums, atsauksmju kontakts un izpildes iestāde. Spraudnis nevērtē, vai jūsu pakalpojumam šāds paziņojums ir nepieciešams."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Piekļūstama tīmekļa satura tehnisko prasību katalogi. Pilna pārbaude aptver daudz vairāk nekā šī spraudņa trīs paraugus."
+      ],
+      "Musterprüfung": [
+        "Paraugu pārbaude"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Meklē saglabātajā saturā img elementus bez alt, saites bez teksta un izlaistus virsrakstu līmeņus. Tēmu, izvēlnes, veidlapas, kontrastus un tastatūras vadību tā neredz."
+      ],
+      "WM BFSG Kennzahlen": [
+        "WM BFSG rādītāji"
+      ],
+      "BFSG Kennzahl": [
+        "BFSG rādītājs"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Izvada saglabātu paziņojuma vērtību vai pēdējās paraugu pārbaudes rādītāju."
+      ],
+      "Kennzahl": [
+        "Rādītājs"
+      ],
+      "noch nicht angegeben": [
+        "vēl nav norādīts"
+      ],
+      "nicht geprüft": [
+        "nav pārbaudīts"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Paziņojums par piekļūstamību (saskaņā ar BFSG 3. pielikumu un EGBGB 246. pantu)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s cenšas padarīt savu tīmekļa vietni (%2$s) piekļūstamu saskaņā ar Piekļūstamības stiprināšanas likumu (BFSG), Eiropas standartu EN 301 549 V3.2.1 un Tīmekļa satura piekļūstamības vadlīnijām (WCAG 2.2 AA līmenis)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Atbilstības prasībām statuss"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Saskaņā ar uzturētāja pašnovērtējumu šī tīmekļa vietne ir %s harmonizētā Eiropas standarta EN 301 549 prasībām."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Atbilstības statuss vēl nav norādīts."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Šī piekļūstamības paziņojuma sagatavošana"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Šis paziņojums tika sagatavots %s. Informācija par atbilstības statusu balstās uz uzturētāja pašnovērtējumu."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Sagatavošanas datums vēl nav norādīts."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Informācija par atbilstības statusu balstās uz uzturētāja pašnovērtējumu."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Atsauksmes un kontaktinformācija (atsauksmju mehānisms)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Vai pamanījāt nepilnības piekļuvē %s saturam? Vai jums ir jautājumi par piekļūstamības ieviešanu? Jūs jebkurā laikā varat sazināties ar mūsu atbildīgo kontaktpersonu:"
+      ],
+      "Ansprechpartner:": [
+        "Kontaktpersona:"
+      ],
+      "E-Mail:": [
+        "E-pasts:"
+      ],
+      "Telefon:": [
+        "Tālrunis:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Izpildes procedūra un tirgus uzraudzības iestāde"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Ja sešu nedēļu laikā nesaņemat apmierinošu atbildi uz paziņojumiem vai jautājumiem par piekļūstamību, varat vērsties kompetentajā tirgus uzraudzības un izpildes iestādē:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Digitālās piekļūstamības uzraudzības iestāde • Saksijas-Anhaltes federālā zeme"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Šis paziņojums tika sagatavots %s, pamatojoties uz pašnovērtējumu. Tā pamatā nav ārējas iestādes sertifikācija."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Šis paziņojums balstās uz pašnovērtējumu. Tā pamatā nav ārējas iestādes sertifikācija."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d attēls bez alt atribūta (WCAG 1.1.1)",
+        "%d attēli bez alt atribūta (WCAG 1.1.1)",
+        "%d attēlu bez alt atribūta (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d saite bez teksta (WCAG 2.4.4)",
+        "%d saites bez teksta (WCAG 2.4.4)",
+        "%d saišu bez teksta (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d izlaists virsraksta līmenis (WCAG 1.3.1)",
+        "%d izlaisti virsrakstu līmeņi (WCAG 1.3.1)",
+        "%d izlaistu virsrakstu līmeņu (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Paziņojums par piekļūstamību (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Parāda piekļūstamības paziņojumu no saglabātajiem iestatījumiem vai neobligātajiem bloka atribūtiem."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Pārrakstīt datus (neobligāti)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Izmantot saglabāto iestatījumu"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Paziņojums par piekļūstamību (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Parāda piekļūstamības paziņojumu no saglabātajiem iestatījumiem vai neobligātajiem bloka atribūtiem."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "piekļūstamība"
+      ],
+      "block keyword\u0004anlage 3": [
+        "3. pielikums"
+      ],
+      "block keyword\u0004accessibility": [
+        "paziņojums"
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+/* humanstxt.org */
+/* The humans responsible & technology colophon */
+
+# TEAM
+
+    Author: Arnold Wender
+
+    Built with: an agentic workflow (AI coding agents)
+# THANKS
+
+    To My Family -- For unconditional love, strength & continuous inspiration
+    WordPress Community & Core Contributors -- For democratizing publishing and powering the open web
+    Open Source Community -- For making software accessible to everyone
+
+# TECHNOLOGY COLOPHON
+
+    ## Architecture & Core
+    WordPress 6.4+ / 7.x
+    PHP 8.2+ (strict types, WordPress coding style)
+    WordPress options only (no plugin tables; opt-in cleanup on uninstall)
+    WP-CLI command, three REST routes and four developer hooks
+
+    ## Frontend & Block Editor
+    Gutenberg block wm/bfsg-anlage-3 with InspectorControls and ServerSideRender
+    WordPress 6.5+ Block Bindings and GenerateBlocks 2.x Dynamic Tag
+    Three shortcodes and self-hosted admin stylesheets (no CDN)
+
+    ## Quality
+    Standalone test suite, POT freshness check and mutation check on PHP 8.2 and 8.3
+    The plugin makes no BFSG, WCAG or DSGVO conformity assessment
+
+# SITE & PROJECT
+
+    Plugin: wm-bfsg-compliance-dashboard
+    Stack: WordPress Enterprise Extension
+    Standards: no runtime dependency on other plugins
+
+# CONTACT
+
+    Author Website: https://arnoldwender.com
+    Repository: https://github.com/arnoldwender/wm-wp-bfsg-compliance-dashboard
+    Support: Zero support — reproducible bugs on GitHub Issues only (SUPPORT.md)
+
+# DEDICATION
+
+    Dedicated to my family with eternal love and gratitude.

@@ -1,0 +1,375 @@
+{
+  "translation-revision-date": "2026-11-21T13:56:15+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "nl_NL",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "WM BFSG 2025 Wettelijk Nalevingsdashboard & Bijlage 3 Generator"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Genereert de toegankelijkheidsverklaring op basis van de gegevens van de exploitant (shortcode en blok) en voert drie patrooncontroles uit op de opgeslagen inhoud van maximaal 20 pagina's."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Patrooncontrole & Verklaring"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Patrooncontrole nog niet uitgevoerd"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Bevindingen op %1$d van %2$d gecontroleerde pagina's"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Drie patrooncontroles in opgeslagen inhoud – geen WCAG-audit"
+      ],
+      "Geprüfte Seiten": [
+        "Gecontroleerde pagina's"
+      ],
+      "Mit Befunden": [
+        "Met bevindingen"
+      ],
+      "nicht angegeben": [
+        "niet opgegeven"
+      ],
+      "Erklärter Stand": [
+        "Verklaarde status"
+      ],
+      "BFSG Dashboard öffnen": [
+        "BFSG Dashboard openen"
+      ],
+      "WM BFSG Dashboard": [
+        "WM BFSG Dashboard"
+      ],
+      "BFSG Dashboard": [
+        "BFSG Dashboard"
+      ],
+      "Übersicht": [
+        "Overzicht"
+      ],
+      "Erklärung": [
+        "Verklaring"
+      ],
+      "Prüfbericht": [
+        "Controlerapport"
+      ],
+      "Begriffe": [
+        "Begrippen"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Toegankelijkheidsverklaring"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Verklaring uit uw gegevens genereren &bull; drie patrooncontroles in opgeslagen inhoud"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Onderdeel van de WM Suite plugin-familie"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Zelfstandig"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "NALEVINGSSTATUS NIET OPGEGEVEN"
+      ],
+      "Was dieses Plugin tut": [
+        "Wat deze plugin doet"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Hij genereert een toegankelijkheidsverklaring uit uw gegevens (nalevingsstatus als zelfbeoordeling, datum, contact, handhavingsinstantie) en toont deze via een shortcode op een pagina. Daarnaast controleert hij drie patronen in de opgeslagen inhoud van maximaal 20 gepubliceerde pagina's, berichten en producten. Deze controle vervangt geen WCAG- of EN 301 549-audit en beoordeelt niet of de BFSG op uw aanbod van toepassing is."
+      ],
+      "Bereiche": [
+        "Secties"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Zelfbeoordeling, op het tabblad ‘Verklaring’"
+      ],
+      "höchstens 20 je Lauf": [
+        "maximaal 20 per controle"
+      ],
+      "Seiten mit Befunden": [
+        "Pagina's met bevindingen"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img zonder alt, lege links, overgeslagen kopniveaus"
+      ],
+      "Letzter Lauf": [
+        "Laatste controle"
+      ],
+      "nie": [
+        "nooit"
+      ],
+      "nur auf Anforderung": [
+        "alleen op aanvraag"
+      ],
+      "Erklärung veröffentlichen": [
+        "Verklaring publiceren"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Vul op het tabblad ‘Verklaring’ de nalevingsstatus, contactgegevens en handhavingsinstantie in."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Maak een pagina aan (bijv. ‘Toegankelijkheidsverklaring’) en voeg deze shortcode in:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Plaats een link naar de pagina in de voettekst."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Patrooncontrole nu uitvoeren"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Opgeslagen inhoud wordt gecontroleerd …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Geen gepubliceerde pagina's, berichten of producten gevonden: niets gecontroleerd."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Gereed. Gecontroleerde pagina's:"
+      ],
+      "mit Befunden:": [
+        "met bevindingen:"
+      ],
+      "Fehler:": [
+        "Fout:"
+      ],
+      "Angaben für die Erklärung": [
+        "Gegevens voor de verklaring"
+      ],
+      "Name des Unternehmens": [
+        "Bedrijfsnaam"
+      ],
+      "Adresse der Website": [
+        "Websiteadres"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Status van overeenstemming"
+      ],
+      "— bitte wählen —": [
+        "— maak een keuze —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Uw zelfbeoordeling. Verklaar alleen wat een toetsing van uw website onderbouwt."
+      ],
+      "Datum der Selbstbewertung": [
+        "Datum van de zelfbeoordeling"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "De verklaring vermeldt deze datum als opsteldatum. Zonder opgeslagen datum staat er ‘nog niet opgegeven’."
+      ],
+      "Ansprechperson (optional)": [
+        "Contactpersoon (optioneel)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-mail voor feedback"
+      ],
+      "Telefon (optional)": [
+        "Telefoon (optioneel)"
+      ],
+      "Durchsetzungsstelle": [
+        "Handhavingsinstantie"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Let op: Onder deze naam toont de verklaring momenteel altijd een regel en e-mailadres van het kantoor in Saksen-Anhalt."
+      ],
+      "Deinstallation": [
+        "De-installatie"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Opgeslagen gegevens en controlerapport verwijderen bij het verwijderen van de plugin"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Standaard blijven de gegevens van de verklaring en het laatste rapport behouden bij de-installatie."
+      ],
+      "Speichern": [
+        "Opslaan"
+      ],
+      "Vorschau": [
+        "Voorbeeld"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Rapport van de laatste patrooncontrole"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Nog geen patrooncontrole met gecontroleerde inhoud. Voer deze uit op het tabblad ‘Overzicht’."
+      ],
+      "Kennung des Laufs": [
+        "Controle-ID"
+      ],
+      "Zeitpunkt": [
+        "Tijdstip"
+      ],
+      "Prüfungen": [
+        "Controles"
+      ],
+      "Ergebnis": [
+        "Resultaat"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Geen certificaat en geen uitspraak over wettelijke conformiteit: het rapport noemt enkel wat de drie patronen vonden."
+      ],
+      "Seite": [
+        "Pagina"
+      ],
+      "Punkte": [
+        "Score"
+      ],
+      "Befunde": [
+        "Bevindingen"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Toegankelijkheidsverklaring"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "De tekst die deze plugin opstelt: nalevingsstatus (uw zelfbeoordeling), opsteldatum, feedbackcontact en handhavingsinstantie. Of uw dienst zo'n verklaring nodig heeft, beoordeelt de plugin niet."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Technische richtlijnen voor toegankelijke webinhoud. Een volledige toetsing omvat veel meer dan de drie patronen van deze plugin."
+      ],
+      "Musterprüfung": [
+        "Patrooncontrole"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Zoekt in opgeslagen inhoud naar img-elementen zonder alt, links zonder tekst en overgeslagen kopniveaus. Thema, menu's, formulieren, contrasten en toetsenbordbediening worden niet bekeken."
+      ],
+      "WM BFSG Kennzahlen": [
+        "WM BFSG Kerncijfers"
+      ],
+      "BFSG Kennzahl": [
+        "BFSG Kerncijfer"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Toont een opgeslagen gegeven van de verklaring of een kerncijfer van de laatste patrooncontrole."
+      ],
+      "Kennzahl": [
+        "Kerncijfer"
+      ],
+      "noch nicht angegeben": [
+        "nog niet opgegeven"
+      ],
+      "nicht geprüft": [
+        "niet gecontroleerd"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Toegankelijkheidsverklaring (overeenkomstig Bijlage 3 BFSG & art. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s streeft ernaar haar website (%2$s) toegankelijk te maken in overeenstemming met het Barrierefreiheitsstärkungsgesetz (BFSG), de Europese norm EN 301 549 V3.2.1 en de Web Content Accessibility Guidelines (WCAG 2.2 niveau AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Status van overeenstemming met de vereisten"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Volgens de zelfbeoordeling van de exploitant is deze website %s met de vereisten van de geharmoniseerde Europese norm EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "De status van overeenstemming is nog niet opgegeven."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Opstelling van deze toegankelijkheidsverklaring"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Deze verklaring is opgesteld op %s. De gegevens over de status van overeenstemming berusten op een zelfbeoordeling van de exploitant."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "De opsteldatum is nog niet opgegeven."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "De gegevens over de status van overeenstemming berusten op een zelfbeoordeling van de exploitant."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Feedback en contactgegevens (feedbackmechanisme)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Heeft u tekortkomingen opgemerkt bij de toegankelijke toegang tot inhoud op %s? Of heeft u vragen over de uitvoering van de toegankelijkheid? U kunt te allen tijde contact opnemen met onze verantwoordelijke contactpersoon:"
+      ],
+      "Ansprechpartner:": [
+        "Contactpersoon:"
+      ],
+      "E-Mail:": [
+        "E-mail:"
+      ],
+      "Telefon:": [
+        "Telefoon:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Handhavingsprocedure & markttoezichtautoriteit"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Indien u binnen zes weken geen bevredigend antwoord ontvangt op meldingen of vragen over toegankelijkheid, kunt u zich wenden tot de bevoegde markttoezicht- en handhavingsinstantie:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Toezichthoudende autoriteit voor digitale toegankelijkheid • Deelstaat Saksen-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Deze verklaring is op %s opgesteld op basis van een zelfbeoordeling. Er ligt geen certificering door een externe instantie aan ten grondslag."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Deze verklaring berust op een zelfbeoordeling. Er ligt geen certificering door een externe instantie aan ten grondslag."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d afbeelding zonder alt-attribuut (WCAG 1.1.1)",
+        "%d afbeeldingen zonder alt-attribuut (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d link zonder tekst (WCAG 2.4.4)",
+        "%d links zonder tekst (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d overgeslagen kopniveau (WCAG 1.3.1)",
+        "%d overgeslagen kopniveaus (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Toegankelijkheidsverklaring (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Toont de toegankelijkheidsverklaring uit de opgeslagen instellingen of optionele blokattributen."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Gegevens overschrijven (optioneel)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Opgeslagen instelling gebruiken"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Toegankelijkheidsverklaring (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Toont de toegankelijkheidsverklaring uit de opgeslagen instellingen of optionele blokattributen."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "toegankelijkheid"
+      ],
+      "block keyword\u0004anlage 3": [
+        "bijlage 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "verklaring"
+      ]
+    }
+  }
+}

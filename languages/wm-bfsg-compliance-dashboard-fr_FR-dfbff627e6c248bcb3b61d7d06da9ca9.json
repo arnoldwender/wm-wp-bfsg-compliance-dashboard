@@ -1,0 +1,375 @@
+{
+  "translation-revision-date": "2026-11-21T13:56:15+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "fr_FR",
+        "plural-forms": "nplurals=2; plural=(n > 1);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "Tableau de bord de conformité légale WM BFSG 2025 & Générateur Annexe 3"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Génère la déclaration d'accessibilité à partir des informations de l'exploitant (shortcode et bloc) et exécute trois vérifications de modèles sur le contenu enregistré d'au plus 20 pages."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Vérification de modèles & Déclaration"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Vérification de modèles non encore exécutée"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Constats sur %1$d sur %2$d pages vérifiées"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Trois vérifications de modèles dans le contenu enregistré – pas un audit WCAG"
+      ],
+      "Geprüfte Seiten": [
+        "Pages vérifiées"
+      ],
+      "Mit Befunden": [
+        "Avec constats"
+      ],
+      "nicht angegeben": [
+        "non indiqué"
+      ],
+      "Erklärter Stand": [
+        "Niveau déclaré"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Ouvrir le tableau de bord BFSG"
+      ],
+      "WM BFSG Dashboard": [
+        "Tableau de bord WM BFSG"
+      ],
+      "BFSG Dashboard": [
+        "Tableau de bord BFSG"
+      ],
+      "Übersicht": [
+        "Aperçu"
+      ],
+      "Erklärung": [
+        "Déclaration"
+      ],
+      "Prüfbericht": [
+        "Rapport de contrôle"
+      ],
+      "Begriffe": [
+        "Glossaire"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Déclaration d'accessibilité"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Générer la déclaration à partir de vos données &bull; trois vérifications de modèles dans le contenu enregistré"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Membre de la famille d'extensions WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Autonome"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "NIVEAU DE CONFORMITÉ NON INDIQUÉ"
+      ],
+      "Was dieses Plugin tut": [
+        "Ce que fait cette extension"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Elle génère une déclaration d'accessibilité à partir de vos informations (niveau de conformité en auto-évaluation, date, contact, organisme de contrôle) et l'affiche par shortcode sur une page. Elle contrôle également trois modèles dans le contenu enregistré d'au plus 20 pages, articles et produits publiés. Ce contrôle ne remplace pas un audit selon WCAG ou EN 301 549 et n'évalue pas l'applicabilité de la BFSG à votre offre."
+      ],
+      "Bereiche": [
+        "Sections"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Auto-évaluation, dans l'onglet « Déclaration »"
+      ],
+      "höchstens 20 je Lauf": [
+        "20 maximum par exécution"
+      ],
+      "Seiten mit Befunden": [
+        "Pages avec constats"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img sans alt, liens vides, sauts de titres"
+      ],
+      "Letzter Lauf": [
+        "Dernière exécution"
+      ],
+      "nie": [
+        "jamais"
+      ],
+      "nur auf Anforderung": [
+        "sur demande uniquement"
+      ],
+      "Erklärung veröffentlichen": [
+        "Publier la déclaration"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Dans l'onglet « Déclaration », renseignez le niveau de conformité, le contact et l'organisme de contrôle."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Créez une page (p. ex. « Déclaration d'accessibilité ») et insérez ce shortcode :"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Ajoutez un lien vers la page dans le pied de page."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Lancer la vérification maintenant"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Analyse du contenu enregistré …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Aucune page, aucun article ni produit publié trouvé : rien n'a été vérifié."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Terminé. Pages vérifiées :"
+      ],
+      "mit Befunden:": [
+        "avec constats :"
+      ],
+      "Fehler:": [
+        "Erreur :"
+      ],
+      "Angaben für die Erklärung": [
+        "Informations pour la déclaration"
+      ],
+      "Name des Unternehmens": [
+        "Nom de l'entreprise"
+      ],
+      "Adresse der Website": [
+        "Adresse du site web"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Niveau de conformité"
+      ],
+      "— bitte wählen —": [
+        "— veuillez choisir —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Votre auto-évaluation. Ne déclarez que ce qu'une vérification de votre site justifie."
+      ],
+      "Datum der Selbstbewertung": [
+        "Date de l'auto-évaluation"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "La déclaration mentionne cette date comme date d'établissement. Sans date enregistrée, « non encore indiqué » s'affiche."
+      ],
+      "Ansprechperson (optional)": [
+        "Personne de contact (facultatif)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-mail pour les retours"
+      ],
+      "Telefon (optional)": [
+        "Téléphone (facultatif)"
+      ],
+      "Durchsetzungsstelle": [
+        "Organisme de contrôle"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Remarque : Sous ce nom, la déclaration affiche actuellement toujours une ligne et une adresse e-mail du service de Saxe-Anhalt."
+      ],
+      "Deinstallation": [
+        "Désinstallation"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Supprimer les informations enregistrées et le rapport lors de la suppression de l'extension"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Par défaut, les informations de la déclaration et le dernier rapport sont conservés lors de la désinstallation."
+      ],
+      "Speichern": [
+        "Enregistrer"
+      ],
+      "Vorschau": [
+        "Aperçu"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Rapport de la dernière vérification de modèles"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Aucune vérification avec contenu analysé pour le moment. Lancez-la dans l'onglet « Aperçu »."
+      ],
+      "Kennung des Laufs": [
+        "Identifiant de l'exécution"
+      ],
+      "Zeitpunkt": [
+        "Horodatage"
+      ],
+      "Prüfungen": [
+        "Contrôles"
+      ],
+      "Ergebnis": [
+        "Résultat"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Ni certificat ni attestation de conformité juridique : le rapport indique uniquement ce que les trois modèles ont relevé."
+      ],
+      "Seite": [
+        "Page"
+      ],
+      "Punkte": [
+        "Score"
+      ],
+      "Befunde": [
+        "Constats"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Déclaration d'accessibilité"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Le texte généré par cette extension : niveau de conformité (votre auto-évaluation), date d'établissement, contact de retour et organisme de contrôle. L'extension ne détermine pas si votre offre requiert une telle déclaration."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Référentiels techniques pour des contenus web accessibles. Une évaluation complète dépasse largement les trois modèles de cette extension."
+      ],
+      "Musterprüfung": [
+        "Vérification de modèles"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Recherche dans le contenu enregistré les éléments img sans alt, les liens sans texte et les niveaux de titres sautés. Ne couvre pas le thème, les menus, les formulaires, les contrastes ni le clavier."
+      ],
+      "WM BFSG Kennzahlen": [
+        "Indicateurs WM BFSG"
+      ],
+      "BFSG Kennzahl": [
+        "Indicateur BFSG"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Affiche une information enregistrée de la déclaration ou un indicateur de la dernière vérification."
+      ],
+      "Kennzahl": [
+        "Indicateur"
+      ],
+      "noch nicht angegeben": [
+        "non encore indiqué"
+      ],
+      "nicht geprüft": [
+        "non vérifié"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Déclaration d'accessibilité (conformément à l'annexe 3 BFSG & art. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s s'efforce de rendre son site web (%2$s) accessible conformément à la loi sur le renforcement de l'accessibilité (BFSG), à la norme européenne EN 301 549 V3.2.1 ainsi qu'aux directives pour l'accessibilité des contenus Web (WCAG 2.2 niveau AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. État de conformité aux exigences"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Selon l'auto-évaluation de l'exploitant, ce site web est %s aux exigences de la norme européenne harmonisée EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "L'état de conformité n'est pas encore indiqué."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Établissement de la présente déclaration d'accessibilité"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Cette déclaration a été établie le %s. Les indications relatives à l'état de conformité reposent sur une auto-évaluation de l'exploitant."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "La date d'établissement n'est pas encore indiquée."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Les indications relatives à l'état de conformité reposent sur une auto-évaluation de l'exploitant."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Retour d'information et coordonnées (mécanisme de retour)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Avez-vous constaté des manquements dans l'accès aux contenus de %s ? Ou avez-vous des questions sur la mise en œuvre de l'accessibilité ? Vous pouvez contacter à tout moment notre personne responsable :"
+      ],
+      "Ansprechpartner:": [
+        "Interlocuteur :"
+      ],
+      "E-Mail:": [
+        "E-mail :"
+      ],
+      "Telefon:": [
+        "Téléphone :"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Procédure d'application et autorité de surveillance du marché"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Si vous n'obtenez pas de réponse satisfaisante à vos signalements ou demandes concernant l'accessibilité dans un délai de six semaines, vous pouvez saisir l'organisme compétent de surveillance et d'application :"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Autorité de surveillance de l'accessibilité numérique • Land de Saxe-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Cette déclaration a été établie le %s sur la base d'une auto-évaluation. Elle ne repose sur aucune certification par un organisme externe."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Cette déclaration repose sur une auto-évaluation. Elle ne repose sur aucune certification par un organisme externe."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d image sans attribut alt (WCAG 1.1.1)",
+        "%d images sans attribut alt (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d lien sans texte (WCAG 2.4.4)",
+        "%d liens sans texte (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d niveau de titre sauté (WCAG 1.3.1)",
+        "%d niveaux de titre sautés (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Déclaration d'accessibilité (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Affiche la déclaration d'accessibilité à partir des réglages enregistrés ou d'attributs facultatifs du bloc."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Remplacer les informations (facultatif)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Utiliser le réglage enregistré"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Déclaration d'accessibilité (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Affiche la déclaration d'accessibilité à partir des réglages enregistrés ou d'attributs facultatifs du bloc."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "accessibilité"
+      ],
+      "block keyword\u0004anlage 3": [
+        "annexe 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "déclaration"
+      ]
+    }
+  }
+}

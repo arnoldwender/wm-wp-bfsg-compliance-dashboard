@@ -1,0 +1,381 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:35+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "sl_SI",
+        "plural-forms": "nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "Nadzorna plošča pravne skladnosti WM BFSG 2025 in generator Priloge 3"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Ustvari izjavo o dostopnosti iz podatkov upravljavca (kratka koda in blok) ter izvede tri vzorčne preglede shranjene vsebine do 20 strani."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Vzorčni pregled in izjava"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Vzorčni pregled še ni bil izveden"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Ugotovitve na %1$d od %2$d pregledanih strani"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Trije vzorčni pregledi v shranjeni vsebini – ni revizija WCAG"
+      ],
+      "Geprüfte Seiten": [
+        "Pregledane strani"
+      ],
+      "Mit Befunden": [
+        "Z ugotovitvami"
+      ],
+      "nicht angegeben": [
+        "ni navedeno"
+      ],
+      "Erklärter Stand": [
+        "Izjavljena raven"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Odpri nadzorno ploščo BFSG"
+      ],
+      "WM BFSG Dashboard": [
+        "Nadzorna plošča WM BFSG"
+      ],
+      "BFSG Dashboard": [
+        "Nadzorna plošča BFSG"
+      ],
+      "Übersicht": [
+        "Pregled"
+      ],
+      "Erklärung": [
+        "Izjava"
+      ],
+      "Prüfbericht": [
+        "Poročilo o pregledu"
+      ],
+      "Begriffe": [
+        "Pojmi"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Izjava o dostopnosti"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Ustvarite izjavo iz svojih podatkov &bull; trije vzorčni pregledi v shranjeni vsebini"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Del družine vtičnikov WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Samostojno"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "RAVEN SKLADNOSTI NI NAVEDENA"
+      ],
+      "Was dieses Plugin tut": [
+        "Kaj počne ta vtičnik"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Ustvari izjavo o dostopnosti iz vaših podatkov (raven skladnosti kot samoocena, datum, kontakt, organ za izvrševanje) in jo prikaže s kratko kodo na strani. Poleg tega preveri tri vzorce v shranjeni vsebini do 20 objavljenih strani, prispevkov in izdelkov. Pregled ne nadomešča presoje po WCAG ali EN 301 549 in ne ocenjuje, ali BFSG velja za vašo ponudbo."
+      ],
+      "Bereiche": [
+        "Razdelki"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Samoocena v zavihku »Izjava«"
+      ],
+      "höchstens 20 je Lauf": [
+        "največ 20 na zagon"
+      ],
+      "Seiten mit Befunden": [
+        "Strani z ugotovitvami"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img brez alt, prazne povezave, preskočeni naslovi"
+      ],
+      "Letzter Lauf": [
+        "Zadnji zagon"
+      ],
+      "nie": [
+        "nikoli"
+      ],
+      "nur auf Anforderung": [
+        "samo na zahtevo"
+      ],
+      "Erklärung veröffentlichen": [
+        "Objavi izjavo"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "V zavihku »Izjava« vnesite raven skladnosti, kontakt in organ za izvrševanje."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Ustvarite stran (npr. »Izjava o dostopnosti«) in vstavite to kratko kodo:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Povezavo do strani dodajte v nogo strani."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Zaženi vzorčni pregled zdaj"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Pregledujem shranjeno vsebino …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Objavljene strani, prispevki ali izdelki niso bili najdeni: nič ni bilo pregledano."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Končano. Pregledane strani:"
+      ],
+      "mit Befunden:": [
+        "z ugotovitvami:"
+      ],
+      "Fehler:": [
+        "Napaka:"
+      ],
+      "Angaben für die Erklärung": [
+        "Podatki za izjavo"
+      ],
+      "Name des Unternehmens": [
+        "Ime podjetja"
+      ],
+      "Adresse der Website": [
+        "Naslov spletišča"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Stanje skladnosti"
+      ],
+      "— bitte wählen —": [
+        "— izberite —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Vaša samoocena. Izjavite le tisto, kar podpira pregled vašega spletišča."
+      ],
+      "Datum der Selbstbewertung": [
+        "Datum samoocene"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Izjava navaja ta datum kot datum priprave. Brez shranjenega datuma je prikazano »še ni navedeno«."
+      ],
+      "Ansprechperson (optional)": [
+        "Kontaktna oseba (neobvezno)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-pošta za povratne informacije"
+      ],
+      "Telefon (optional)": [
+        "Telefon (neobvezno)"
+      ],
+      "Durchsetzungsstelle": [
+        "Organ za izvrševanje"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Opomba: Pod tem imenom izjava trenutno vedno izpiše vrstico in e-poštni naslov urada dežele Saška-Anhalt."
+      ],
+      "Deinstallation": [
+        "Odstranitev"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Ob izbrisu vtičnika odstrani shranjene podatke in poročilo o pregledu"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Privzeto se podatki izjave in zadnje poročilo ob odstranitvi ohranijo."
+      ],
+      "Speichern": [
+        "Shrani"
+      ],
+      "Vorschau": [
+        "Predogled"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Poročilo zadnjega vzorčnega pregleda"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Vzorčni pregled vsebine še ni bil izveden. Zaženite ga v zavihku »Pregled«."
+      ],
+      "Kennung des Laufs": [
+        "Oznaka zagona"
+      ],
+      "Zeitpunkt": [
+        "Čas"
+      ],
+      "Prüfungen": [
+        "Pregledi"
+      ],
+      "Ergebnis": [
+        "Rezultat"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Ni certifikat in ni izjava o pravni skladnosti: poročilo navaja le ugotovitve treh vzorcev."
+      ],
+      "Seite": [
+        "Stran"
+      ],
+      "Punkte": [
+        "Točke"
+      ],
+      "Befunde": [
+        "Ugotovitve"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Izjava o dostopnosti"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Besedilo, ki ga ustvari vtičnik: stanje skladnosti (samoocena), datum priprave, kontakt za odzive in organ za izvrševanje. Vtičnik ne presoja, ali vaša ponudba takšno izjavo potrebuje."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Tehnični katalogi zahtev za dostopne spletne vsebine. Pregled po njih obsega veliko več kot tri vzorce tega vtičnika."
+      ],
+      "Musterprüfung": [
+        "Vzorčni pregled"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "V shranjeni vsebini išče elemente img brez alt, povezave brez besedila in preskočene ravni naslovov. Teme, menijev, obrazcev, kontrastov in tipkovnice ne preverja."
+      ],
+      "WM BFSG Kennzahlen": [
+        "Kazalniki WM BFSG"
+      ],
+      "BFSG Kennzahl": [
+        "Kazalnik BFSG"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Izpiše shranjen podatek izjave ali kazalnik zadnjega vzorčnega pregleda."
+      ],
+      "Kennzahl": [
+        "Kazalnik"
+      ],
+      "noch nicht angegeben": [
+        "še ni navedeno"
+      ],
+      "nicht geprüft": [
+        "ni pregledano"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Izjava o dostopnosti (v skladu s Prilogo 3 BFSG in členom 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "Podjetje %1$s si prizadeva svoje spletišče (%2$s) narediti dostopno v skladu z Zakonom o krepitvi dostopnosti (BFSG), evropskim standardom EN 301 549 V3.2.1 ter Smernicami za dostopnost spletnih vsebin (WCAG 2.2 raven AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Stanje skladnosti z zahtevami"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Glede na samooceno upravljavca je to spletišče %s z zahtevami harmoniziranega evropskega standarda EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Stanje skladnosti še ni navedeno."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Priprava te izjave o dostopnosti"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Ta izjava je bila pripravljena dne %s. Navedbe o stanju skladnosti temeljijo na samooceni upravljavca."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Datum priprave še ni naveden."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Navedbe o stanju skladnosti temeljijo na samooceni upravljavca."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Povratne informacije in kontaktni podatki (mehanizem za povratne informacije)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Ste opazili pomanjkljivosti pri dostopu brez ovir do vsebin na %s? Ali imate vprašanja o uresničevanju dostopnosti? Kadar koli se lahko obrnete na našo pristojno kontaktno osebo:"
+      ],
+      "Ansprechpartner:": [
+        "Kontaktna oseba:"
+      ],
+      "E-Mail:": [
+        "E-pošta:"
+      ],
+      "Telefon:": [
+        "Telefon:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Postopek izvrševanja in organ za nadzor trga"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Če v šestih tednih ne prejmete zadovoljivega odgovora na sporočila ali vprašanja glede dostopnosti, se lahko obrnete na pristojni organ za nadzor trga in izvrševanje:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Nadzorni organ za digitalno dostopnost • Zvezna dežela Saška-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Ta izjava je bila pripravljena dne %s na podlagi samoocene. Ne temelji na certificiranju zunanjega organa."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Ta izjava temelji na samooceni. Ne temelji na certificiranju zunanjega organa."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d slika brez atributa alt (WCAG 1.1.1)",
+        "%d sliki brez atributa alt (WCAG 1.1.1)",
+        "%d slike brez atributa alt (WCAG 1.1.1)",
+        "%d slik brez atributa alt (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d povezava brez besedila (WCAG 2.4.4)",
+        "%d povezavi brez besedila (WCAG 2.4.4)",
+        "%d povezave brez besedila (WCAG 2.4.4)",
+        "%d povezav brez besedila (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d preskočena raven naslova (WCAG 1.3.1)",
+        "%d preskočeni ravni naslovov (WCAG 1.3.1)",
+        "%d preskočene ravni naslovov (WCAG 1.3.1)",
+        "%d preskočenih ravni naslovov (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Izjava o dostopnosti (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Prikaže izjavo o dostopnosti iz shranjenih nastavitev ali izbirnih atributov bloka."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Prepiši podatke (neobvezno)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Uporabi shranjeno nastavitev"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Izjava o dostopnosti (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Prikaže izjavo o dostopnosti iz shranjenih nastavitev ali izbirnih atributov bloka."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "dostopnost"
+      ],
+      "block keyword\u0004anlage 3": [
+        "priloga 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "izjava"
+      ]
+    }
+  }
+}

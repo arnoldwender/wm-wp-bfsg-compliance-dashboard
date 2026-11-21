@@ -1,0 +1,29 @@
+# WM BFSG Compliance Dashboard
+
+> WordPress plugin that builds the German accessibility statement (Erklärung zur Barrierefreiheit) from the operator's own settings and runs three pattern checks (images without alt, links without text, skipped heading levels) on the stored content of up to 20 published pages. A drafting aid for a self-assessment: not a WCAG or EN 301 549 audit, not a certificate, not a legal assessment.
+
+## Overview
+
+
+- Gutenberg block: `wm/bfsg-anlage-3` (`wm-bfsg-dashboard-blocks-editor` with InspectorControls and ServerSideRender)
+- Shortcodes: `[wm_barrierefreiheitserklaerung]`, `[wm_bfsg_anlage_3]`, `[wm_bfsg_statement]`
+- Block Bindings & GenerateBlocks 2.x: `wm-bfsg-dashboard/metrics`, `{{wm_bfsg_dashboard_metric}}`
+- Developer hooks: `wm_bfsg_dashboard_declaration_html`, `wm_bfsg_dashboard_audit_report`, `wm_bfsg_dashboard_ready`, `wm_bfsg_dashboard_audit_completed`
+- WP-CLI: `wp bfsg-audit scan`, `wp bfsg-audit anlage3`
+- REST (administrators): `wm-bfsg-dashboard/v1` — `/run-audit`, `/preview-declaration`, `/audit-certificate`
+- Storage: WordPress options only (preserved on uninstall by default unless opt-in deletion is enabled); no custom tables, no outbound requests
+- Documentation measured against the code: README.md, DEVELOPERS.md
+
+## Standards
+
+- Version 1.2.2.
+- PHP 8.2+ / strict types / WordPress coding style
+- Zero-CDN Invariant (self-hosted assets in `/assets/` and `/build/`)
+- Nonce & Capability Verification / Late Escaping
+- License: GPLv2 or later (`GPL-2.0-or-later`)
+
+## Official Links
+
+- Plugin Page: https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/
+- GitHub Repository: https://github.com/arnoldwender/wm-wp-bfsg-compliance-dashboard
+- Support & Liability: Zero support — reproducible bugs on https://github.com/arnoldwender/wm-wp-bfsg-compliance-dashboard/issues only · no private support · AS IS / no liability (SUPPORT.md)

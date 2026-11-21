@@ -1,0 +1,375 @@
+{
+  "translation-revision-date": "2026-11-21T13:56:15+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "es_ES",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "Panel de Cumplimiento Legal WM BFSG 2025 y Generador Anlage 3"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Genera la declaración de accesibilidad a partir de los datos del operador (shortcode y bloque) y ejecuta tres comprobaciones de patrones en el contenido guardado de hasta 20 páginas."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Comprobación de patrones y declaración"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Comprobación de patrones aún no ejecutada"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Hallazgos en %1$d de %2$d páginas revisadas"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Tres comprobaciones de patrones en el contenido guardado – no es una auditoría WCAG"
+      ],
+      "Geprüfte Seiten": [
+        "Páginas revisadas"
+      ],
+      "Mit Befunden": [
+        "Con hallazgos"
+      ],
+      "nicht angegeben": [
+        "no indicado"
+      ],
+      "Erklärter Stand": [
+        "Nivel declarado"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Abrir panel BFSG"
+      ],
+      "WM BFSG Dashboard": [
+        "Panel WM BFSG"
+      ],
+      "BFSG Dashboard": [
+        "Panel BFSG"
+      ],
+      "Übersicht": [
+        "Resumen"
+      ],
+      "Erklärung": [
+        "Declaración"
+      ],
+      "Prüfbericht": [
+        "Informe de revisión"
+      ],
+      "Begriffe": [
+        "Glosario"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Declaración de accesibilidad"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Generar declaración con sus datos &bull; tres comprobaciones de patrones en el contenido guardado"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parte de la familia de plugins de WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Autónomo"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "NIVEL DE CONFORMIDAD NO INDICADO"
+      ],
+      "Was dieses Plugin tut": [
+        "Qué hace este plugin"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Genera una declaración de accesibilidad a partir de sus datos (nivel de conformidad como autoevaluación, fecha, contacto y organismo de ejecución) y la muestra mediante shortcode en una página. Además revisa tres patrones en el contenido guardado de hasta 20 páginas, entradas y productos publicados. La revisión de patrones no sustituye una evaluación según WCAG o EN 301 549, y el plugin no evalúa si la BFSG se aplica a su oferta ni cómo."
+      ],
+      "Bereiche": [
+        "Secciones"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Autoevaluación, en la pestaña «Declaración»"
+      ],
+      "höchstens 20 je Lauf": [
+        "máximo 20 por ejecución"
+      ],
+      "Seiten mit Befunden": [
+        "Páginas con hallazgos"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img sin alt, enlaces vacíos, saltos de encabezado"
+      ],
+      "Letzter Lauf": [
+        "Última ejecución"
+      ],
+      "nie": [
+        "nunca"
+      ],
+      "nur auf Anforderung": [
+        "solo bajo petición"
+      ],
+      "Erklärung veröffentlichen": [
+        "Publicar declaración"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "En la pestaña «Declaración», introduzca el nivel de conformidad, el contacto y el organismo de ejecución."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Cree una página (p. ej., «Declaración de accesibilidad») e inserte este shortcode:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Enlace la página en el pie de página."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Ejecutar comprobación de patrones ahora"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Revisando contenidos guardados …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "No se encontraron páginas, entradas ni productos publicados: no se revisó nada."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Listo. Páginas revisadas:"
+      ],
+      "mit Befunden:": [
+        "con hallazgos:"
+      ],
+      "Fehler:": [
+        "Error:"
+      ],
+      "Angaben für die Erklärung": [
+        "Datos para la declaración"
+      ],
+      "Name des Unternehmens": [
+        "Nombre de la empresa"
+      ],
+      "Adresse der Website": [
+        "Dirección del sitio web"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Nivel de conformidad"
+      ],
+      "— bitte wählen —": [
+        "— seleccione una opción —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Su autoevaluación. Declare únicamente lo que respalde una revisión de su sitio web."
+      ],
+      "Datum der Selbstbewertung": [
+        "Fecha de la autoevaluación"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "La declaración indica esta fecha como fecha de elaboración. Sin fecha guardada se muestra «aún no indicado»."
+      ],
+      "Ansprechperson (optional)": [
+        "Persona de contacto (opcional)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "Correo electrónico para comentarios"
+      ],
+      "Telefon (optional)": [
+        "Teléfono (opcional)"
+      ],
+      "Durchsetzungsstelle": [
+        "Organismo de ejecución"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Nota: Bajo este nombre, la declaración imprime actualmente siempre una línea y una dirección de correo de la oficina de Sajonia-Anhalt."
+      ],
+      "Deinstallation": [
+        "Desinstalación"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Eliminar los datos guardados y el informe de revisión al borrar el plugin"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Por defecto, los datos de la declaración y el último informe de revisión se conservan al desinstalar."
+      ],
+      "Speichern": [
+        "Guardar"
+      ],
+      "Vorschau": [
+        "Vista previa"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Informe de la última comprobación de patrones"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Aún no hay ninguna comprobación con contenido revisado. Ejecútela en la pestaña «Resumen»."
+      ],
+      "Kennung des Laufs": [
+        "Identificador de ejecución"
+      ],
+      "Zeitpunkt": [
+        "Fecha y hora"
+      ],
+      "Prüfungen": [
+        "Comprobaciones"
+      ],
+      "Ergebnis": [
+        "Resultado"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "No es un certificado ni una afirmación de conformidad legal: el informe solo enumera lo encontrado por los tres patrones."
+      ],
+      "Seite": [
+        "Página"
+      ],
+      "Punkte": [
+        "Puntos"
+      ],
+      "Befunde": [
+        "Hallazgos"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Declaración de accesibilidad"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "El texto que genera este plugin: nivel de conformidad (su autoevaluación), fecha de elaboración, contacto para comentarios y organismo de ejecución. El plugin no evalúa si su oferta necesita dicha declaración ni en qué forma."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Catálogos técnicos de requisitos para contenidos web accesibles. Una evaluación completa abarca mucho más que los tres patrones de este plugin."
+      ],
+      "Musterprüfung": [
+        "Comprobación de patrones"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Busca en el contenido guardado elementos img sin alt, enlaces sin texto y niveles de encabezado saltados. No inspecciona el tema, menús, formularios, contrastes ni navegación por teclado."
+      ],
+      "WM BFSG Kennzahlen": [
+        "Métricas WM BFSG"
+      ],
+      "BFSG Kennzahl": [
+        "Métrica BFSG"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Muestra un dato guardado de la declaración o una métrica de la última comprobación de patrones."
+      ],
+      "Kennzahl": [
+        "Métrica"
+      ],
+      "noch nicht angegeben": [
+        "aún no indicado"
+      ],
+      "nicht geprüft": [
+        "no revisado"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Declaración de accesibilidad (conforme al Anexo 3 BFSG y art. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s se esfuerza por hacer accesible su sitio web (%2$s) de conformidad con la Ley de Refuerzo de la Accesibilidad (BFSG), la norma europea EN 301 549 V3.2.1 y las Pautas de Accesibilidad para el Contenido Web (WCAG 2.2 Nivel AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Estado de conformidad con los requisitos"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Según la autoevaluación del operador, este sitio web es %s respecto a los requisitos de la norma europea armonizada EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "El estado de conformidad aún no se ha indicado."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Elaboración de esta declaración de accesibilidad"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Esta declaración fue elaborada el %s. Los datos sobre el estado de conformidad se basan en una autoevaluación del operador."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "La fecha de elaboración aún no se ha indicado."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Los datos sobre el estado de conformidad se basan en una autoevaluación del operador."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Comentarios y datos de contacto (mecanismo de retroalimentación)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "¿Ha detectado deficiencias en el acceso sin barreras a los contenidos de %s? ¿O tiene preguntas sobre la implementación de la accesibilidad? Puede dirigirse en cualquier momento a nuestra persona responsable:"
+      ],
+      "Ansprechpartner:": [
+        "Persona de contacto:"
+      ],
+      "E-Mail:": [
+        "Correo electrónico:"
+      ],
+      "Telefon:": [
+        "Teléfono:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Procedimiento de aplicación y autoridad de vigilancia del mercado"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Si en un plazo de seis semanas no recibe una respuesta satisfactoria a comunicaciones o consultas sobre accesibilidad, puede dirigirse al organismo competente de vigilancia del mercado y aplicación:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Autoridad supervisora de accesibilidad digital • Estado federado de Sajonia-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Esta declaración se elaboró el %s sobre la base de una autoevaluación. No se basa en una certificación de un organismo externo."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Esta declaración se basa en una autoevaluación. No se basa en una certificación de un organismo externo."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d imagen sin atributo alt (WCAG 1.1.1)",
+        "%d imágenes sin atributo alt (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d enlace sin texto (WCAG 2.4.4)",
+        "%d enlaces sin texto (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d nivel de encabezado saltado (WCAG 1.3.1)",
+        "%d niveles de encabezado saltados (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Declaración de accesibilidad (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Muestra la declaración de accesibilidad a partir de los ajustes guardados o atributos opcionales del bloque."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Sobrescribir datos (opcional)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Usar ajuste guardado"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Declaración de accesibilidad (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Muestra la declaración de accesibilidad a partir de los ajustes guardados o atributos opcionales del bloque."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "accesibilidad"
+      ],
+      "block keyword\u0004anlage 3": [
+        "anexo 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "declaración"
+      ]
+    }
+  }
+}

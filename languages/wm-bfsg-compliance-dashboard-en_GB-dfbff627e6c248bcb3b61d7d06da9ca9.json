@@ -1,0 +1,375 @@
+{
+  "translation-revision-date": "2026-11-21T13:56:15+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "en_GB",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Builds the accessibility statement from the operator's details (shortcode & block) and runs three pattern checks on the stored content of up to 20 pages."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Pattern Check & Statement"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Pattern check not yet run"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Findings on %1$d of %2$d checked pages"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Three pattern checks in stored content – not a WCAG audit"
+      ],
+      "Geprüfte Seiten": [
+        "Checked pages"
+      ],
+      "Mit Befunden": [
+        "With findings"
+      ],
+      "nicht angegeben": [
+        "not stated"
+      ],
+      "Erklärter Stand": [
+        "Declared level"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Open BFSG Dashboard"
+      ],
+      "WM BFSG Dashboard": [
+        "WM BFSG Dashboard"
+      ],
+      "BFSG Dashboard": [
+        "BFSG Dashboard"
+      ],
+      "Übersicht": [
+        "Overview"
+      ],
+      "Erklärung": [
+        "Statement"
+      ],
+      "Prüfbericht": [
+        "Check report"
+      ],
+      "Begriffe": [
+        "Glossary"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Accessibility Statement"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Generate statement from your details &bull; three pattern checks in stored content"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Part of the WM Suite plugin family"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Standalone"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "CONFORMITY LEVEL NOT STATED"
+      ],
+      "Was dieses Plugin tut": [
+        "What this plugin does"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "It builds an accessibility statement from your details (conformity level as self-assessment, date, contact, enforcement body) and outputs it via shortcode on a page. It also checks the stored content of up to 20 published pages, posts and products for three patterns. The pattern check does not replace an assessment of the website against WCAG or EN 301 549, and the plugin does not judge whether or how the BFSG applies to your service."
+      ],
+      "Bereiche": [
+        "Sections"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Self-assessment, in the “Statement” tab"
+      ],
+      "höchstens 20 je Lauf": [
+        "at most 20 per run"
+      ],
+      "Seiten mit Befunden": [
+        "Pages with findings"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img without alt, empty links, skipped headings"
+      ],
+      "Letzter Lauf": [
+        "Last run"
+      ],
+      "nie": [
+        "never"
+      ],
+      "nur auf Anforderung": [
+        "on request only"
+      ],
+      "Erklärung veröffentlichen": [
+        "Publish statement"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Enter the conformity level, contact details and enforcement body in the “Statement” tab."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Create a page (e.g. “Accessibility Statement”) and insert this shortcode:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Link the page in the footer."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Run pattern check now"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Checking stored content …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "No published pages, posts or products found: nothing checked."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Done. Checked pages:"
+      ],
+      "mit Befunden:": [
+        "with findings:"
+      ],
+      "Fehler:": [
+        "Error:"
+      ],
+      "Angaben für die Erklärung": [
+        "Details for the statement"
+      ],
+      "Name des Unternehmens": [
+        "Company name"
+      ],
+      "Adresse der Website": [
+        "Website address"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Conformity level"
+      ],
+      "— bitte wählen —": [
+        "— please select —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Your self-assessment. Declare only what an evaluation of your website supports."
+      ],
+      "Datum der Selbstbewertung": [
+        "Date of self-assessment"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "The statement cites this date as its creation date. Without a saved date it displays “not yet stated”."
+      ],
+      "Ansprechperson (optional)": [
+        "Contact person (optional)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "Feedback e-mail"
+      ],
+      "Telefon (optional)": [
+        "Telephone (optional)"
+      ],
+      "Durchsetzungsstelle": [
+        "Enforcement body"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Note: Below this name, the statement currently always prints a line and an e-mail address of the Saxony-Anhalt office."
+      ],
+      "Deinstallation": [
+        "Uninstall"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Remove saved statement details and check report when deleting the plugin"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "By default, statement details and the last check report are preserved on uninstall."
+      ],
+      "Speichern": [
+        "Save"
+      ],
+      "Vorschau": [
+        "Preview"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Report of the last pattern check"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "No pattern check with checked content yet. Run it in the “Overview” tab."
+      ],
+      "Kennung des Laufs": [
+        "Run identifier"
+      ],
+      "Zeitpunkt": [
+        "Timestamp"
+      ],
+      "Prüfungen": [
+        "Checks"
+      ],
+      "Ergebnis": [
+        "Result"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Not a certificate and no statement of legal conformity: the report lists only what the three patterns found."
+      ],
+      "Seite": [
+        "Page"
+      ],
+      "Punkte": [
+        "Score"
+      ],
+      "Befunde": [
+        "Findings"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Accessibility statement"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "The text generated by this plugin: conformity level (your self-assessment), creation date, feedback contact and enforcement body. Whether and in what form your service requires such a statement is not assessed by the plugin."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Technical requirement catalogues for accessible web content. An evaluation against them covers far more than the three patterns of this plugin."
+      ],
+      "Musterprüfung": [
+        "Pattern check"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Searches stored content for img elements without alt, links without text and skipped heading levels. It does not inspect the theme, menus, forms, colour contrast or keyboard navigation."
+      ],
+      "WM BFSG Kennzahlen": [
+        "WM BFSG Metrics"
+      ],
+      "BFSG Kennzahl": [
+        "BFSG Metric"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Outputs a saved detail from the statement or a metric from the last pattern check."
+      ],
+      "Kennzahl": [
+        "Metric"
+      ],
+      "noch nicht angegeben": [
+        "not yet stated"
+      ],
+      "nicht geprüft": [
+        "not checked"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Accessibility Statement (pursuant to Annex 3 BFSG & Art. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s endeavours to make its website (%2$s) accessible in accordance with the German Accessibility Strengthening Act (BFSG), European standard EN 301 549 V3.2.1 and the Web Content Accessibility Guidelines (WCAG 2.2 Level AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Conformity status with the requirements"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Based on the operator's self-assessment, this website is %s with the requirements of harmonised European standard EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "The conformity status has not yet been stated."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Preparation of this accessibility statement"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "This statement was prepared on %s. The details regarding conformity status are based on a self-assessment by the operator."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "The preparation date has not yet been stated."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "The details regarding conformity status are based on a self-assessment by the operator."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Feedback and contact details (feedback mechanism)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Have you noticed any shortcomings in accessible access to content on %s? Or do you have questions about accessibility implementation? You can contact our responsible person at any time:"
+      ],
+      "Ansprechpartner:": [
+        "Contact person:"
+      ],
+      "E-Mail:": [
+        "E-mail:"
+      ],
+      "Telefon:": [
+        "Telephone:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Enforcement procedure & market surveillance authority"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "If you do not receive a satisfactory response to notifications or enquiries regarding accessibility within six weeks, you may contact the competent market surveillance and enforcement body:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Supervisory Authority for Digital Accessibility • State of Saxony-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "This statement was prepared on %s on the basis of a self-assessment. It is not based on certification by an external body."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "This statement is based on a self-assessment. It is not based on certification by an external body."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d image without alt attribute (WCAG 1.1.1)",
+        "%d images without alt attribute (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d link without text (WCAG 2.4.4)",
+        "%d links without text (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d skipped heading level (WCAG 1.3.1)",
+        "%d skipped heading levels (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Accessibility Statement (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Outputs the accessibility statement from saved settings or optional block attributes."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Override details (optional)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Use saved setting"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Accessibility Statement (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Outputs the accessibility statement from saved settings or optional block attributes."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "accessibility"
+      ],
+      "block keyword\u0004anlage 3": [
+        "annex 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "statement"
+      ]
+    }
+  }
+}

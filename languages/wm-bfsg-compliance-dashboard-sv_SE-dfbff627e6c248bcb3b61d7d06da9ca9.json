@@ -1,0 +1,375 @@
+{
+  "translation-revision-date": "2026-11-21T13:56:15+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "sv_SE",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "WM BFSG 2025 Juridisk Efterlevnadspanel & Bilaga 3-generator"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Skapar tillgänglighetsredogörelsen utifrån operatörens uppgifter (kortkod och block) och kör tre mönsterkontroller på det sparade innehållet på upp till 20 sidor."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Mönsterkontroll & Redogörelse"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Mönsterkontroll har ännu inte körts"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Avvikelser på %1$d av %2$d granskade sidor"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Tre mönsterkontroller i sparat innehåll – ingen WCAG-revision"
+      ],
+      "Geprüfte Seiten": [
+        "Granskade sidor"
+      ],
+      "Mit Befunden": [
+        "Med avvikelser"
+      ],
+      "nicht angegeben": [
+        "ej angivet"
+      ],
+      "Erklärter Stand": [
+        "Deklarerad nivå"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Öppna BFSG-panelen"
+      ],
+      "WM BFSG Dashboard": [
+        "WM BFSG-panel"
+      ],
+      "BFSG Dashboard": [
+        "BFSG-panel"
+      ],
+      "Übersicht": [
+        "Översikt"
+      ],
+      "Erklärung": [
+        "Redogörelse"
+      ],
+      "Prüfbericht": [
+        "Kontrollrapport"
+      ],
+      "Begriffe": [
+        "Begrepp"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Tillgänglighetsredogörelse"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Skapa redogörelse från dina uppgifter &bull; tre mönsterkontroller i sparat innehåll"
+      ],
+      "Part of the WM Suite plugin family": [
+        "En del av WM Suites tilläggsfamilj"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Fristående"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "EFTERLEVNADSNIVÅ EJ ANGIVEN"
+      ],
+      "Was dieses Plugin tut": [
+        "Vad detta tillägg gör"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Det skapar en tillgänglighetsredogörelse utifrån dina uppgifter (efterlevnadsnivå som självbedömning, datum, kontakt, tillsynsmyndighet) och visar den via kortkod på en sida. Dessutom kontrolleras tre mönster i det sparade innehållet på upp till 20 publicerade sidor, inlägg och produkter. Kontrollen ersätter inte en prövning enligt WCAG eller EN 301 549 och bedömer inte om BFSG gäller för ditt erbjudande."
+      ],
+      "Bereiche": [
+        "Avsnitt"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Självbedömning, under fliken ”Redogörelse”"
+      ],
+      "höchstens 20 je Lauf": [
+        "högst 20 per körning"
+      ],
+      "Seiten mit Befunden": [
+        "Sidor med avvikelser"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img utan alt, tomma länkar, överhoppade rubriknivåer"
+      ],
+      "Letzter Lauf": [
+        "Senaste körning"
+      ],
+      "nie": [
+        "aldrig"
+      ],
+      "nur auf Anforderung": [
+        "endast på begäran"
+      ],
+      "Erklärung veröffentlichen": [
+        "Publicera redogörelse"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Ange efterlevnadsnivå, kontakt och tillsynsmyndighet under fliken ”Redogörelse”."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Skapa en sida (t.ex. ”Tillgänglighetsredogörelse”) och infoga denna kortkod:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Länka sidan i sidfoten."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Kör mönsterkontroll nu"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Granskar sparat innehåll …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Inga publicerade sidor, inlägg eller produkter hittades: inget kontrollerades."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Klart. Granskade sidor:"
+      ],
+      "mit Befunden:": [
+        "med avvikelser:"
+      ],
+      "Fehler:": [
+        "Fel:"
+      ],
+      "Angaben für die Erklärung": [
+        "Uppgifter för redogörelsen"
+      ],
+      "Name des Unternehmens": [
+        "Företagets namn"
+      ],
+      "Adresse der Website": [
+        "Webbplatsens adress"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Status för förenlighet"
+      ],
+      "— bitte wählen —": [
+        "— välj —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Din självbedömning. Ange endast vad en granskning av din webbplats stöder."
+      ],
+      "Datum der Selbstbewertung": [
+        "Datum för självbedömning"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Redogörelsen anger detta datum som skapandedatum. Utan sparat datum visas ”ännu ej angivet”."
+      ],
+      "Ansprechperson (optional)": [
+        "Kontaktperson (valfritt)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-post för synpunkter"
+      ],
+      "Telefon (optional)": [
+        "Telefon (valfritt)"
+      ],
+      "Durchsetzungsstelle": [
+        "Tillsynsorgan"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Obs: Under detta namn skriver redogörelsen för närvarande alltid ut en rad och en e-postadress för myndigheten i Sachsen-Anhalt."
+      ],
+      "Deinstallation": [
+        "Avinstallation"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Ta bort sparade uppgifter och kontrollrapport när tillägget raderas"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Som standard behålls redogörelsens uppgifter och den senaste rapporten vid avinstallation."
+      ],
+      "Speichern": [
+        "Spara"
+      ],
+      "Vorschau": [
+        "Förhandsgranskning"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Rapport från senaste mönsterkontrollen"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Ingen mönsterkontroll med granskat innehåll ännu. Kör den under fliken ”Översikt”."
+      ],
+      "Kennung des Laufs": [
+        "Körnings-ID"
+      ],
+      "Zeitpunkt": [
+        "Tidpunkt"
+      ],
+      "Prüfungen": [
+        "Kontroller"
+      ],
+      "Ergebnis": [
+        "Resultat"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Inget certifikat och inget uttalande om rättslig efterlevnad: rapporten visar enbart vad de tre mönstren hittade."
+      ],
+      "Seite": [
+        "Sida"
+      ],
+      "Punkte": [
+        "Poäng"
+      ],
+      "Befunde": [
+        "Avvikelser"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Tillgänglighetsredogörelse"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Texten som tillägget genererar: förenlighetsstatus (din självbedömning), skapandedatum, kontakt för feedback och tillsynsorgan. Tillägget bedömer inte om ditt erbjudande kräver en sådan redogörelse."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Tekniska kravkataloger för tillgängligt webbinnehåll. En fullständig granskning omfattar betydligt mer än dessa tre mönster."
+      ],
+      "Musterprüfung": [
+        "Mönsterkontroll"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Söker i sparat innehåll efter img-element utan alt, länkar utan text och överhoppade rubriknivåer. Tema, menyer, formulär, kontraster och tangentbordsnavigering granskas inte."
+      ],
+      "WM BFSG Kennzahlen": [
+        "WM BFSG Nyckeltal"
+      ],
+      "BFSG Kennzahl": [
+        "BFSG Nyckeltal"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Visar en sparad uppgift från redogörelsen eller ett nyckeltal från senaste mönsterkontrollen."
+      ],
+      "Kennzahl": [
+        "Nyckeltal"
+      ],
+      "noch nicht angegeben": [
+        "ännu ej angivet"
+      ],
+      "nicht geprüft": [
+        "ej granskad"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Tillgänglighetsredogörelse (enligt bilaga 3 BFSG & art. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s strävar efter att göra sin webbplats (%2$s) tillgänglig i enlighet med Barrierefreiheitsstärkungsgesetz (BFSG), den europeiska standarden EN 301 549 V3.2.1 samt Web Content Accessibility Guidelines (WCAG 2.2 nivå AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Status för förenlighet med kraven"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Enligt operatörens självbedömning är denna webbplats %s med kraven i den harmoniserade europeiska standarden EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Status för förenlighet är ännu inte angiven."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Upprättande av denna tillgänglighetsredogörelse"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Denna redogörelse upprättades den %s. Uppgifterna om förenlighetsstatus baseras på en självbedömning av operatören."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Upprättandedatum är ännu inte angivet."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Uppgifterna om förenlighetsstatus baseras på en självbedömning av operatören."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Synpunkter och kontaktuppgifter (feedbackmekanism)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Har du upptäckt brister i den tillgängliga åtkomsten till innehåll på %s? Eller har du frågor om arbetet med tillgänglighet? Du kan när som helst kontakta vår ansvariga kontaktperson:"
+      ],
+      "Ansprechpartner:": [
+        "Kontaktperson:"
+      ],
+      "E-Mail:": [
+        "E-post:"
+      ],
+      "Telefon:": [
+        "Telefon:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Verkställighetsförfarande & marknadskontrollmyndighet"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Om du inte får ett tillfredsställande svar på meddelanden eller frågor om tillgänglighet inom sex veckor kan du vända dig till behörig marknadskontroll- och tillsynsmyndighet:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Tillsynsmyndighet för digital tillgänglighet • Förbundslandet Sachsen-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Denna redogörelse upprättades den %s på grundval av en självbedömning. Ingen certifiering av ett externt organ ligger till grund för den."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Denna redogörelse baseras på en självbedömning. Ingen certifiering av ett externt organ ligger till grund för den."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d bild utan alt-attribut (WCAG 1.1.1)",
+        "%d bilder utan alt-attribut (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d länk utan text (WCAG 2.4.4)",
+        "%d länkar utan text (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d överhoppad rubriknivå (WCAG 1.3.1)",
+        "%d överhoppade rubriknivåer (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Tillgänglighetsredogörelse (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Visar tillgänglighetsredogörelsen från sparade inställningar eller valfria blockattribut."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Åsidosätt uppgifter (valfritt)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Använd sparad inställning"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Tillgänglighetsredogörelse (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Visar tillgänglighetsredogörelsen från sparade inställningar eller valfria blockattribut."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "tillgänglighet"
+      ],
+      "block keyword\u0004anlage 3": [
+        "bilaga 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "redogörelse"
+      ]
+    }
+  }
+}

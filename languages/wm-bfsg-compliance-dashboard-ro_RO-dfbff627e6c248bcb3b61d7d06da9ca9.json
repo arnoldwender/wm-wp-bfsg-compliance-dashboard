@@ -1,0 +1,378 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:35+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "ro_RO",
+        "plural-forms": "nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "Panou de Conformitate Legală WM BFSG 2025 și Generator Anexa 3"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Generează declarația privind accesibilitatea din datele operatorului (shortcode și bloc) și execută trei verificări de șabloane pe conținutul salvat a cel mult 20 de pagini."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Verificare șabloane & Declarație"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Verificarea șabloanelor nu a fost încă rulată"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Constatări pe %1$d din %2$d pagini verificate"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Trei verificări de șabloane în conținutul salvat – nu este un audit WCAG"
+      ],
+      "Geprüfte Seiten": [
+        "Pagini verificate"
+      ],
+      "Mit Befunden": [
+        "Cu constatări"
+      ],
+      "nicht angegeben": [
+        "nespecificat"
+      ],
+      "Erklärter Stand": [
+        "Nivel declarat"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Deschide panoul BFSG"
+      ],
+      "WM BFSG Dashboard": [
+        "Panou WM BFSG"
+      ],
+      "BFSG Dashboard": [
+        "Panou BFSG"
+      ],
+      "Übersicht": [
+        "Prezentare generală"
+      ],
+      "Erklärung": [
+        "Declarație"
+      ],
+      "Prüfbericht": [
+        "Raport de verificare"
+      ],
+      "Begriffe": [
+        "Termeni"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Declarație privind accesibilitatea"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Generați declarația din datele dvs. &bull; trei verificări de șabloane în conținutul salvat"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parte din familia de module WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Independent"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "NIVELUL DE CONFORMITATE NU ESTE SPECIFICAT"
+      ],
+      "Was dieses Plugin tut": [
+        "Ce face acest modul"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Generează o declarație privind accesibilitatea din datele dvs. (nivelul de conformitate ca autoevaluare, data, contactul, organismul de aplicare) și o afișează prin shortcode pe o pagină. De asemenea, verifică trei șabloane în conținutul salvat a până la 20 de pagini, articole și produse publicate. Verificarea nu înlocuiește un audit conform WCAG sau EN 301 549 și nu evaluează dacă BFSG se aplică ofertei dvs."
+      ],
+      "Bereiche": [
+        "Secțiuni"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Autoevaluare, în fila „Declarație”"
+      ],
+      "höchstens 20 je Lauf": [
+        "maximum 20 per rulare"
+      ],
+      "Seiten mit Befunden": [
+        "Pagini cu constatări"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img fără alt, linkuri goale, titluri omise"
+      ],
+      "Letzter Lauf": [
+        "Ultima rulare"
+      ],
+      "nie": [
+        "niciodată"
+      ],
+      "nur auf Anforderung": [
+        "doar la cerere"
+      ],
+      "Erklärung veröffentlichen": [
+        "Publică declarația"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "În fila „Declarație”, introduceți nivelul de conformitate, datele de contact și organismul de aplicare."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Creați o pagină (de ex. „Declarație privind accesibilitatea”) și inserați acest shortcode:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Adăugați linkul către pagină în subsol."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Rulează verificarea șabloanelor acum"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Se verifică conținutul salvat …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Nu s-au găsit pagini, articole sau produse publicate: nimic nu a fost verificat."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Finalizat. Pagini verificate:"
+      ],
+      "mit Befunden:": [
+        "cu constatări:"
+      ],
+      "Fehler:": [
+        "Eroare:"
+      ],
+      "Angaben für die Erklärung": [
+        "Date pentru declarație"
+      ],
+      "Name des Unternehmens": [
+        "Numele companiei"
+      ],
+      "Adresse der Website": [
+        "Adresa site-ului web"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Stadiul conformității"
+      ],
+      "— bitte wählen —": [
+        "— selectați —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Autoevaluarea dvs. Declarați doar ceea ce susține o verificare a site-ului dvs."
+      ],
+      "Datum der Selbstbewertung": [
+        "Data autoevaluării"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Declarația menționează această dată ca dată de redactare. Fără dată salvată apare „încă nespecificat”."
+      ],
+      "Ansprechperson (optional)": [
+        "Persoană de contact (opțional)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-mail pentru feedback"
+      ],
+      "Telefon (optional)": [
+        "Telefon (opțional)"
+      ],
+      "Durchsetzungsstelle": [
+        "Organism de aplicare"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Notă: Sub acest nume, declarația afișează în prezent întotdeauna un rând și o adresă de e-mail a oficiului din Saxonia-Anhalt."
+      ],
+      "Deinstallation": [
+        "Dezinstalare"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Șterge datele salvate și raportul de verificare la eliminarea modulului"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "În mod implicit, datele declarației și ultimul raport sunt păstrate la dezinstalare."
+      ],
+      "Speichern": [
+        "Salvează"
+      ],
+      "Vorschau": [
+        "Previzualizare"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Raportul ultimei verificări de șabloane"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Nu există încă o verificare cu conținut analizat. Rulați-o din fila „Prezentare generală”."
+      ],
+      "Kennung des Laufs": [
+        "Identificator rulare"
+      ],
+      "Zeitpunkt": [
+        "Momentul rulării"
+      ],
+      "Prüfungen": [
+        "Verificări"
+      ],
+      "Ergebnis": [
+        "Rezultat"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Nu este certificat și nici atestare de conformitate legală: raportul indică doar constatările celor trei șabloane."
+      ],
+      "Seite": [
+        "Pagină"
+      ],
+      "Punkte": [
+        "Puncte"
+      ],
+      "Befunde": [
+        "Constatări"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Declarație privind accesibilitatea"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Textul generat de acest modul: stadiul conformității (autoevaluare), data redactării, contactul pentru feedback și organismul de aplicare. Modulul nu evaluează dacă oferta dvs. necesită o astfel de declarație."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Cataloage tehnice de cerințe pentru conținut web accesibil. O verificare completă acoperă mult mai mult decât cele trei șabloane ale acestui modul."
+      ],
+      "Musterprüfung": [
+        "Verificare șabloane"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Caută în conținutul salvat elemente img fără alt, linkuri fără text și niveluri de titluri sărite. Nu inspectează tema, meniurile, formularele, contrastele sau navigarea de la tastatură."
+      ],
+      "WM BFSG Kennzahlen": [
+        "Indicatori WM BFSG"
+      ],
+      "BFSG Kennzahl": [
+        "Indicator BFSG"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Afișează o valoare salvată din declarație sau un indicator al ultimei verificări."
+      ],
+      "Kennzahl": [
+        "Indicator"
+      ],
+      "noch nicht angegeben": [
+        "încă nespecificat"
+      ],
+      "nicht geprüft": [
+        "neverificat"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Declarație privind accesibilitatea (conform Anexei 3 BFSG și art. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s depune eforturi pentru a-și face site-ul web (%2$s) accesibil în conformitate cu Legea privind consolidarea accesibilității (BFSG), standardul european EN 301 549 V3.2.1 și Orientările privind accesibilitatea conținutului web (WCAG 2.2 nivelul AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Stadiul conformității cu cerințele"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Conform autoevaluării operatorului, acest site web este %s cu cerințele standardului european armonizat EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Stadiul conformității nu a fost încă specificat."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Elaborarea prezentei declarații privind accesibilitatea"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Această declarație a fost elaborată la data de %s. Informațiile privind stadiul conformității se bazează pe o autoevaluare a operatorului."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Data elaborării nu a fost încă specificată."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Informațiile privind stadiul conformității se bazează pe o autoevaluare a operatorului."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Feedback și date de contact (mecanism de feedback)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Ați observat deficiențe în accesul fără bariere la conținutul de pe %s? Sau aveți întrebări privind implementarea accesibilității? Puteți contacta oricând persoana noastră responsabilă:"
+      ],
+      "Ansprechpartner:": [
+        "Persoană de contact:"
+      ],
+      "E-Mail:": [
+        "E-mail:"
+      ],
+      "Telefon:": [
+        "Telefon:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Procedura de aplicare și autoritatea de supraveghere a pieței"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Dacă în termen de șase săptămâni nu primiți un răspuns satisfăcător la sesizările sau întrebările privind accesibilitatea, vă puteți adresa organismului competent de supraveghere și aplicare:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Autoritatea de supraveghere pentru accesibilitate digitală • Landul Saxonia-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Această declarație a fost elaborată la data de %s pe baza unei autoevaluări. Nu are la bază o certificare din partea unui organism extern."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Această declarație se bazează pe o autoevaluare. Nu are la bază o certificare din partea unui organism extern."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d imagine fără atribut alt (WCAG 1.1.1)",
+        "%d imagini fără atribut alt (WCAG 1.1.1)",
+        "%d de imagini fără atribut alt (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d link fără text (WCAG 2.4.4)",
+        "%d linkuri fără text (WCAG 2.4.4)",
+        "%d de linkuri fără text (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d nivel de titlu omis (WCAG 1.3.1)",
+        "%d niveluri de titlu omise (WCAG 1.3.1)",
+        "%d de niveluri de titlu omise (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Declarație privind accesibilitatea (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Afișează declarația privind accesibilitatea din setările salvate sau atributele opționale ale blocului."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Suprascrie datele (opțional)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Folosește setarea salvată"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Declarație privind accesibilitatea (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Afișează declarația privind accesibilitatea din setările salvate sau atributele opționale ale blocului."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "accesibilitate"
+      ],
+      "block keyword\u0004anlage 3": [
+        "anexa 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "declarație"
+      ]
+    }
+  }
+}

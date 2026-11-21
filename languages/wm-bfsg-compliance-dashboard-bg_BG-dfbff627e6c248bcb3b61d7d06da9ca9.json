@@ -1,0 +1,375 @@
+{
+  "translation-revision-date": "2026-11-21T13:56:15+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "bg_BG",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "Табло за правно съответствие WM BFSG 2025 и генератор по Приложение 3"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Създава декларацията за достъпност от данните на оператора (кратък код и блок) и изпълнява три шаблонни проверки върху запазеното съдържание на до 20 страници."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Шаблонна проверка и декларация"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Шаблонната проверка все още не е изпълнена"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Констатации на %1$d от %2$d проверени страници"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Три шаблонни проверки в запазеното съдържание – не е WCAG одит"
+      ],
+      "Geprüfte Seiten": [
+        "Проверени страници"
+      ],
+      "Mit Befunden": [
+        "С констатации"
+      ],
+      "nicht angegeben": [
+        "не е посочено"
+      ],
+      "Erklärter Stand": [
+        "Декларирано ниво"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Отвори BFSG таблото"
+      ],
+      "WM BFSG Dashboard": [
+        "WM BFSG табло"
+      ],
+      "BFSG Dashboard": [
+        "BFSG табло"
+      ],
+      "Übersicht": [
+        "Общ преглед"
+      ],
+      "Erklärung": [
+        "Декларация"
+      ],
+      "Prüfbericht": [
+        "Доклад от проверката"
+      ],
+      "Begriffe": [
+        "Понятия"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Декларация за достъпност"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Генериране на декларация от вашите данни &bull; три шаблонни проверки в запазеното съдържание"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Част от фамилията разширения на WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Хъб"
+      ],
+      "Standalone": [
+        "Самостоятелен"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "НИВОТО НА СЪОТВЕТСТВИЕ НЕ Е ПОСОЧЕНО"
+      ],
+      "Was dieses Plugin tut": [
+        "Какво прави това разширение"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "То генерира декларация за достъпност от вашите данни (ниво на съответствие като самооценка, дата, контакт, контролен орган) и я показва чрез кратък код на страница. Освен това проверява запазеното съдържание на до 20 публикувани страници, публикации и продукти за три шаблона. Проверката не замества оценка по WCAG или EN 301 549 и не преценява дали BFSG се прилага за вашата услуга."
+      ],
+      "Bereiche": [
+        "Раздели"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Самооценка в раздел „Декларация“"
+      ],
+      "höchstens 20 je Lauf": [
+        "най-много 20 на изпълнение"
+      ],
+      "Seiten mit Befunden": [
+        "Страници с констатации"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img без alt, празни връзки, пропуснати заглавия"
+      ],
+      "Letzter Lauf": [
+        "Последно изпълнение"
+      ],
+      "nie": [
+        "никога"
+      ],
+      "nur auf Anforderung": [
+        "само при поискване"
+      ],
+      "Erklärung veröffentlichen": [
+        "Публикуване на декларация"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "В раздел „Декларация“ въведете ниво на съответствие, контакт и контролен орган."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Създайте страница (напр. „Декларация за достъпност“) и поставете този кратък код:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Добавете връзка към страницата във футъра."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Изпълни шаблонната проверка сега"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Проверка на запазеното съдържание …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Не са намерени публикувани страници, публикации или продукти: нищо не е проверено."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Готово. Проверени страници:"
+      ],
+      "mit Befunden:": [
+        "с констатации:"
+      ],
+      "Fehler:": [
+        "Грешка:"
+      ],
+      "Angaben für die Erklärung": [
+        "Данни за декларацията"
+      ],
+      "Name des Unternehmens": [
+        "Име на компанията"
+      ],
+      "Adresse der Website": [
+        "Адрес на уебсайта"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Степен на съответствие"
+      ],
+      "— bitte wählen —": [
+        "— моля, изберете —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Вашата самооценка. Декларирайте само това, което проверката на уебсайта ви подкрепя."
+      ],
+      "Datum der Selbstbewertung": [
+        "Дата на самооценката"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Декларацията посочва тази дата като дата на изготвяне. Без запазена дата се изписва „все още не е посочено“."
+      ],
+      "Ansprechperson (optional)": [
+        "Лице за контакт (по избор)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "Имейл за обратна връзка"
+      ],
+      "Telefon (optional)": [
+        "Телефон (по избор)"
+      ],
+      "Durchsetzungsstelle": [
+        "Орган по правоприлагане"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Бележка: Под това име декларацията понастоящем винаги отпечатва ред и имейл адрес на службата в Саксония-Анхалт."
+      ],
+      "Deinstallation": [
+        "Деинсталиране"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Изтриване на запазените данни и доклада при премахване на разширението"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "По подразбиране данните за декларацията и последният доклад се запазват при деинсталиране."
+      ],
+      "Speichern": [
+        "Запазване"
+      ],
+      "Vorschau": [
+        "Преглед"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Доклад от последната шаблонна проверка"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Все още няма шаблонна проверка с проверено съдържание. Стартирайте я в раздел „Общ преглед“."
+      ],
+      "Kennung des Laufs": [
+        "Идентификатор на изпълнението"
+      ],
+      "Zeitpunkt": [
+        "Време"
+      ],
+      "Prüfungen": [
+        "Проверки"
+      ],
+      "Ergebnis": [
+        "Резултат"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Не е сертификат и не е правно становище за съответствие: докладът посочва само откритото от трите шаблона."
+      ],
+      "Seite": [
+        "Страница"
+      ],
+      "Punkte": [
+        "Точки"
+      ],
+      "Befunde": [
+        "Констатации"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Декларация за достъпност"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Текстът, който разширението създава: степен на съответствие (самооценка), дата на изготвяне, контакт за обратна връзка и орган по правоприлагане. Разширението не преценява дали услугата ви се нуждае от такава декларация."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Технически каталози с изисквания за достъпно уеб съдържание. Проверката по тях обхваща много повече от трите шаблона на това разширение."
+      ],
+      "Musterprüfung": [
+        "Шаблонна проверка"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Търси в запазеното съдържание елементи img без alt, връзки без текст и пропуснати нива на заглавия. Не проверява темата, менютата, формулярите, контрастите и клавиатурната навигация."
+      ],
+      "WM BFSG Kennzahlen": [
+        "WM BFSG Показатели"
+      ],
+      "BFSG Kennzahl": [
+        "BFSG Показател"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Извежда запазен параметър от декларацията или показател от последната проверка."
+      ],
+      "Kennzahl": [
+        "Показател"
+      ],
+      "noch nicht angegeben": [
+        "все още не е посочено"
+      ],
+      "nicht geprüft": [
+        "не е проверено"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Декларация за достъпност (съгласно Приложение 3 BFSG и чл. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s се стреми да направи своя уебсайт (%2$s) достъпен в съответствие със Закона за укрепване на достъпността (BFSG), европейския стандарт EN 301 549 V3.2.1 и Насоките за достъпност на уеб съдържанието (WCAG 2.2 ниво AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Степен на съответствие с изискванията"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Според самооценката на оператора този уебсайт е %s с изискванията на хармонизирания европейски стандарт EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Степента на съответствие все още не е посочена."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Изготвяне на настоящата декларация за достъпност"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Тази декларация е изготвена на %s. Данните относно степента на съответствие се основават на самооценка на оператора."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Датата на изготвяне все още не е посочена."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Данните относно степента на съответствие се основават на самооценка на оператора."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Обратна връзка и данни за контакт (механизъм за обратна връзка)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Забелязали ли сте нередности при достъпа до съдържание на %s? Или имате въпроси относно прилагането на достъпността? Можете по всяко време да се свържете с нашето отговорно лице:"
+      ],
+      "Ansprechpartner:": [
+        "Лице за контакт:"
+      ],
+      "E-Mail:": [
+        "Имейл:"
+      ],
+      "Telefon:": [
+        "Телефон:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Процедура по правоприлагане и орган за надзор на пазара"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Ако в рамките на шест седмици не получите задоволителен отговор на сигнали или запитвания относно достъпността, можете да се обърнете към компетентния орган за надзор на пазара и правоприлагане:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Надзорен орган за цифрова достъпност • Провинция Саксония-Анхалт"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Тази декларация е изготвена на %s въз основа на самооценка. Тя не се основава на сертификация от външен орган."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Тази декларация се основава на самооценка. Тя не се основава на сертификация от външен орган."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d изображение без атрибут alt (WCAG 1.1.1)",
+        "%d изображения без атрибут alt (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d връзка без текст (WCAG 2.4.4)",
+        "%d връзки без текст (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d пропуснато ниво на заглавие (WCAG 1.3.1)",
+        "%d пропуснати нива на заглавия (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Декларация за достъпност (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Показва декларацията за достъпност от запазените настройки или незадължителните атрибути на блока."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Презаписване на данни (по избор)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Използване на запазената настройка"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Декларация за достъпност (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Показва декларацията за достъпност от запазените настройки или незадължителните атрибути на блока."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "достъпност"
+      ],
+      "block keyword\u0004anlage 3": [
+        "приложение 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "декларация"
+      ]
+    }
+  }
+}
