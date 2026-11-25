@@ -1,0 +1,682 @@
+# Translation of wm-bfsg-compliance-dashboard in ro_RO
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-bfsg-compliance-dashboard 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-bfsg-"
+"compliance-dashboard\n"
+"POT-Creation-Date: 2026-11-21T12:56:13+00:00\n"
+"PO-Revision-Date: 2026-11-21 18:10+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-bfsg-"
+"compliance-dashboard/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-bfsg-"
+"compliance-dashboard/issues>\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && "
+"n%100<20)) ? 1 : 2);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-bfsg-compliance-dashboard\n"
+
+#. Plugin Name of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator"
+msgstr "Panou de Conformitate Legală WM BFSG 2025 și Generator Anexa 3"
+
+#. Plugin URI of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid ""
+"https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+msgstr ""
+"https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+
+#. Description of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid ""
+"Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers "
+"(Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten "
+"Inhalt von bis zu 20 Seiten durch."
+msgstr ""
+"Generează declarația privind accesibilitatea din datele operatorului "
+"(shortcode și bloc) și execută trei verificări de șabloane pe conținutul "
+"salvat a cel mult 20 de pagini."
+
+#. Author of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:93
+msgid "WM BFSG — Musterprüfung & Erklärung"
+msgstr "WM BFSG — Verificare șabloane & Declarație"
+
+#: includes/Admin/AdminDashboard.php:114
+msgid "Musterprüfung noch nicht ausgeführt"
+msgstr "Verificarea șabloanelor nu a fost încă rulată"
+
+#. translators: 1: items with findings, 2: items checked
+#: includes/Admin/AdminDashboard.php:117
+#, php-format
+msgid "Befunde auf %1$d von %2$d geprüften Seiten"
+msgstr "Constatări pe %1$d din %2$d pagini verificate"
+
+#: includes/Admin/AdminDashboard.php:121
+msgid "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit"
+msgstr ""
+"Trei verificări de șabloane în conținutul salvat – nu este un audit WCAG"
+
+#: includes/Admin/AdminDashboard.php:128 includes/Admin/AdminDashboard.php:304
+#: includes/Frontend/BlockIntegrations.php:73
+msgid "Geprüfte Seiten"
+msgstr "Pagini verificate"
+
+#: includes/Admin/AdminDashboard.php:132
+msgid "Mit Befunden"
+msgstr "Cu constatări"
+
+#: includes/Admin/AdminDashboard.php:135
+msgid "nicht angegeben"
+msgstr "nespecificat"
+
+#: includes/Admin/AdminDashboard.php:136 includes/Admin/AdminDashboard.php:299
+msgid "Erklärter Stand"
+msgstr "Nivel declarat"
+
+#: includes/Admin/AdminDashboard.php:142
+msgid "BFSG Dashboard öffnen"
+msgstr "Deschide panoul BFSG"
+
+#: includes/Admin/AdminDashboard.php:161
+msgid "WM BFSG Dashboard"
+msgstr "Panou WM BFSG"
+
+#: includes/Admin/AdminDashboard.php:162
+msgid "BFSG Dashboard"
+msgstr "Panou BFSG"
+
+#: includes/Admin/AdminDashboard.php:230
+msgid "Übersicht"
+msgstr "Prezentare generală"
+
+#: includes/Admin/AdminDashboard.php:231
+msgid "Erklärung"
+msgstr "Declarație"
+
+#: includes/Admin/AdminDashboard.php:232
+msgid "Prüfbericht"
+msgstr "Raport de verificare"
+
+#: includes/Admin/AdminDashboard.php:233 includes/Admin/AdminDashboard.php:494
+msgid "Begriffe"
+msgstr "Termeni"
+
+#: includes/Admin/AdminDashboard.php:261
+msgid "WM BFSG — Erklärung zur Barrierefreiheit"
+msgstr "WM BFSG — Declarație privind accesibilitatea"
+
+#: includes/Admin/AdminDashboard.php:262
+msgid ""
+"Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im "
+"gespeicherten Inhalt"
+msgstr ""
+"Generați declarația din datele dvs. &bull; trei verificări de șabloane în "
+"conținutul salvat"
+
+#: includes/Admin/AdminDashboard.php:266
+msgid "Part of the WM Suite plugin family"
+msgstr "Parte din familia de module WM Suite"
+
+#: includes/Admin/AdminDashboard.php:268
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:269
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/Admin/AdminDashboard.php:269
+msgid "Standalone"
+msgstr "Independent"
+
+#: includes/Admin/AdminDashboard.php:272
+msgid "STAND DER VEREINBARKEIT NICHT ANGEGEBEN"
+msgstr "NIVELUL DE CONFORMITATE NU ESTE SPECIFICAT"
+
+#: includes/Admin/AdminDashboard.php:279
+msgid "Was dieses Plugin tut"
+msgstr "Ce face acest modul"
+
+#: includes/Admin/AdminDashboard.php:282
+msgid ""
+"Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der "
+"Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und "
+"gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den "
+"gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und "
+"Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der "
+"Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und "
+"wie das BFSG für Ihr Angebot gilt."
+msgstr ""
+"Generează o declarație privind accesibilitatea din datele dvs. (nivelul de "
+"conformitate ca autoevaluare, data, contactul, organismul de aplicare) și o "
+"afișează prin shortcode pe o pagină. De asemenea, verifică trei șabloane în "
+"conținutul salvat a până la 20 de pagini, articole și produse publicate. "
+"Verificarea nu înlocuiește un audit conform WCAG sau EN 301 549 și nu "
+"evaluează dacă BFSG se aplică ofertei dvs."
+
+#: includes/Admin/AdminDashboard.php:287
+msgid "Bereiche"
+msgstr "Secțiuni"
+
+#: includes/Admin/AdminDashboard.php:301
+msgid "Selbstbewertung, im Tab „Erklärung“"
+msgstr "Autoevaluare, în fila „Declarație”"
+
+#: includes/Admin/AdminDashboard.php:306
+msgid "höchstens 20 je Lauf"
+msgstr "maximum 20 per rulare"
+
+#: includes/Admin/AdminDashboard.php:309
+#: includes/Frontend/BlockIntegrations.php:77
+msgid "Seiten mit Befunden"
+msgstr "Pagini cu constatări"
+
+#: includes/Admin/AdminDashboard.php:311
+msgid "img ohne alt, leere Links, Überschriftensprünge"
+msgstr "img fără alt, linkuri goale, titluri omise"
+
+#: includes/Admin/AdminDashboard.php:314
+#: includes/Frontend/BlockIntegrations.php:81
+msgid "Letzter Lauf"
+msgstr "Ultima rulare"
+
+#: includes/Admin/AdminDashboard.php:315
+#: includes/Frontend/BlockIntegrations.php:165
+msgid "nie"
+msgstr "niciodată"
+
+#: includes/Admin/AdminDashboard.php:316
+msgid "nur auf Anforderung"
+msgstr "doar la cerere"
+
+#: includes/Admin/AdminDashboard.php:321
+msgid "Erklärung veröffentlichen"
+msgstr "Publică declarația"
+
+#: includes/Admin/AdminDashboard.php:323
+msgid ""
+"Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle "
+"eintragen."
+msgstr ""
+"În fila „Declarație”, introduceți nivelul de conformitate, datele de contact "
+"și organismul de aplicare."
+
+#: includes/Admin/AdminDashboard.php:324
+msgid ""
+"Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen "
+"Shortcode einfügen:"
+msgstr ""
+"Creați o pagină (de ex. „Declarație privind accesibilitatea”) și inserați "
+"acest shortcode:"
+
+#: includes/Admin/AdminDashboard.php:325
+msgid "Die Seite im Footer verlinken."
+msgstr "Adăugați linkul către pagină în subsol."
+
+#: includes/Admin/AdminDashboard.php:328
+msgid "Musterprüfung jetzt ausführen"
+msgstr "Rulează verificarea șabloanelor acum"
+
+#: includes/Admin/AdminDashboard.php:343
+msgid "Prüfe gespeicherte Inhalte …"
+msgstr "Se verifică conținutul salvat …"
+
+#: includes/Admin/AdminDashboard.php:353
+msgid ""
+"Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts "
+"geprüft."
+msgstr ""
+"Nu s-au găsit pagini, articole sau produse publicate: nimic nu a fost "
+"verificat."
+
+#: includes/Admin/AdminDashboard.php:356
+msgid "Fertig. Geprüfte Seiten:"
+msgstr "Finalizat. Pagini verificate:"
+
+#: includes/Admin/AdminDashboard.php:356
+msgid "mit Befunden:"
+msgstr "cu constatări:"
+
+#: includes/Admin/AdminDashboard.php:359
+msgid "Fehler:"
+msgstr "Eroare:"
+
+#: includes/Admin/AdminDashboard.php:369
+msgid "Angaben für die Erklärung"
+msgstr "Date pentru declarație"
+
+#: includes/Admin/AdminDashboard.php:374 blocks-src/index.js:49
+msgid "Name des Unternehmens"
+msgstr "Numele companiei"
+
+#: includes/Admin/AdminDashboard.php:378 blocks-src/index.js:56
+msgid "Adresse der Website"
+msgstr "Adresa site-ului web"
+
+#: includes/Admin/AdminDashboard.php:382
+#: includes/Frontend/BlockIntegrations.php:65 blocks-src/index.js:63
+msgid "Stand der Vereinbarkeit"
+msgstr "Stadiul conformității"
+
+#: includes/Admin/AdminDashboard.php:390
+msgid "— bitte wählen —"
+msgstr "— selectați —"
+
+#: includes/Admin/AdminDashboard.php:395
+msgid ""
+"Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt."
+msgstr ""
+"Autoevaluarea dvs. Declarați doar ceea ce susține o verificare a site-ului "
+"dvs."
+
+#: includes/Admin/AdminDashboard.php:399
+#: includes/Frontend/BlockIntegrations.php:69
+msgid "Datum der Selbstbewertung"
+msgstr "Data autoevaluării"
+
+#: includes/Admin/AdminDashboard.php:406
+msgid ""
+"Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes "
+"Datum steht dort „noch nicht angegeben“."
+msgstr ""
+"Declarația menționează această dată ca dată de redactare. Fără dată salvată "
+"apare „încă nespecificat”."
+
+#: includes/Admin/AdminDashboard.php:410 blocks-src/index.js:79
+msgid "Ansprechperson (optional)"
+msgstr "Persoană de contact (opțional)"
+
+#: includes/Admin/AdminDashboard.php:414 blocks-src/index.js:86
+msgid "E-Mail für Rückmeldungen"
+msgstr "E-mail pentru feedback"
+
+#: includes/Admin/AdminDashboard.php:418 blocks-src/index.js:93
+msgid "Telefon (optional)"
+msgstr "Telefon (opțional)"
+
+#: includes/Admin/AdminDashboard.php:422 blocks-src/index.js:100
+msgid "Durchsetzungsstelle"
+msgstr "Organism de aplicare"
+
+#: includes/Admin/AdminDashboard.php:425
+msgid ""
+"Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile "
+"und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle."
+msgstr ""
+"Notă: Sub acest nume, declarația afișează în prezent întotdeauna un rând și "
+"o adresă de e-mail a oficiului din Saxonia-Anhalt."
+
+#: includes/Admin/AdminDashboard.php:429
+msgid "Deinstallation"
+msgstr "Dezinstalare"
+
+#: includes/Admin/AdminDashboard.php:433
+msgid "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen"
+msgstr ""
+"Șterge datele salvate și raportul de verificare la eliminarea modulului"
+
+#: includes/Admin/AdminDashboard.php:435
+msgid ""
+"Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht "
+"bei der Deinstallation erhalten."
+msgstr ""
+"În mod implicit, datele declarației și ultimul raport sunt păstrate la "
+"dezinstalare."
+
+#: includes/Admin/AdminDashboard.php:439
+msgid "Speichern"
+msgstr "Salvează"
+
+#: includes/Admin/AdminDashboard.php:444
+msgid "Vorschau"
+msgstr "Previzualizare"
+
+#: includes/Admin/AdminDashboard.php:455
+msgid "Prüfbericht der letzten Musterprüfung"
+msgstr "Raportul ultimei verificări de șabloane"
+
+#: includes/Admin/AdminDashboard.php:457
+msgid ""
+"Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ "
+"ausführen."
+msgstr ""
+"Nu există încă o verificare cu conținut analizat. Rulați-o din fila "
+"„Prezentare generală”."
+
+#: includes/Admin/AdminDashboard.php:461
+msgid "Kennung des Laufs"
+msgstr "Identificator rulare"
+
+#: includes/Admin/AdminDashboard.php:462
+msgid "Zeitpunkt"
+msgstr "Momentul rulării"
+
+#: includes/Admin/AdminDashboard.php:463
+msgid "Prüfungen"
+msgstr "Verificări"
+
+#: includes/Admin/AdminDashboard.php:464
+msgid "Ergebnis"
+msgstr "Rezultat"
+
+#: includes/Admin/AdminDashboard.php:467
+msgid ""
+"Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt "
+"nur, was die drei Muster gefunden haben."
+msgstr ""
+"Nu este certificat și nici atestare de conformitate legală: raportul indică "
+"doar constatările celor trei șabloane."
+
+#: includes/Admin/AdminDashboard.php:472
+msgid "Seite"
+msgstr "Pagină"
+
+#: includes/Admin/AdminDashboard.php:473
+msgid "Punkte"
+msgstr "Puncte"
+
+#: includes/Admin/AdminDashboard.php:474
+msgid "Befunde"
+msgstr "Constatări"
+
+#: includes/Admin/AdminDashboard.php:497
+msgid "Erklärung zur Barrierefreiheit"
+msgstr "Declarație privind accesibilitatea"
+
+#: includes/Admin/AdminDashboard.php:498
+msgid ""
+"Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre "
+"Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und "
+"Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche "
+"Erklärung braucht, beurteilt das Plugin nicht."
+msgstr ""
+"Textul generat de acest modul: stadiul conformității (autoevaluare), data "
+"redactării, contactul pentru feedback și organismul de aplicare. Modulul nu "
+"evaluează dacă oferta dvs. necesită o astfel de declarație."
+
+#: includes/Admin/AdminDashboard.php:501
+msgid "WCAG 2.2 / EN 301 549"
+msgstr "WCAG 2.2 / EN 301 549"
+
+#: includes/Admin/AdminDashboard.php:502
+msgid ""
+"Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung "
+"danach umfasst weit mehr als die drei Muster dieses Plugins."
+msgstr ""
+"Cataloage tehnice de cerințe pentru conținut web accesibil. O verificare "
+"completă acoperă mult mai mult decât cele trei șabloane ale acestui modul."
+
+#: includes/Admin/AdminDashboard.php:505
+msgid "Musterprüfung"
+msgstr "Verificare șabloane"
+
+#: includes/Admin/AdminDashboard.php:506
+msgid ""
+"Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text "
+"und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste "
+"und Tastaturbedienung sieht sie nicht."
+msgstr ""
+"Caută în conținutul salvat elemente img fără alt, linkuri fără text și "
+"niveluri de titluri sărite. Nu inspectează tema, meniurile, formularele, "
+"contrastele sau navigarea de la tastatură."
+
+#: includes/Frontend/BlockIntegrations.php:38
+msgid "WM BFSG Kennzahlen"
+msgstr "Indicatori WM BFSG"
+
+#: includes/Frontend/BlockIntegrations.php:52
+msgid "BFSG Kennzahl"
+msgstr "Indicator BFSG"
+
+#: includes/Frontend/BlockIntegrations.php:56
+msgid ""
+"Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten "
+"Musterprüfung aus."
+msgstr ""
+"Afișează o valoare salvată din declarație sau un indicator al ultimei "
+"verificări."
+
+#: includes/Frontend/BlockIntegrations.php:60
+msgid "Kennzahl"
+msgstr "Indicator"
+
+#: includes/Frontend/BlockIntegrations.php:138
+#: includes/Frontend/BlockIntegrations.php:142
+msgid "noch nicht angegeben"
+msgstr "încă nespecificat"
+
+#: includes/Frontend/BlockIntegrations.php:162
+msgid "nicht geprüft"
+msgstr "neverificat"
+
+#: includes/Legal/Anlage3Generator.php:59
+msgid "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)"
+msgstr ""
+"Declarație privind accesibilitatea (conform Anexei 3 BFSG și art. 246 EGBGB)"
+
+#. translators: 1: company name, 2: link to the website
+#: includes/Legal/Anlage3Generator.php:66
+#, php-format
+msgid ""
+"%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem "
+"Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 "
+"V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) "
+"barrierefrei zugänglich zu machen."
+msgstr ""
+"%1$s depune eforturi pentru a-și face site-ul web (%2$s) accesibil în "
+"conformitate cu Legea privind consolidarea accesibilității (BFSG), "
+"standardul european EN 301 549 V3.2.1 și Orientările privind accesibilitatea "
+"conținutului web (WCAG 2.2 nivelul AA)."
+
+#: includes/Legal/Anlage3Generator.php:71
+msgid "1. Stand der Vereinbarkeit mit den Anforderungen"
+msgstr "1. Stadiul conformității cu cerințele"
+
+#. translators: %s: compliance level
+#: includes/Legal/Anlage3Generator.php:74
+#, php-format
+msgid ""
+"Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den "
+"Vorgaben der harmonisierten europäischen Norm EN 301 549 %s."
+msgstr ""
+"Conform autoevaluării operatorului, acest site web este %s cu cerințele "
+"standardului european armonizat EN 301 549."
+
+#: includes/Legal/Anlage3Generator.php:76
+msgid "Der Stand der Vereinbarkeit ist noch nicht angegeben."
+msgstr "Stadiul conformității nu a fost încă specificat."
+
+#: includes/Legal/Anlage3Generator.php:79
+msgid "2. Erstellung dieser Erklärung zur Barrierefreiheit"
+msgstr "2. Elaborarea prezentei declarații privind accesibilitatea"
+
+#. translators: %s: assessment date
+#: includes/Legal/Anlage3Generator.php:82
+#, php-format
+msgid ""
+"Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der "
+"Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers."
+msgstr ""
+"Această declarație a fost elaborată la data de %s. Informațiile privind "
+"stadiul conformității se bazează pe o autoevaluare a operatorului."
+
+#: includes/Legal/Anlage3Generator.php:84
+msgid "Das Erstellungsdatum ist noch nicht angegeben."
+msgstr "Data elaborării nu a fost încă specificată."
+
+#: includes/Legal/Anlage3Generator.php:84
+msgid ""
+"Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung "
+"des Betreibers."
+msgstr ""
+"Informațiile privind stadiul conformității se bazează pe o autoevaluare a "
+"operatorului."
+
+#: includes/Legal/Anlage3Generator.php:87
+msgid "3. Feedback und Kontaktangaben (Feedback-Mechanismus)"
+msgstr "3. Feedback și date de contact (mecanism de feedback)"
+
+#. translators: %s: website URL
+#: includes/Legal/Anlage3Generator.php:89
+#, php-format
+msgid ""
+"Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? "
+"Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich "
+"jederzeit an unsere zuständige Ansprechperson wenden:"
+msgstr ""
+"Ați observat deficiențe în accesul fără bariere la conținutul de pe %s? Sau "
+"aveți întrebări privind implementarea accesibilității? Puteți contacta "
+"oricând persoana noastră responsabilă:"
+
+#: includes/Legal/Anlage3Generator.php:92
+msgid "Ansprechpartner:"
+msgstr "Persoană de contact:"
+
+#: includes/Legal/Anlage3Generator.php:94
+#: includes/Legal/Anlage3Generator.php:105
+msgid "E-Mail:"
+msgstr "E-mail:"
+
+#: includes/Legal/Anlage3Generator.php:96
+msgid "Telefon:"
+msgstr "Telefon:"
+
+#: includes/Legal/Anlage3Generator.php:100
+msgid "4. Durchsetzungsverfahren & Marktüberwachungsbehörde"
+msgstr "4. Procedura de aplicare și autoritatea de supraveghere a pieței"
+
+#: includes/Legal/Anlage3Generator.php:101
+msgid ""
+"Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb "
+"von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich "
+"an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:"
+msgstr ""
+"Dacă în termen de șase săptămâni nu primiți un răspuns satisfăcător la "
+"sesizările sau întrebările privind accesibilitatea, vă puteți adresa "
+"organismului competent de supraveghere și aplicare:"
+
+#: includes/Legal/Anlage3Generator.php:104
+msgid ""
+"Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt"
+msgstr ""
+"Autoritatea de supraveghere pentru accesibilitate digitală • Landul Saxonia-"
+"Anhalt"
+
+#. translators: %s: assessment date
+#: includes/Legal/Anlage3Generator.php:116
+#, php-format
+msgid ""
+"Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. "
+"Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde."
+msgstr ""
+"Această declarație a fost elaborată la data de %s pe baza unei autoevaluări. "
+"Nu are la bază o certificare din partea unui organism extern."
+
+#: includes/Legal/Anlage3Generator.php:121
+msgid ""
+"Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch "
+"eine externe Stelle liegt ihr nicht zugrunde."
+msgstr ""
+"Această declarație se bazează pe o autoevaluare. Nu are la bază o "
+"certificare din partea unui organism extern."
+
+#. translators: %d: number of images
+#: includes/Scanner/AccessibilityAuditor.php:81
+#, php-format
+msgid "%d Bild ohne alt-Attribut (WCAG 1.1.1)"
+msgid_plural "%d Bilder ohne alt-Attribut (WCAG 1.1.1)"
+msgstr[0] "%d imagine fără atribut alt (WCAG 1.1.1)"
+msgstr[1] "%d imagini fără atribut alt (WCAG 1.1.1)"
+msgstr[2] "%d de imagini fără atribut alt (WCAG 1.1.1)"
+
+#. translators: %d: number of links
+#: includes/Scanner/AccessibilityAuditor.php:89
+#, php-format
+msgid "%d Link ohne Text (WCAG 2.4.4)"
+msgid_plural "%d Links ohne Text (WCAG 2.4.4)"
+msgstr[0] "%d link fără text (WCAG 2.4.4)"
+msgstr[1] "%d linkuri fără text (WCAG 2.4.4)"
+msgstr[2] "%d de linkuri fără text (WCAG 2.4.4)"
+
+#. translators: %d: number of skipped heading levels
+#: includes/Scanner/AccessibilityAuditor.php:106
+#, php-format
+msgid "%d übersprungene Überschriftenebene (WCAG 1.3.1)"
+msgid_plural "%d übersprungene Überschriftenebenen (WCAG 1.3.1)"
+msgstr[0] "%d nivel de titlu omis (WCAG 1.3.1)"
+msgstr[1] "%d niveluri de titlu omise (WCAG 1.3.1)"
+msgstr[2] "%d de niveluri de titlu omise (WCAG 1.3.1)"
+
+#: blocks-src/index.js:12
+msgid "Erklärung zur Barrierefreiheit (BFSG)"
+msgstr "Declarație privind accesibilitatea (BFSG)"
+
+#: blocks-src/index.js:13
+msgid ""
+"Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder "
+"optionalen Block-Attributen aus."
+msgstr ""
+"Afișează declarația privind accesibilitatea din setările salvate sau "
+"atributele opționale ale blocului."
+
+#: blocks-src/index.js:45
+msgid "Angaben überschreiben (optional)"
+msgstr "Suprascrie datele (opțional)"
+
+#: blocks-src/index.js:67
+msgid "Gespeicherte Einstellung verwenden"
+msgstr "Folosește setarea salvată"
+
+#: blocks/anlage-3/block.json
+msgctxt "block title"
+msgid "Erklärung zur Barrierefreiheit (BFSG)"
+msgstr "Declarație privind accesibilitatea (BFSG)"
+
+#: blocks/anlage-3/block.json
+msgctxt "block description"
+msgid ""
+"Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder "
+"optionalen Block-Attributen aus."
+msgstr ""
+"Afișează declarația privind accesibilitatea din setările salvate sau "
+"atributele opționale ale blocului."
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "bfsg"
+msgstr "bfsg"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "barrierefreiheit"
+msgstr "accesibilitate"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "anlage 3"
+msgstr "anexa 3"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "accessibility"
+msgstr "declarație"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"

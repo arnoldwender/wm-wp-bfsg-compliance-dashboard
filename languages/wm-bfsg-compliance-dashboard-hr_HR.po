@@ -1,0 +1,672 @@
+# Translation of wm-bfsg-compliance-dashboard in hr_HR
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-bfsg-compliance-dashboard 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-bfsg-"
+"compliance-dashboard\n"
+"POT-Creation-Date: 2026-11-21T12:56:13+00:00\n"
+"PO-Revision-Date: 2026-11-21 18:10+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-bfsg-"
+"compliance-dashboard/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-bfsg-"
+"compliance-dashboard/issues>\n"
+"Language: hr_HR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-bfsg-compliance-dashboard\n"
+
+#. Plugin Name of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator"
+msgstr "Nadzorna ploča pravne usklađenosti WM BFSG 2025 i generator Priloga 3"
+
+#. Plugin URI of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid ""
+"https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+msgstr ""
+"https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+
+#. Description of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid ""
+"Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers "
+"(Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten "
+"Inhalt von bis zu 20 Seiten durch."
+msgstr ""
+"Izrađuje izjavu o pristupačnosti iz podataka operatera (kratki kod i blok) "
+"te provodi tri provjere uzoraka na spremljenom sadržaju do 20 stranica."
+
+#. Author of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:93
+msgid "WM BFSG — Musterprüfung & Erklärung"
+msgstr "WM BFSG — Provjera uzoraka i izjava"
+
+#: includes/Admin/AdminDashboard.php:114
+msgid "Musterprüfung noch nicht ausgeführt"
+msgstr "Provjera uzoraka još nije pokrenuta"
+
+#. translators: 1: items with findings, 2: items checked
+#: includes/Admin/AdminDashboard.php:117
+#, php-format
+msgid "Befunde auf %1$d von %2$d geprüften Seiten"
+msgstr "Nalazi na %1$d od %2$d provjerenih stranica"
+
+#: includes/Admin/AdminDashboard.php:121
+msgid "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit"
+msgstr "Tri provjere uzoraka u spremljenom sadržaju – nije WCAG revizija"
+
+#: includes/Admin/AdminDashboard.php:128 includes/Admin/AdminDashboard.php:304
+#: includes/Frontend/BlockIntegrations.php:73
+msgid "Geprüfte Seiten"
+msgstr "Provjerene stranice"
+
+#: includes/Admin/AdminDashboard.php:132
+msgid "Mit Befunden"
+msgstr "S nalazima"
+
+#: includes/Admin/AdminDashboard.php:135
+msgid "nicht angegeben"
+msgstr "nije navedeno"
+
+#: includes/Admin/AdminDashboard.php:136 includes/Admin/AdminDashboard.php:299
+msgid "Erklärter Stand"
+msgstr "Izjavljena razina"
+
+#: includes/Admin/AdminDashboard.php:142
+msgid "BFSG Dashboard öffnen"
+msgstr "Otvori BFSG nadzornu ploču"
+
+#: includes/Admin/AdminDashboard.php:161
+msgid "WM BFSG Dashboard"
+msgstr "WM BFSG nadzorna ploča"
+
+#: includes/Admin/AdminDashboard.php:162
+msgid "BFSG Dashboard"
+msgstr "BFSG nadzorna ploča"
+
+#: includes/Admin/AdminDashboard.php:230
+msgid "Übersicht"
+msgstr "Pregled"
+
+#: includes/Admin/AdminDashboard.php:231
+msgid "Erklärung"
+msgstr "Izjava"
+
+#: includes/Admin/AdminDashboard.php:232
+msgid "Prüfbericht"
+msgstr "Izvješće o provjeri"
+
+#: includes/Admin/AdminDashboard.php:233 includes/Admin/AdminDashboard.php:494
+msgid "Begriffe"
+msgstr "Pojmovnik"
+
+#: includes/Admin/AdminDashboard.php:261
+msgid "WM BFSG — Erklärung zur Barrierefreiheit"
+msgstr "WM BFSG — Izjava o pristupačnosti"
+
+#: includes/Admin/AdminDashboard.php:262
+msgid ""
+"Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im "
+"gespeicherten Inhalt"
+msgstr ""
+"Generiraj izjavu iz vlastitih podataka &bull; tri provjere uzoraka u "
+"spremljenom sadržaju"
+
+#: includes/Admin/AdminDashboard.php:266
+msgid "Part of the WM Suite plugin family"
+msgstr "Dio WM Suite obitelji dodataka"
+
+#: includes/Admin/AdminDashboard.php:268
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:269
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/Admin/AdminDashboard.php:269
+msgid "Standalone"
+msgstr "Samostalno"
+
+#: includes/Admin/AdminDashboard.php:272
+msgid "STAND DER VEREINBARKEIT NICHT ANGEGEBEN"
+msgstr "RAZINA USKLAĐENOSTI NIJE NAVEDENA"
+
+#: includes/Admin/AdminDashboard.php:279
+msgid "Was dieses Plugin tut"
+msgstr "Što ovaj dodatak radi"
+
+#: includes/Admin/AdminDashboard.php:282
+msgid ""
+"Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der "
+"Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und "
+"gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den "
+"gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und "
+"Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der "
+"Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und "
+"wie das BFSG für Ihr Angebot gilt."
+msgstr ""
+"Generira izjavu o pristupačnosti iz vaših podataka (razina usklađenosti kao "
+"samoprocjena, datum, kontakt, provedbeno tijelo) i ispisuje je putem kratkog "
+"koda na stranici. Također provjerava tri uzorka u spremljenom sadržaju do 20 "
+"objavljenih stranica, objava i proizvoda. Provjera ne zamjenjuje ispitivanje "
+"prema WCAG ili EN 301 549 niti ocjenjuje primjenjuje li se BFSG na vašu "
+"ponudu."
+
+#: includes/Admin/AdminDashboard.php:287
+msgid "Bereiche"
+msgstr "Odjeljci"
+
+#: includes/Admin/AdminDashboard.php:301
+msgid "Selbstbewertung, im Tab „Erklärung“"
+msgstr "Samoprocjena na kartici „Izjava”"
+
+#: includes/Admin/AdminDashboard.php:306
+msgid "höchstens 20 je Lauf"
+msgstr "najviše 20 po pokretanju"
+
+#: includes/Admin/AdminDashboard.php:309
+#: includes/Frontend/BlockIntegrations.php:77
+msgid "Seiten mit Befunden"
+msgstr "Stranice s nalazima"
+
+#: includes/Admin/AdminDashboard.php:311
+msgid "img ohne alt, leere Links, Überschriftensprünge"
+msgstr "img bez alt, prazne poveznice, preskočeni naslovi"
+
+#: includes/Admin/AdminDashboard.php:314
+#: includes/Frontend/BlockIntegrations.php:81
+msgid "Letzter Lauf"
+msgstr "Posljednje pokretanje"
+
+#: includes/Admin/AdminDashboard.php:315
+#: includes/Frontend/BlockIntegrations.php:165
+msgid "nie"
+msgstr "nikada"
+
+#: includes/Admin/AdminDashboard.php:316
+msgid "nur auf Anforderung"
+msgstr "samo na zahtjev"
+
+#: includes/Admin/AdminDashboard.php:321
+msgid "Erklärung veröffentlichen"
+msgstr "Objavi izjavu"
+
+#: includes/Admin/AdminDashboard.php:323
+msgid ""
+"Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle "
+"eintragen."
+msgstr ""
+"Na kartici „Izjava” unesite razinu usklađenosti, kontakt i provedbeno tijelo."
+
+#: includes/Admin/AdminDashboard.php:324
+msgid ""
+"Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen "
+"Shortcode einfügen:"
+msgstr ""
+"Izradite stranicu (npr. „Izjava o pristupačnosti”) i umetnite ovaj kratki "
+"kod:"
+
+#: includes/Admin/AdminDashboard.php:325
+msgid "Die Seite im Footer verlinken."
+msgstr "Povežite stranicu u podnožju."
+
+#: includes/Admin/AdminDashboard.php:328
+msgid "Musterprüfung jetzt ausführen"
+msgstr "Pokreni provjeru uzoraka sada"
+
+#: includes/Admin/AdminDashboard.php:343
+msgid "Prüfe gespeicherte Inhalte …"
+msgstr "Provjeravam spremljeni sadržaj …"
+
+#: includes/Admin/AdminDashboard.php:353
+msgid ""
+"Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts "
+"geprüft."
+msgstr ""
+"Nisu pronađene objavljene stranice, objave ni proizvodi: ništa nije "
+"provjereno."
+
+#: includes/Admin/AdminDashboard.php:356
+msgid "Fertig. Geprüfte Seiten:"
+msgstr "Gotovo. Provjerene stranice:"
+
+#: includes/Admin/AdminDashboard.php:356
+msgid "mit Befunden:"
+msgstr "s nalazima:"
+
+#: includes/Admin/AdminDashboard.php:359
+msgid "Fehler:"
+msgstr "Greška:"
+
+#: includes/Admin/AdminDashboard.php:369
+msgid "Angaben für die Erklärung"
+msgstr "Podaci za izjavu"
+
+#: includes/Admin/AdminDashboard.php:374 blocks-src/index.js:49
+msgid "Name des Unternehmens"
+msgstr "Naziv tvrtke"
+
+#: includes/Admin/AdminDashboard.php:378 blocks-src/index.js:56
+msgid "Adresse der Website"
+msgstr "Adresa web-stranice"
+
+#: includes/Admin/AdminDashboard.php:382
+#: includes/Frontend/BlockIntegrations.php:65 blocks-src/index.js:63
+msgid "Stand der Vereinbarkeit"
+msgstr "Stanje usklađenosti"
+
+#: includes/Admin/AdminDashboard.php:390
+msgid "— bitte wählen —"
+msgstr "— odaberite —"
+
+#: includes/Admin/AdminDashboard.php:395
+msgid ""
+"Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt."
+msgstr ""
+"Vaša samoprocjena. Izjavite samo ono što potkrepljuje provjera vaše web-"
+"stranice."
+
+#: includes/Admin/AdminDashboard.php:399
+#: includes/Frontend/BlockIntegrations.php:69
+msgid "Datum der Selbstbewertung"
+msgstr "Datum samoprocjene"
+
+#: includes/Admin/AdminDashboard.php:406
+msgid ""
+"Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes "
+"Datum steht dort „noch nicht angegeben“."
+msgstr ""
+"Izjava navodi ovaj datum kao datum izrade. Bez spremljenog datuma stoji „još "
+"nije navedeno”."
+
+#: includes/Admin/AdminDashboard.php:410 blocks-src/index.js:79
+msgid "Ansprechperson (optional)"
+msgstr "Kontakt osoba (neobavezno)"
+
+#: includes/Admin/AdminDashboard.php:414 blocks-src/index.js:86
+msgid "E-Mail für Rückmeldungen"
+msgstr "E-pošta za povratne informacije"
+
+#: includes/Admin/AdminDashboard.php:418 blocks-src/index.js:93
+msgid "Telefon (optional)"
+msgstr "Telefon (neobavezno)"
+
+#: includes/Admin/AdminDashboard.php:422 blocks-src/index.js:100
+msgid "Durchsetzungsstelle"
+msgstr "Provedbeno tijelo"
+
+#: includes/Admin/AdminDashboard.php:425
+msgid ""
+"Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile "
+"und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle."
+msgstr ""
+"Napomena: Ispod ovog naziva izjava trenutačno uvijek ispisuje redak i adresu "
+"e-pošte ureda u Saskoj-Anhaltu."
+
+#: includes/Admin/AdminDashboard.php:429
+msgid "Deinstallation"
+msgstr "Deinstalacija"
+
+#: includes/Admin/AdminDashboard.php:433
+msgid "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen"
+msgstr "Ukloni spremljene podatke i izvješće prilikom brisanja dodatka"
+
+#: includes/Admin/AdminDashboard.php:435
+msgid ""
+"Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht "
+"bei der Deinstallation erhalten."
+msgstr ""
+"Prema zadanim postavkama podaci izjave i zadnje izvješće zadržavaju se pri "
+"deinstalaciji."
+
+#: includes/Admin/AdminDashboard.php:439
+msgid "Speichern"
+msgstr "Spremi"
+
+#: includes/Admin/AdminDashboard.php:444
+msgid "Vorschau"
+msgstr "Pretpregled"
+
+#: includes/Admin/AdminDashboard.php:455
+msgid "Prüfbericht der letzten Musterprüfung"
+msgstr "Izvješće o posljednjoj provjeri uzoraka"
+
+#: includes/Admin/AdminDashboard.php:457
+msgid ""
+"Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ "
+"ausführen."
+msgstr ""
+"Još nema provjere s pregledanim sadržajem. Pokrenite je na kartici „Pregled”."
+
+#: includes/Admin/AdminDashboard.php:461
+msgid "Kennung des Laufs"
+msgstr "Identifikator pokretanja"
+
+#: includes/Admin/AdminDashboard.php:462
+msgid "Zeitpunkt"
+msgstr "Vrijeme"
+
+#: includes/Admin/AdminDashboard.php:463
+msgid "Prüfungen"
+msgstr "Provjere"
+
+#: includes/Admin/AdminDashboard.php:464
+msgid "Ergebnis"
+msgstr "Rezultat"
+
+#: includes/Admin/AdminDashboard.php:467
+msgid ""
+"Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt "
+"nur, was die drei Muster gefunden haben."
+msgstr ""
+"Nije certifikat ni izjava o pravnoj usklađenosti: izvješće navodi samo ono "
+"što su tri uzorka pronašla."
+
+#: includes/Admin/AdminDashboard.php:472
+msgid "Seite"
+msgstr "Stranica"
+
+#: includes/Admin/AdminDashboard.php:473
+msgid "Punkte"
+msgstr "Bodovi"
+
+#: includes/Admin/AdminDashboard.php:474
+msgid "Befunde"
+msgstr "Nalazi"
+
+#: includes/Admin/AdminDashboard.php:497
+msgid "Erklärung zur Barrierefreiheit"
+msgstr "Izjava o pristupačnosti"
+
+#: includes/Admin/AdminDashboard.php:498
+msgid ""
+"Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre "
+"Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und "
+"Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche "
+"Erklärung braucht, beurteilt das Plugin nicht."
+msgstr ""
+"Tekst koji dodatak stvara: stanje usklađenosti (samoprocjena), datum izrade, "
+"kontakt za povratne informacije i provedbeno tijelo. Dodatak ne procjenjuje "
+"treba li vaša ponuda takvu izjavu."
+
+#: includes/Admin/AdminDashboard.php:501
+msgid "WCAG 2.2 / EN 301 549"
+msgstr "WCAG 2.2 / EN 301 549"
+
+#: includes/Admin/AdminDashboard.php:502
+msgid ""
+"Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung "
+"danach umfasst weit mehr als die drei Muster dieses Plugins."
+msgstr ""
+"Tehnički katalozi zahtjeva za pristupačan web sadržaj. Potpuna provjera "
+"obuhvaća znatno više od tri uzorka ovog dodatka."
+
+#: includes/Admin/AdminDashboard.php:505
+msgid "Musterprüfung"
+msgstr "Provjera uzoraka"
+
+#: includes/Admin/AdminDashboard.php:506
+msgid ""
+"Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text "
+"und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste "
+"und Tastaturbedienung sieht sie nicht."
+msgstr ""
+"Pretražuje spremljeni sadržaj radi img elemenata bez alt atributa, poveznica "
+"bez teksta i preskočenih razina naslova. Temu, izbornike, obrasce, kontraste "
+"i tipkovnicu ne vidi."
+
+#: includes/Frontend/BlockIntegrations.php:38
+msgid "WM BFSG Kennzahlen"
+msgstr "WM BFSG pokazatelji"
+
+#: includes/Frontend/BlockIntegrations.php:52
+msgid "BFSG Kennzahl"
+msgstr "BFSG pokazatelj"
+
+#: includes/Frontend/BlockIntegrations.php:56
+msgid ""
+"Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten "
+"Musterprüfung aus."
+msgstr ""
+"Ispisuje spremljeni podatak izjave ili pokazatelj zadnje provjere uzoraka."
+
+#: includes/Frontend/BlockIntegrations.php:60
+msgid "Kennzahl"
+msgstr "Pokazatelj"
+
+#: includes/Frontend/BlockIntegrations.php:138
+#: includes/Frontend/BlockIntegrations.php:142
+msgid "noch nicht angegeben"
+msgstr "još nije navedeno"
+
+#: includes/Frontend/BlockIntegrations.php:162
+msgid "nicht geprüft"
+msgstr "nije provjereno"
+
+#: includes/Legal/Anlage3Generator.php:59
+msgid "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)"
+msgstr "Izjava o pristupačnosti (u skladu s Prilogom 3 BFSG i čl. 246 EGBGB)"
+
+#. translators: 1: company name, 2: link to the website
+#: includes/Legal/Anlage3Generator.php:66
+#, php-format
+msgid ""
+"%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem "
+"Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 "
+"V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) "
+"barrierefrei zugänglich zu machen."
+msgstr ""
+"%1$s nastoji svoju web-stranicu (%2$s) učiniti pristupačnom u skladu sa "
+"Zakonom o jačanju pristupačnosti (BFSG), europskom normom EN 301 549 V3.2.1 "
+"te Smjernicama za pristupačnost mrežnog sadržaja (WCAG 2.2 razina AA)."
+
+#: includes/Legal/Anlage3Generator.php:71
+msgid "1. Stand der Vereinbarkeit mit den Anforderungen"
+msgstr "1. Stanje usklađenosti sa zahtjevima"
+
+#. translators: %s: compliance level
+#: includes/Legal/Anlage3Generator.php:74
+#, php-format
+msgid ""
+"Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den "
+"Vorgaben der harmonisierten europäischen Norm EN 301 549 %s."
+msgstr ""
+"Prema samoprocjeni operatera ova je web-stranica %s sa zahtjevima usklađene "
+"europske norme EN 301 549."
+
+#: includes/Legal/Anlage3Generator.php:76
+msgid "Der Stand der Vereinbarkeit ist noch nicht angegeben."
+msgstr "Stanje usklađenosti još nije navedeno."
+
+#: includes/Legal/Anlage3Generator.php:79
+msgid "2. Erstellung dieser Erklärung zur Barrierefreiheit"
+msgstr "2. Sastavljanje ove izjave o pristupačnosti"
+
+#. translators: %s: assessment date
+#: includes/Legal/Anlage3Generator.php:82
+#, php-format
+msgid ""
+"Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der "
+"Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers."
+msgstr ""
+"Ova je izjava sastavljena dana %s. Podaci o stanju usklađenosti temelje se "
+"na samoprocjeni operatera."
+
+#: includes/Legal/Anlage3Generator.php:84
+msgid "Das Erstellungsdatum ist noch nicht angegeben."
+msgstr "Datum sastavljanja još nije naveden."
+
+#: includes/Legal/Anlage3Generator.php:84
+msgid ""
+"Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung "
+"des Betreibers."
+msgstr "Podaci o stanju usklađenosti temelje se na samoprocjeni operatera."
+
+#: includes/Legal/Anlage3Generator.php:87
+msgid "3. Feedback und Kontaktangaben (Feedback-Mechanismus)"
+msgstr ""
+"3. Povratne informacije i podaci za kontakt (mehanizam povratnih informacija)"
+
+#. translators: %s: website URL
+#: includes/Legal/Anlage3Generator.php:89
+#, php-format
+msgid ""
+"Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? "
+"Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich "
+"jederzeit an unsere zuständige Ansprechperson wenden:"
+msgstr ""
+"Jeste li primijetili nedostatke u pristupačnom pristupu sadržajima na %s? "
+"Ili imate pitanja o provedbi pristupačnosti? U svakom se trenutku možete "
+"obratiti našoj nadležnoj kontakt osobi:"
+
+#: includes/Legal/Anlage3Generator.php:92
+msgid "Ansprechpartner:"
+msgstr "Kontakt osoba:"
+
+#: includes/Legal/Anlage3Generator.php:94
+#: includes/Legal/Anlage3Generator.php:105
+msgid "E-Mail:"
+msgstr "E-pošta:"
+
+#: includes/Legal/Anlage3Generator.php:96
+msgid "Telefon:"
+msgstr "Telefon:"
+
+#: includes/Legal/Anlage3Generator.php:100
+msgid "4. Durchsetzungsverfahren & Marktüberwachungsbehörde"
+msgstr "4. Postupak provedbe i tijelo za nadzor tržišta"
+
+#: includes/Legal/Anlage3Generator.php:101
+msgid ""
+"Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb "
+"von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich "
+"an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:"
+msgstr ""
+"Ako u roku od šest tjedana ne dobijete zadovoljavajući odgovor na obavijesti "
+"ili upite o pristupačnosti, možete se obratiti nadležnom tijelu za nadzor "
+"tržišta i provedbu:"
+
+#: includes/Legal/Anlage3Generator.php:104
+msgid ""
+"Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt"
+msgstr ""
+"Nadzorno tijelo za digitalnu pristupačnost • Savezna zemlja Saska-Anhalt"
+
+#. translators: %s: assessment date
+#: includes/Legal/Anlage3Generator.php:116
+#, php-format
+msgid ""
+"Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. "
+"Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde."
+msgstr ""
+"Ova je izjava sastavljena dana %s na temelju samoprocjene. Ne temelji se na "
+"certifikaciji vanjskog tijela."
+
+#: includes/Legal/Anlage3Generator.php:121
+msgid ""
+"Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch "
+"eine externe Stelle liegt ihr nicht zugrunde."
+msgstr ""
+"Ova se izjava temelji na samoprocjeni. Ne temelji se na certifikaciji "
+"vanjskog tijela."
+
+#. translators: %d: number of images
+#: includes/Scanner/AccessibilityAuditor.php:81
+#, php-format
+msgid "%d Bild ohne alt-Attribut (WCAG 1.1.1)"
+msgid_plural "%d Bilder ohne alt-Attribut (WCAG 1.1.1)"
+msgstr[0] "%d slika bez alt atributa (WCAG 1.1.1)"
+msgstr[1] "%d slike bez alt atributa (WCAG 1.1.1)"
+msgstr[2] "%d slika bez alt atributa (WCAG 1.1.1)"
+
+#. translators: %d: number of links
+#: includes/Scanner/AccessibilityAuditor.php:89
+#, php-format
+msgid "%d Link ohne Text (WCAG 2.4.4)"
+msgid_plural "%d Links ohne Text (WCAG 2.4.4)"
+msgstr[0] "%d poveznica bez teksta (WCAG 2.4.4)"
+msgstr[1] "%d poveznice bez teksta (WCAG 2.4.4)"
+msgstr[2] "%d poveznica bez teksta (WCAG 2.4.4)"
+
+#. translators: %d: number of skipped heading levels
+#: includes/Scanner/AccessibilityAuditor.php:106
+#, php-format
+msgid "%d übersprungene Überschriftenebene (WCAG 1.3.1)"
+msgid_plural "%d übersprungene Überschriftenebenen (WCAG 1.3.1)"
+msgstr[0] "%d preskočena razina naslova (WCAG 1.3.1)"
+msgstr[1] "%d preskočene razine naslova (WCAG 1.3.1)"
+msgstr[2] "%d preskočenih razina naslova (WCAG 1.3.1)"
+
+#: blocks-src/index.js:12
+msgid "Erklärung zur Barrierefreiheit (BFSG)"
+msgstr "Izjava o pristupačnosti (BFSG)"
+
+#: blocks-src/index.js:13
+msgid ""
+"Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder "
+"optionalen Block-Attributen aus."
+msgstr ""
+"Prikazuje izjavu o pristupačnosti iz spremljenih postavki ili neobaveznih "
+"atributa bloka."
+
+#: blocks-src/index.js:45
+msgid "Angaben überschreiben (optional)"
+msgstr "Nadjačaj podatke (neobavezno)"
+
+#: blocks-src/index.js:67
+msgid "Gespeicherte Einstellung verwenden"
+msgstr "Koristi spremljenu postavku"
+
+#: blocks/anlage-3/block.json
+msgctxt "block title"
+msgid "Erklärung zur Barrierefreiheit (BFSG)"
+msgstr "Izjava o pristupačnosti (BFSG)"
+
+#: blocks/anlage-3/block.json
+msgctxt "block description"
+msgid ""
+"Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder "
+"optionalen Block-Attributen aus."
+msgstr ""
+"Prikazuje izjavu o pristupačnosti iz spremljenih postavki ili neobaveznih "
+"atributa bloka."
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "bfsg"
+msgstr "bfsg"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "barrierefreiheit"
+msgstr "pristupačnost"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "anlage 3"
+msgstr "prilog 3"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "accessibility"
+msgstr "izjava"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"

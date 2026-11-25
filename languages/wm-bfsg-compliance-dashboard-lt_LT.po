@@ -1,0 +1,670 @@
+# Translation of wm-bfsg-compliance-dashboard in lt_LT
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-bfsg-compliance-dashboard 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-bfsg-"
+"compliance-dashboard\n"
+"POT-Creation-Date: 2026-11-21T12:56:13+00:00\n"
+"PO-Revision-Date: 2026-11-21 18:10+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-bfsg-"
+"compliance-dashboard/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-bfsg-"
+"compliance-dashboard/issues>\n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : "
+"n%10>=2 && n%10<=9 && (n%100<11 || n%100>19) ? 1 : 2);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-bfsg-compliance-dashboard\n"
+
+#. Plugin Name of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator"
+msgstr "WM BFSG 2025 Teisinės atitikties skydelis ir 3 priedo generatorius"
+
+#. Plugin URI of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid ""
+"https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+msgstr ""
+"https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+
+#. Description of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid ""
+"Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers "
+"(Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten "
+"Inhalt von bis zu 20 Seiten durch."
+msgstr ""
+"Sudaro prieinamumo pareiškimą pagal operatoriaus duomenis (trumpasis kodas "
+"ir blokas) ir atlieka tris šablonų patikras iki 20 puslapių išsaugotame "
+"turinyje."
+
+#. Author of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:93
+msgid "WM BFSG — Musterprüfung & Erklärung"
+msgstr "WM BFSG — Šablonų patikra ir pareiškimas"
+
+#: includes/Admin/AdminDashboard.php:114
+msgid "Musterprüfung noch nicht ausgeführt"
+msgstr "Šablonų patikra dar nevykdyta"
+
+#. translators: 1: items with findings, 2: items checked
+#: includes/Admin/AdminDashboard.php:117
+#, php-format
+msgid "Befunde auf %1$d von %2$d geprüften Seiten"
+msgstr "Pastabos %1$d iš %2$d patikrintų puslapių"
+
+#: includes/Admin/AdminDashboard.php:121
+msgid "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit"
+msgstr "Trys šablonų patikros išsaugotame turinyje – tai nėra WCAG auditas"
+
+#: includes/Admin/AdminDashboard.php:128 includes/Admin/AdminDashboard.php:304
+#: includes/Frontend/BlockIntegrations.php:73
+msgid "Geprüfte Seiten"
+msgstr "Patikrinti puslapiai"
+
+#: includes/Admin/AdminDashboard.php:132
+msgid "Mit Befunden"
+msgstr "Su pastabomis"
+
+#: includes/Admin/AdminDashboard.php:135
+msgid "nicht angegeben"
+msgstr "nenurodyta"
+
+#: includes/Admin/AdminDashboard.php:136 includes/Admin/AdminDashboard.php:299
+msgid "Erklärter Stand"
+msgstr "Deklaruotas lygis"
+
+#: includes/Admin/AdminDashboard.php:142
+msgid "BFSG Dashboard öffnen"
+msgstr "Atidaryti BFSG skydelį"
+
+#: includes/Admin/AdminDashboard.php:161
+msgid "WM BFSG Dashboard"
+msgstr "WM BFSG skydelis"
+
+#: includes/Admin/AdminDashboard.php:162
+msgid "BFSG Dashboard"
+msgstr "BFSG skydelis"
+
+#: includes/Admin/AdminDashboard.php:230
+msgid "Übersicht"
+msgstr "Apžvalga"
+
+#: includes/Admin/AdminDashboard.php:231
+msgid "Erklärung"
+msgstr "Pareiškimas"
+
+#: includes/Admin/AdminDashboard.php:232
+msgid "Prüfbericht"
+msgstr "Patikros ataskaita"
+
+#: includes/Admin/AdminDashboard.php:233 includes/Admin/AdminDashboard.php:494
+msgid "Begriffe"
+msgstr "Sąvokos"
+
+#: includes/Admin/AdminDashboard.php:261
+msgid "WM BFSG — Erklärung zur Barrierefreiheit"
+msgstr "WM BFSG — Prieinamumo pareiškimas"
+
+#: includes/Admin/AdminDashboard.php:262
+msgid ""
+"Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im "
+"gespeicherten Inhalt"
+msgstr ""
+"Generuoti pareiškimą iš jūsų duomenų &bull; trys šablonų patikros "
+"išsaugotame turinyje"
+
+#: includes/Admin/AdminDashboard.php:266
+msgid "Part of the WM Suite plugin family"
+msgstr "WM Suite įskiepių šeimos dalis"
+
+#: includes/Admin/AdminDashboard.php:268
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:269
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/Admin/AdminDashboard.php:269
+msgid "Standalone"
+msgstr "Savarankiškas"
+
+#: includes/Admin/AdminDashboard.php:272
+msgid "STAND DER VEREINBARKEIT NICHT ANGEGEBEN"
+msgstr "ATITIKTIES LYGIS NENURODYTAS"
+
+#: includes/Admin/AdminDashboard.php:279
+msgid "Was dieses Plugin tut"
+msgstr "Ką daro šis įskiepis"
+
+#: includes/Admin/AdminDashboard.php:282
+msgid ""
+"Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der "
+"Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und "
+"gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den "
+"gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und "
+"Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der "
+"Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und "
+"wie das BFSG für Ihr Angebot gilt."
+msgstr ""
+"Jis sugeneruoja prieinamumo pareiškimą iš jūsų duomenų (atitikties lygis "
+"kaip įsivertinimas, data, kontaktai, priežiūros institucija) ir parodo jį "
+"trumpuoju kodu puslapyje. Taip pat tikrina tris šablonus iki 20 paskelbtų "
+"puslapių, įrašų ir produktų išsaugotame turinyje. Patikra nepakeičia WCAG ar "
+"EN 301 549 vertinimo ir nenustato, ar BFSG taikomas jūsų pasiūlymui."
+
+#: includes/Admin/AdminDashboard.php:287
+msgid "Bereiche"
+msgstr "Sritys"
+
+#: includes/Admin/AdminDashboard.php:301
+msgid "Selbstbewertung, im Tab „Erklärung“"
+msgstr "Įsivertinimas kortelėje „Pareiškimas“"
+
+#: includes/Admin/AdminDashboard.php:306
+msgid "höchstens 20 je Lauf"
+msgstr "daugiausia 20 per paleidimą"
+
+#: includes/Admin/AdminDashboard.php:309
+#: includes/Frontend/BlockIntegrations.php:77
+msgid "Seiten mit Befunden"
+msgstr "Puslapiai su pastabomis"
+
+#: includes/Admin/AdminDashboard.php:311
+msgid "img ohne alt, leere Links, Überschriftensprünge"
+msgstr "img be alt, tuščios nuorodos, praleisti antraščių lygiai"
+
+#: includes/Admin/AdminDashboard.php:314
+#: includes/Frontend/BlockIntegrations.php:81
+msgid "Letzter Lauf"
+msgstr "Paskutinis paleidimas"
+
+#: includes/Admin/AdminDashboard.php:315
+#: includes/Frontend/BlockIntegrations.php:165
+msgid "nie"
+msgstr "niekada"
+
+#: includes/Admin/AdminDashboard.php:316
+msgid "nur auf Anforderung"
+msgstr "tik pagal užklausą"
+
+#: includes/Admin/AdminDashboard.php:321
+msgid "Erklärung veröffentlichen"
+msgstr "Paskelbti pareiškimą"
+
+#: includes/Admin/AdminDashboard.php:323
+msgid ""
+"Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle "
+"eintragen."
+msgstr ""
+"Kortelėje „Pareiškimas“ įveskite atitikties lygį, kontaktus ir priežiūros "
+"instituciją."
+
+#: includes/Admin/AdminDashboard.php:324
+msgid ""
+"Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen "
+"Shortcode einfügen:"
+msgstr ""
+"Sukurkite puslapį (pvz., „Prieinamumo pareiškimas“) ir įterpkite šį trumpąjį "
+"kodą:"
+
+#: includes/Admin/AdminDashboard.php:325
+msgid "Die Seite im Footer verlinken."
+msgstr "Pridėkite puslapio nuorodą poraštėje."
+
+#: includes/Admin/AdminDashboard.php:328
+msgid "Musterprüfung jetzt ausführen"
+msgstr "Vykdyti šablonų patikrą dabar"
+
+#: includes/Admin/AdminDashboard.php:343
+msgid "Prüfe gespeicherte Inhalte …"
+msgstr "Tikrinamas išsaugotas turinys …"
+
+#: includes/Admin/AdminDashboard.php:353
+msgid ""
+"Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts "
+"geprüft."
+msgstr "Paskelbtų puslapių, įrašų ar produktų nerasta: nieko nepatikrinta."
+
+#: includes/Admin/AdminDashboard.php:356
+msgid "Fertig. Geprüfte Seiten:"
+msgstr "Atlikta. Patikrinta puslapių:"
+
+#: includes/Admin/AdminDashboard.php:356
+msgid "mit Befunden:"
+msgstr "su pastabomis:"
+
+#: includes/Admin/AdminDashboard.php:359
+msgid "Fehler:"
+msgstr "Klaida:"
+
+#: includes/Admin/AdminDashboard.php:369
+msgid "Angaben für die Erklärung"
+msgstr "Pareiškimo duomenys"
+
+#: includes/Admin/AdminDashboard.php:374 blocks-src/index.js:49
+msgid "Name des Unternehmens"
+msgstr "Įmonės pavadinimas"
+
+#: includes/Admin/AdminDashboard.php:378 blocks-src/index.js:56
+msgid "Adresse der Website"
+msgstr "Svetainės adresas"
+
+#: includes/Admin/AdminDashboard.php:382
+#: includes/Frontend/BlockIntegrations.php:65 blocks-src/index.js:63
+msgid "Stand der Vereinbarkeit"
+msgstr "Atitikties būsena"
+
+#: includes/Admin/AdminDashboard.php:390
+msgid "— bitte wählen —"
+msgstr "— pasirinkite —"
+
+#: includes/Admin/AdminDashboard.php:395
+msgid ""
+"Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt."
+msgstr ""
+"Jūsų įsivertinimas. Deklaruokite tik tai, ką pagrindžia jūsų svetainės "
+"patikra."
+
+#: includes/Admin/AdminDashboard.php:399
+#: includes/Frontend/BlockIntegrations.php:69
+msgid "Datum der Selbstbewertung"
+msgstr "Įsivertinimo data"
+
+#: includes/Admin/AdminDashboard.php:406
+msgid ""
+"Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes "
+"Datum steht dort „noch nicht angegeben“."
+msgstr ""
+"Pareiškime ši data nurodoma kaip parengimo data. Be išsaugotos datos rodoma "
+"„dar nenurodyta“."
+
+#: includes/Admin/AdminDashboard.php:410 blocks-src/index.js:79
+msgid "Ansprechperson (optional)"
+msgstr "Kontaktinis asmuo (neprivaloma)"
+
+#: includes/Admin/AdminDashboard.php:414 blocks-src/index.js:86
+msgid "E-Mail für Rückmeldungen"
+msgstr "El. paštas atsiliepimams"
+
+#: includes/Admin/AdminDashboard.php:418 blocks-src/index.js:93
+msgid "Telefon (optional)"
+msgstr "Telefonas (neprivaloma)"
+
+#: includes/Admin/AdminDashboard.php:422 blocks-src/index.js:100
+msgid "Durchsetzungsstelle"
+msgstr "Įgyvendinimo institucija"
+
+#: includes/Admin/AdminDashboard.php:425
+msgid ""
+"Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile "
+"und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle."
+msgstr ""
+"Pastaba: Po šiuo pavadinimu pareiškime šiuo metu visada spausdinama "
+"Saksonijos-Anhalto įstaigos eilutė ir el. pašto adresas."
+
+#: includes/Admin/AdminDashboard.php:429
+msgid "Deinstallation"
+msgstr "Pašalinimas"
+
+#: includes/Admin/AdminDashboard.php:433
+msgid "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen"
+msgstr "Pašalinti išsaugotus duomenis ir patikros ataskaitą ištrinant įskiepį"
+
+#: includes/Admin/AdminDashboard.php:435
+msgid ""
+"Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht "
+"bei der Deinstallation erhalten."
+msgstr ""
+"Pagal numatytuosius nustatymus pareiškimo duomenys ir paskutinė ataskaita "
+"pašalinant išsaugomi."
+
+#: includes/Admin/AdminDashboard.php:439
+msgid "Speichern"
+msgstr "Išsaugoti"
+
+#: includes/Admin/AdminDashboard.php:444
+msgid "Vorschau"
+msgstr "Peržiūra"
+
+#: includes/Admin/AdminDashboard.php:455
+msgid "Prüfbericht der letzten Musterprüfung"
+msgstr "Paskutinės šablonų patikros ataskaita"
+
+#: includes/Admin/AdminDashboard.php:457
+msgid ""
+"Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ "
+"ausführen."
+msgstr ""
+"Patikros su patikrintu turiniu dar nėra. Vykdykite ją kortelėje „Apžvalga“."
+
+#: includes/Admin/AdminDashboard.php:461
+msgid "Kennung des Laufs"
+msgstr "Paleidimo identifikatorius"
+
+#: includes/Admin/AdminDashboard.php:462
+msgid "Zeitpunkt"
+msgstr "Laikas"
+
+#: includes/Admin/AdminDashboard.php:463
+msgid "Prüfungen"
+msgstr "Patikros"
+
+#: includes/Admin/AdminDashboard.php:464
+msgid "Ergebnis"
+msgstr "Rezultatas"
+
+#: includes/Admin/AdminDashboard.php:467
+msgid ""
+"Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt "
+"nur, was die drei Muster gefunden haben."
+msgstr ""
+"Tai nėra sertifikatas ar teisinės atitikties patvirtinimas: ataskaitoje "
+"nurodoma tik tai, ką rado trys šablonai."
+
+#: includes/Admin/AdminDashboard.php:472
+msgid "Seite"
+msgstr "Puslapis"
+
+#: includes/Admin/AdminDashboard.php:473
+msgid "Punkte"
+msgstr "Balai"
+
+#: includes/Admin/AdminDashboard.php:474
+msgid "Befunde"
+msgstr "Pastabos"
+
+#: includes/Admin/AdminDashboard.php:497
+msgid "Erklärung zur Barrierefreiheit"
+msgstr "Prieinamumo pareiškimas"
+
+#: includes/Admin/AdminDashboard.php:498
+msgid ""
+"Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre "
+"Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und "
+"Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche "
+"Erklärung braucht, beurteilt das Plugin nicht."
+msgstr ""
+"Įskiepio generuojamas tekstas: atitikties būsena (įsivertinimas), parengimo "
+"data, kontaktas atsiliepimams ir įgyvendinimo institucija. Įskiepis "
+"nevertina, ar jūsų paslaugai toks pareiškimas privalomas."
+
+#: includes/Admin/AdminDashboard.php:501
+msgid "WCAG 2.2 / EN 301 549"
+msgstr "WCAG 2.2 / EN 301 549"
+
+#: includes/Admin/AdminDashboard.php:502
+msgid ""
+"Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung "
+"danach umfasst weit mehr als die drei Muster dieses Plugins."
+msgstr ""
+"Prieinamo žiniatinklio turinio techninių reikalavimų katalogai. Išsami "
+"patikra apima kur kas daugiau nei šio įskiepio trys šablonai."
+
+#: includes/Admin/AdminDashboard.php:505
+msgid "Musterprüfung"
+msgstr "Šablonų patikra"
+
+#: includes/Admin/AdminDashboard.php:506
+msgid ""
+"Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text "
+"und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste "
+"und Tastaturbedienung sieht sie nicht."
+msgstr ""
+"Išsaugotame turinyje ieško img elementų be alt, nuorodų be teksto ir "
+"praleistų antraščių lygių. Temos, meniu, formų, kontrastų ir klaviatūros "
+"valdymo ji nemato."
+
+#: includes/Frontend/BlockIntegrations.php:38
+msgid "WM BFSG Kennzahlen"
+msgstr "WM BFSG rodikliai"
+
+#: includes/Frontend/BlockIntegrations.php:52
+msgid "BFSG Kennzahl"
+msgstr "BFSG rodiklis"
+
+#: includes/Frontend/BlockIntegrations.php:56
+msgid ""
+"Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten "
+"Musterprüfung aus."
+msgstr ""
+"Išveda išsaugotą pareiškimo reikšmę arba paskutinės šablonų patikros rodiklį."
+
+#: includes/Frontend/BlockIntegrations.php:60
+msgid "Kennzahl"
+msgstr "Rodiklis"
+
+#: includes/Frontend/BlockIntegrations.php:138
+#: includes/Frontend/BlockIntegrations.php:142
+msgid "noch nicht angegeben"
+msgstr "dar nenurodyta"
+
+#: includes/Frontend/BlockIntegrations.php:162
+msgid "nicht geprüft"
+msgstr "netikrinta"
+
+#: includes/Legal/Anlage3Generator.php:59
+msgid "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)"
+msgstr "Prieinamumo pareiškimas (pagal BFSG 3 priedą ir EGBGB 246 str.)"
+
+#. translators: 1: company name, 2: link to the website
+#: includes/Legal/Anlage3Generator.php:66
+#, php-format
+msgid ""
+"%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem "
+"Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 "
+"V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) "
+"barrierefrei zugänglich zu machen."
+msgstr ""
+"%1$s siekia padaryti savo interneto svetainę (%2$s) prieinamą pagal "
+"Prieinamumo stiprinimo įstatymą (BFSG), Europos standartą EN 301 549 V3.2.1 "
+"ir Žiniatinklio turinio prieinamumo gaires (WCAG 2.2 AA lygis)."
+
+#: includes/Legal/Anlage3Generator.php:71
+msgid "1. Stand der Vereinbarkeit mit den Anforderungen"
+msgstr "1. Atitikties reikalavimams būsena"
+
+#. translators: %s: compliance level
+#: includes/Legal/Anlage3Generator.php:74
+#, php-format
+msgid ""
+"Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den "
+"Vorgaben der harmonisierten europäischen Norm EN 301 549 %s."
+msgstr ""
+"Pagal operatoriaus įsivertinimą ši svetainė yra %s darniojo Europos "
+"standarto EN 301 549 reikalavimams."
+
+#: includes/Legal/Anlage3Generator.php:76
+msgid "Der Stand der Vereinbarkeit ist noch nicht angegeben."
+msgstr "Atitikties būsena dar nenurodyta."
+
+#: includes/Legal/Anlage3Generator.php:79
+msgid "2. Erstellung dieser Erklärung zur Barrierefreiheit"
+msgstr "2. Šio prieinamumo pareiškimo parengimas"
+
+#. translators: %s: assessment date
+#: includes/Legal/Anlage3Generator.php:82
+#, php-format
+msgid ""
+"Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der "
+"Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers."
+msgstr ""
+"Šis pareiškimas parengtas %s. Duomenys apie atitikties būseną grindžiami "
+"operatoriaus įsivertinimu."
+
+#: includes/Legal/Anlage3Generator.php:84
+msgid "Das Erstellungsdatum ist noch nicht angegeben."
+msgstr "Parengimo data dar nenurodyta."
+
+#: includes/Legal/Anlage3Generator.php:84
+msgid ""
+"Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung "
+"des Betreibers."
+msgstr "Duomenys apie atitikties būseną grindžiami operatoriaus įsivertinimu."
+
+#: includes/Legal/Anlage3Generator.php:87
+msgid "3. Feedback und Kontaktangaben (Feedback-Mechanismus)"
+msgstr ""
+"3. Atsiliepimai ir kontaktiniai duomenys (grįžtamojo ryšio mechanizmas)"
+
+#. translators: %s: website URL
+#: includes/Legal/Anlage3Generator.php:89
+#, php-format
+msgid ""
+"Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? "
+"Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich "
+"jederzeit an unsere zuständige Ansprechperson wenden:"
+msgstr ""
+"Ar pastebėjote trūkumų pasiekiant %s turinį? Ar turite klausimų dėl "
+"prieinamumo įgyvendinimo? Bet kada galite kreiptis į mūsų atsakingą asmenį:"
+
+#: includes/Legal/Anlage3Generator.php:92
+msgid "Ansprechpartner:"
+msgstr "Kontaktinis asmuo:"
+
+#: includes/Legal/Anlage3Generator.php:94
+#: includes/Legal/Anlage3Generator.php:105
+msgid "E-Mail:"
+msgstr "El. paštas:"
+
+#: includes/Legal/Anlage3Generator.php:96
+msgid "Telefon:"
+msgstr "Telefonas:"
+
+#: includes/Legal/Anlage3Generator.php:100
+msgid "4. Durchsetzungsverfahren & Marktüberwachungsbehörde"
+msgstr "4. Įgyvendinimo procedūra ir rinkos priežiūros institucija"
+
+#: includes/Legal/Anlage3Generator.php:101
+msgid ""
+"Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb "
+"von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich "
+"an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:"
+msgstr ""
+"Jei per šešias savaites negaunate patenkinamo atsakymo į pranešimus ar "
+"užklausas dėl prieinamumo, galite kreiptis į kompetentingą rinkos priežiūros "
+"ir įgyvendinimo instituciją:"
+
+#: includes/Legal/Anlage3Generator.php:104
+msgid ""
+"Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt"
+msgstr ""
+"Skaitmeninio prieinamumo priežiūros institucija • Saksonijos-Anhalto žemė"
+
+#. translators: %s: assessment date
+#: includes/Legal/Anlage3Generator.php:116
+#, php-format
+msgid ""
+"Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. "
+"Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde."
+msgstr ""
+"Šis pareiškimas parengtas %s įsivertinimo pagrindu. Jis nėra pagrįstas "
+"išorinės įstaigos sertifikavimu."
+
+#: includes/Legal/Anlage3Generator.php:121
+msgid ""
+"Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch "
+"eine externe Stelle liegt ihr nicht zugrunde."
+msgstr ""
+"Šis pareiškimas grindžiamas įsivertinimu. Jis nėra pagrįstas išorinės "
+"įstaigos sertifikavimu."
+
+#. translators: %d: number of images
+#: includes/Scanner/AccessibilityAuditor.php:81
+#, php-format
+msgid "%d Bild ohne alt-Attribut (WCAG 1.1.1)"
+msgid_plural "%d Bilder ohne alt-Attribut (WCAG 1.1.1)"
+msgstr[0] "%d paveikslėlis be alt atributo (WCAG 1.1.1)"
+msgstr[1] "%d paveikslėliai be alt atributo (WCAG 1.1.1)"
+msgstr[2] "%d paveikslėlių be alt atributo (WCAG 1.1.1)"
+
+#. translators: %d: number of links
+#: includes/Scanner/AccessibilityAuditor.php:89
+#, php-format
+msgid "%d Link ohne Text (WCAG 2.4.4)"
+msgid_plural "%d Links ohne Text (WCAG 2.4.4)"
+msgstr[0] "%d nuoroda be teksto (WCAG 2.4.4)"
+msgstr[1] "%d nuorodos be teksto (WCAG 2.4.4)"
+msgstr[2] "%d nuorodų be teksto (WCAG 2.4.4)"
+
+#. translators: %d: number of skipped heading levels
+#: includes/Scanner/AccessibilityAuditor.php:106
+#, php-format
+msgid "%d übersprungene Überschriftenebene (WCAG 1.3.1)"
+msgid_plural "%d übersprungene Überschriftenebenen (WCAG 1.3.1)"
+msgstr[0] "%d praleistas antraštės lygis (WCAG 1.3.1)"
+msgstr[1] "%d praleisti antraščių lygiai (WCAG 1.3.1)"
+msgstr[2] "%d praleistų antraščių lygių (WCAG 1.3.1)"
+
+#: blocks-src/index.js:12
+msgid "Erklärung zur Barrierefreiheit (BFSG)"
+msgstr "Prieinamumo pareiškimas (BFSG)"
+
+#: blocks-src/index.js:13
+msgid ""
+"Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder "
+"optionalen Block-Attributen aus."
+msgstr ""
+"Rodo prieinamumo pareiškimą iš išsaugotų nustatymų arba pasirenkamų bloko "
+"atributų."
+
+#: blocks-src/index.js:45
+msgid "Angaben überschreiben (optional)"
+msgstr "Perrašyti duomenis (neprivaloma)"
+
+#: blocks-src/index.js:67
+msgid "Gespeicherte Einstellung verwenden"
+msgstr "Naudoti išsaugotą nustatymą"
+
+#: blocks/anlage-3/block.json
+msgctxt "block title"
+msgid "Erklärung zur Barrierefreiheit (BFSG)"
+msgstr "Prieinamumo pareiškimas (BFSG)"
+
+#: blocks/anlage-3/block.json
+msgctxt "block description"
+msgid ""
+"Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder "
+"optionalen Block-Attributen aus."
+msgstr ""
+"Rodo prieinamumo pareiškimą iš išsaugotų nustatymų arba pasirenkamų bloko "
+"atributų."
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "bfsg"
+msgstr "bfsg"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "barrierefreiheit"
+msgstr "prieinamumas"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "anlage 3"
+msgstr "3 priedas"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "accessibility"
+msgstr "pareiškimas"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"

@@ -1,0 +1,665 @@
+# Translation of wm-bfsg-compliance-dashboard in cs_CZ
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-bfsg-compliance-dashboard 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-bfsg-"
+"compliance-dashboard\n"
+"POT-Creation-Date: 2026-11-21T12:56:13+00:00\n"
+"PO-Revision-Date: 2026-11-21 18:10+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-bfsg-"
+"compliance-dashboard/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-bfsg-"
+"compliance-dashboard/issues>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-bfsg-compliance-dashboard\n"
+
+#. Plugin Name of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator"
+msgstr "Přehled právního souladu WM BFSG 2025 a generátor Přílohy 3"
+
+#. Plugin URI of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid ""
+"https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+msgstr ""
+"https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+
+#. Description of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid ""
+"Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers "
+"(Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten "
+"Inhalt von bis zu 20 Seiten durch."
+msgstr ""
+"Vytváří prohlášení o přístupnosti z údajů provozovatele (shortcode a blok) a "
+"provádí tři kontroly vzorů v uloženém obsahu až 20 stránek."
+
+#. Author of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:93
+msgid "WM BFSG — Musterprüfung & Erklärung"
+msgstr "WM BFSG — Kontrola vzorů a prohlášení"
+
+#: includes/Admin/AdminDashboard.php:114
+msgid "Musterprüfung noch nicht ausgeführt"
+msgstr "Kontrola vzorů dosud nebyla spuštěna"
+
+#. translators: 1: items with findings, 2: items checked
+#: includes/Admin/AdminDashboard.php:117
+#, php-format
+msgid "Befunde auf %1$d von %2$d geprüften Seiten"
+msgstr "Zjištění na %1$d z %2$d kontrolovaných stránek"
+
+#: includes/Admin/AdminDashboard.php:121
+msgid "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit"
+msgstr "Tři kontroly vzorů v uloženém obsahu – nejde o audit WCAG"
+
+#: includes/Admin/AdminDashboard.php:128 includes/Admin/AdminDashboard.php:304
+#: includes/Frontend/BlockIntegrations.php:73
+msgid "Geprüfte Seiten"
+msgstr "Kontrolované stránky"
+
+#: includes/Admin/AdminDashboard.php:132
+msgid "Mit Befunden"
+msgstr "Se zjištěními"
+
+#: includes/Admin/AdminDashboard.php:135
+msgid "nicht angegeben"
+msgstr "neuvedeno"
+
+#: includes/Admin/AdminDashboard.php:136 includes/Admin/AdminDashboard.php:299
+msgid "Erklärter Stand"
+msgstr "Deklarovaný stav"
+
+#: includes/Admin/AdminDashboard.php:142
+msgid "BFSG Dashboard öffnen"
+msgstr "Otevřít přehled BFSG"
+
+#: includes/Admin/AdminDashboard.php:161
+msgid "WM BFSG Dashboard"
+msgstr "Přehled WM BFSG"
+
+#: includes/Admin/AdminDashboard.php:162
+msgid "BFSG Dashboard"
+msgstr "Přehled BFSG"
+
+#: includes/Admin/AdminDashboard.php:230
+msgid "Übersicht"
+msgstr "Přehled"
+
+#: includes/Admin/AdminDashboard.php:231
+msgid "Erklärung"
+msgstr "Prohlášení"
+
+#: includes/Admin/AdminDashboard.php:232
+msgid "Prüfbericht"
+msgstr "Zpráva o kontrole"
+
+#: includes/Admin/AdminDashboard.php:233 includes/Admin/AdminDashboard.php:494
+msgid "Begriffe"
+msgstr "Pojmy"
+
+#: includes/Admin/AdminDashboard.php:261
+msgid "WM BFSG — Erklärung zur Barrierefreiheit"
+msgstr "WM BFSG — Prohlášení o přístupnosti"
+
+#: includes/Admin/AdminDashboard.php:262
+msgid ""
+"Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im "
+"gespeicherten Inhalt"
+msgstr ""
+"Vytvořit prohlášení z vašich údajů &bull; tři kontroly vzorů v uloženém "
+"obsahu"
+
+#: includes/Admin/AdminDashboard.php:266
+msgid "Part of the WM Suite plugin family"
+msgstr "Součást rodiny pluginů WM Suite"
+
+#: includes/Admin/AdminDashboard.php:268
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:269
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/Admin/AdminDashboard.php:269
+msgid "Standalone"
+msgstr "Samostatný"
+
+#: includes/Admin/AdminDashboard.php:272
+msgid "STAND DER VEREINBARKEIT NICHT ANGEGEBEN"
+msgstr "STAV SOULADU NEUVEDEN"
+
+#: includes/Admin/AdminDashboard.php:279
+msgid "Was dieses Plugin tut"
+msgstr "Co tento plugin dělá"
+
+#: includes/Admin/AdminDashboard.php:282
+msgid ""
+"Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der "
+"Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und "
+"gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den "
+"gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und "
+"Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der "
+"Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und "
+"wie das BFSG für Ihr Angebot gilt."
+msgstr ""
+"Vytváří prohlášení o přístupnosti z vašich údajů (stav souladu jako "
+"sebehodnocení, datum, kontakt, dozorový orgán) a zobrazuje je pomocí "
+"shortcodu na stránce. Dále kontroluje tři vzory v uloženém obsahu až 20 "
+"publikovaných stránek, příspěvků a produktů. Kontrola nenahrazuje posouzení "
+"dle WCAG či EN 301 549 a nehodnotí, zda se BFSG na vaši nabídku vztahuje."
+
+#: includes/Admin/AdminDashboard.php:287
+msgid "Bereiche"
+msgstr "Sekce"
+
+#: includes/Admin/AdminDashboard.php:301
+msgid "Selbstbewertung, im Tab „Erklärung“"
+msgstr "Sebehodnocení na kartě „Prohlášení“"
+
+#: includes/Admin/AdminDashboard.php:306
+msgid "höchstens 20 je Lauf"
+msgstr "nejvýše 20 na běh"
+
+#: includes/Admin/AdminDashboard.php:309
+#: includes/Frontend/BlockIntegrations.php:77
+msgid "Seiten mit Befunden"
+msgstr "Stránky se zjištěními"
+
+#: includes/Admin/AdminDashboard.php:311
+msgid "img ohne alt, leere Links, Überschriftensprünge"
+msgstr "img bez alt, prázdné odkazy, přeskočené nadpisy"
+
+#: includes/Admin/AdminDashboard.php:314
+#: includes/Frontend/BlockIntegrations.php:81
+msgid "Letzter Lauf"
+msgstr "Poslední běh"
+
+#: includes/Admin/AdminDashboard.php:315
+#: includes/Frontend/BlockIntegrations.php:165
+msgid "nie"
+msgstr "nikdy"
+
+#: includes/Admin/AdminDashboard.php:316
+msgid "nur auf Anforderung"
+msgstr "pouze na vyžádání"
+
+#: includes/Admin/AdminDashboard.php:321
+msgid "Erklärung veröffentlichen"
+msgstr "Zveřejnit prohlášení"
+
+#: includes/Admin/AdminDashboard.php:323
+msgid ""
+"Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle "
+"eintragen."
+msgstr "Na kartě „Prohlášení“ vyplňte stav souladu, kontakt a dozorový orgán."
+
+#: includes/Admin/AdminDashboard.php:324
+msgid ""
+"Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen "
+"Shortcode einfügen:"
+msgstr ""
+"Vytvořte stránku (např. „Prohlášení o přístupnosti“) a vložte tento "
+"shortcode:"
+
+#: includes/Admin/AdminDashboard.php:325
+msgid "Die Seite im Footer verlinken."
+msgstr "Odkaz na stránku umístěte do zápatí."
+
+#: includes/Admin/AdminDashboard.php:328
+msgid "Musterprüfung jetzt ausführen"
+msgstr "Spustit kontrolu vzorů nyní"
+
+#: includes/Admin/AdminDashboard.php:343
+msgid "Prüfe gespeicherte Inhalte …"
+msgstr "Kontroluji uložený obsah …"
+
+#: includes/Admin/AdminDashboard.php:353
+msgid ""
+"Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts "
+"geprüft."
+msgstr ""
+"Nebyly nalezeny žádné publikované stránky, příspěvky ani produkty: nic "
+"nebylo zkontrolováno."
+
+#: includes/Admin/AdminDashboard.php:356
+msgid "Fertig. Geprüfte Seiten:"
+msgstr "Hotovo. Kontrolované stránky:"
+
+#: includes/Admin/AdminDashboard.php:356
+msgid "mit Befunden:"
+msgstr "se zjištěními:"
+
+#: includes/Admin/AdminDashboard.php:359
+msgid "Fehler:"
+msgstr "Chyba:"
+
+#: includes/Admin/AdminDashboard.php:369
+msgid "Angaben für die Erklärung"
+msgstr "Údaje pro prohlášení"
+
+#: includes/Admin/AdminDashboard.php:374 blocks-src/index.js:49
+msgid "Name des Unternehmens"
+msgstr "Název společnosti"
+
+#: includes/Admin/AdminDashboard.php:378 blocks-src/index.js:56
+msgid "Adresse der Website"
+msgstr "Adresa webu"
+
+#: includes/Admin/AdminDashboard.php:382
+#: includes/Frontend/BlockIntegrations.php:65 blocks-src/index.js:63
+msgid "Stand der Vereinbarkeit"
+msgstr "Stav souladu"
+
+#: includes/Admin/AdminDashboard.php:390
+msgid "— bitte wählen —"
+msgstr "— vyberte —"
+
+#: includes/Admin/AdminDashboard.php:395
+msgid ""
+"Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt."
+msgstr ""
+"Vaše sebehodnocení. Uvádějte pouze to, co dokládá prověrka vašeho webu."
+
+#: includes/Admin/AdminDashboard.php:399
+#: includes/Frontend/BlockIntegrations.php:69
+msgid "Datum der Selbstbewertung"
+msgstr "Datum sebehodnocení"
+
+#: includes/Admin/AdminDashboard.php:406
+msgid ""
+"Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes "
+"Datum steht dort „noch nicht angegeben“."
+msgstr ""
+"Prohlášení uvádí toto datum jako datum vytvoření. Bez uloženého data se "
+"zobrazí „dosud neuvedeno“."
+
+#: includes/Admin/AdminDashboard.php:410 blocks-src/index.js:79
+msgid "Ansprechperson (optional)"
+msgstr "Kontaktní osoba (volitelné)"
+
+#: includes/Admin/AdminDashboard.php:414 blocks-src/index.js:86
+msgid "E-Mail für Rückmeldungen"
+msgstr "E-mail pro zpětnou vazbu"
+
+#: includes/Admin/AdminDashboard.php:418 blocks-src/index.js:93
+msgid "Telefon (optional)"
+msgstr "Telefon (volitelné)"
+
+#: includes/Admin/AdminDashboard.php:422 blocks-src/index.js:100
+msgid "Durchsetzungsstelle"
+msgstr "Orgán prosazování"
+
+#: includes/Admin/AdminDashboard.php:425
+msgid ""
+"Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile "
+"und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle."
+msgstr ""
+"Poznámka: Pod tímto názvem prohlášení v současnosti vždy uvádí řádek a e-"
+"mailovou adresu úřadu v Sasku-Anhaltsku."
+
+#: includes/Admin/AdminDashboard.php:429
+msgid "Deinstallation"
+msgstr "Odinstalace"
+
+#: includes/Admin/AdminDashboard.php:433
+msgid "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen"
+msgstr "Při smazání pluginu odstranit uložené údaje a zprávu o kontrole"
+
+#: includes/Admin/AdminDashboard.php:435
+msgid ""
+"Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht "
+"bei der Deinstallation erhalten."
+msgstr ""
+"Ve výchozím nastavení zůstávají údaje prohlášení i poslední zpráva při "
+"odinstalaci zachovány."
+
+#: includes/Admin/AdminDashboard.php:439
+msgid "Speichern"
+msgstr "Uložit"
+
+#: includes/Admin/AdminDashboard.php:444
+msgid "Vorschau"
+msgstr "Náhled"
+
+#: includes/Admin/AdminDashboard.php:455
+msgid "Prüfbericht der letzten Musterprüfung"
+msgstr "Zpráva o poslední kontrole vzorů"
+
+#: includes/Admin/AdminDashboard.php:457
+msgid ""
+"Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ "
+"ausführen."
+msgstr "Zatím neproběhla žádná kontrola obsahu. Spusťte ji na kartě „Přehled“."
+
+#: includes/Admin/AdminDashboard.php:461
+msgid "Kennung des Laufs"
+msgstr "Identifikátor běhu"
+
+#: includes/Admin/AdminDashboard.php:462
+msgid "Zeitpunkt"
+msgstr "Čas"
+
+#: includes/Admin/AdminDashboard.php:463
+msgid "Prüfungen"
+msgstr "Kontroly"
+
+#: includes/Admin/AdminDashboard.php:464
+msgid "Ergebnis"
+msgstr "Výsledek"
+
+#: includes/Admin/AdminDashboard.php:467
+msgid ""
+"Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt "
+"nur, was die drei Muster gefunden haben."
+msgstr ""
+"Nejde o certifikát ani o právní posudek souladu: zpráva uvádí pouze nálezy "
+"tří vzorů."
+
+#: includes/Admin/AdminDashboard.php:472
+msgid "Seite"
+msgstr "Stránka"
+
+#: includes/Admin/AdminDashboard.php:473
+msgid "Punkte"
+msgstr "Body"
+
+#: includes/Admin/AdminDashboard.php:474
+msgid "Befunde"
+msgstr "Zjištění"
+
+#: includes/Admin/AdminDashboard.php:497
+msgid "Erklärung zur Barrierefreiheit"
+msgstr "Prohlášení o přístupnosti"
+
+#: includes/Admin/AdminDashboard.php:498
+msgid ""
+"Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre "
+"Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und "
+"Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche "
+"Erklärung braucht, beurteilt das Plugin nicht."
+msgstr ""
+"Text generovaný tímto pluginem: stav souladu (sebehodnocení), datum "
+"vytvoření, kontakt pro zpětnou vazbu a dozorový orgán. Plugin neposuzuje, "
+"zda vaše služba takové prohlášení vyžaduje."
+
+#: includes/Admin/AdminDashboard.php:501
+msgid "WCAG 2.2 / EN 301 549"
+msgstr "WCAG 2.2 / EN 301 549"
+
+#: includes/Admin/AdminDashboard.php:502
+msgid ""
+"Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung "
+"danach umfasst weit mehr als die drei Muster dieses Plugins."
+msgstr ""
+"Technické katalogy požadavků na přístupný webový obsah. Kontrola podle nich "
+"zahrnuje mnohem více než tři vzory tohoto pluginu."
+
+#: includes/Admin/AdminDashboard.php:505
+msgid "Musterprüfung"
+msgstr "Kontrola vzorů"
+
+#: includes/Admin/AdminDashboard.php:506
+msgid ""
+"Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text "
+"und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste "
+"und Tastaturbedienung sieht sie nicht."
+msgstr ""
+"Hledá v uloženém obsahu prvky img bez alt, odkazy bez textu a přeskočené "
+"úrovně nadpisů. Šablonu, menu, formuláře, kontrasty ani ovládání klávesnicí "
+"nevidí."
+
+#: includes/Frontend/BlockIntegrations.php:38
+msgid "WM BFSG Kennzahlen"
+msgstr "Metriky WM BFSG"
+
+#: includes/Frontend/BlockIntegrations.php:52
+msgid "BFSG Kennzahl"
+msgstr "Metrika BFSG"
+
+#: includes/Frontend/BlockIntegrations.php:56
+msgid ""
+"Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten "
+"Musterprüfung aus."
+msgstr "Vypíše uložený údaj prohlášení nebo metriku poslední kontroly vzorů."
+
+#: includes/Frontend/BlockIntegrations.php:60
+msgid "Kennzahl"
+msgstr "Metrika"
+
+#: includes/Frontend/BlockIntegrations.php:138
+#: includes/Frontend/BlockIntegrations.php:142
+msgid "noch nicht angegeben"
+msgstr "dosud neuvedeno"
+
+#: includes/Frontend/BlockIntegrations.php:162
+msgid "nicht geprüft"
+msgstr "nekontrolováno"
+
+#: includes/Legal/Anlage3Generator.php:59
+msgid "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)"
+msgstr "Prohlášení o přístupnosti (podle přílohy 3 BFSG a čl. 246 EGBGB)"
+
+#. translators: 1: company name, 2: link to the website
+#: includes/Legal/Anlage3Generator.php:66
+#, php-format
+msgid ""
+"%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem "
+"Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 "
+"V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) "
+"barrierefrei zugänglich zu machen."
+msgstr ""
+"Společnost %1$s usiluje o zpřístupnění svých webových stránek (%2$s) v "
+"souladu se zákonem o posílení přístupnosti (BFSG), evropskou normou EN 301 "
+"549 V3.2.1 a pokyny pro přístupnost webového obsahu (WCAG 2.2 úroveň AA)."
+
+#: includes/Legal/Anlage3Generator.php:71
+msgid "1. Stand der Vereinbarkeit mit den Anforderungen"
+msgstr "1. Stav souladu s požadavky"
+
+#. translators: %s: compliance level
+#: includes/Legal/Anlage3Generator.php:74
+#, php-format
+msgid ""
+"Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den "
+"Vorgaben der harmonisierten europäischen Norm EN 301 549 %s."
+msgstr ""
+"Podle sebehodnocení provozovatele je tento web %s s požadavky harmonizované "
+"evropské normy EN 301 549."
+
+#: includes/Legal/Anlage3Generator.php:76
+msgid "Der Stand der Vereinbarkeit ist noch nicht angegeben."
+msgstr "Stav souladu dosud nebyl uveden."
+
+#: includes/Legal/Anlage3Generator.php:79
+msgid "2. Erstellung dieser Erklärung zur Barrierefreiheit"
+msgstr "2. Vypracování tohoto prohlášení o přístupnosti"
+
+#. translators: %s: assessment date
+#: includes/Legal/Anlage3Generator.php:82
+#, php-format
+msgid ""
+"Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der "
+"Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers."
+msgstr ""
+"Toto prohlášení bylo vypracováno dne %s. Údaje o stavu souladu vycházejí ze "
+"sebehodnocení provozovatele."
+
+#: includes/Legal/Anlage3Generator.php:84
+msgid "Das Erstellungsdatum ist noch nicht angegeben."
+msgstr "Datum vypracování dosud nebylo uvedeno."
+
+#: includes/Legal/Anlage3Generator.php:84
+msgid ""
+"Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung "
+"des Betreibers."
+msgstr "Údaje o stavu souladu vycházejí ze sebehodnocení provozovatele."
+
+#: includes/Legal/Anlage3Generator.php:87
+msgid "3. Feedback und Kontaktangaben (Feedback-Mechanismus)"
+msgstr "3. Zpětná vazba a kontaktní údaje (mechanismus zpětné vazby)"
+
+#. translators: %s: website URL
+#: includes/Legal/Anlage3Generator.php:89
+#, php-format
+msgid ""
+"Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? "
+"Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich "
+"jederzeit an unsere zuständige Ansprechperson wenden:"
+msgstr ""
+"Zaznamenali jste nedostatky v bezbariérovém přístupu k obsahu webu %s? Nebo "
+"máte dotazy k zajištění přístupnosti? Kdykoli se můžete obrátit na naši "
+"odpovědnou osobu:"
+
+#: includes/Legal/Anlage3Generator.php:92
+msgid "Ansprechpartner:"
+msgstr "Kontaktní osoba:"
+
+#: includes/Legal/Anlage3Generator.php:94
+#: includes/Legal/Anlage3Generator.php:105
+msgid "E-Mail:"
+msgstr "E-mail:"
+
+#: includes/Legal/Anlage3Generator.php:96
+msgid "Telefon:"
+msgstr "Telefon:"
+
+#: includes/Legal/Anlage3Generator.php:100
+msgid "4. Durchsetzungsverfahren & Marktüberwachungsbehörde"
+msgstr "4. Postup prosazování a orgán dozoru nad trhem"
+
+#: includes/Legal/Anlage3Generator.php:101
+msgid ""
+"Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb "
+"von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich "
+"an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:"
+msgstr ""
+"Pokud do šesti týdnů neobdržíte uspokojivou odpověď na podněty či dotazy "
+"týkající se přístupnosti, můžete se obrátit na příslušný orgán dozoru nad "
+"trhem a prosazování:"
+
+#: includes/Legal/Anlage3Generator.php:104
+msgid ""
+"Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt"
+msgstr ""
+"Dozorový úřad pro digitální přístupnost • Spolková země Sasko-Anhaltsko"
+
+#. translators: %s: assessment date
+#: includes/Legal/Anlage3Generator.php:116
+#, php-format
+msgid ""
+"Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. "
+"Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde."
+msgstr ""
+"Toto prohlášení bylo vypracováno dne %s na základě sebehodnocení. Nezakládá "
+"se na certifikaci externím subjektem."
+
+#: includes/Legal/Anlage3Generator.php:121
+msgid ""
+"Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch "
+"eine externe Stelle liegt ihr nicht zugrunde."
+msgstr ""
+"Toto prohlášení vychází ze sebehodnocení. Nezakládá se na certifikaci "
+"externím subjektem."
+
+#. translators: %d: number of images
+#: includes/Scanner/AccessibilityAuditor.php:81
+#, php-format
+msgid "%d Bild ohne alt-Attribut (WCAG 1.1.1)"
+msgid_plural "%d Bilder ohne alt-Attribut (WCAG 1.1.1)"
+msgstr[0] "%d obrázek bez atributu alt (WCAG 1.1.1)"
+msgstr[1] "%d obrázky bez atributu alt (WCAG 1.1.1)"
+msgstr[2] "%d obrázků bez atributu alt (WCAG 1.1.1)"
+
+#. translators: %d: number of links
+#: includes/Scanner/AccessibilityAuditor.php:89
+#, php-format
+msgid "%d Link ohne Text (WCAG 2.4.4)"
+msgid_plural "%d Links ohne Text (WCAG 2.4.4)"
+msgstr[0] "%d odkaz bez textu (WCAG 2.4.4)"
+msgstr[1] "%d odkazy bez textu (WCAG 2.4.4)"
+msgstr[2] "%d odkazů bez textu (WCAG 2.4.4)"
+
+#. translators: %d: number of skipped heading levels
+#: includes/Scanner/AccessibilityAuditor.php:106
+#, php-format
+msgid "%d übersprungene Überschriftenebene (WCAG 1.3.1)"
+msgid_plural "%d übersprungene Überschriftenebenen (WCAG 1.3.1)"
+msgstr[0] "%d přeskočená úroveň nadpisu (WCAG 1.3.1)"
+msgstr[1] "%d přeskočené úrovně nadpisů (WCAG 1.3.1)"
+msgstr[2] "%d přeskočených úrovní nadpisů (WCAG 1.3.1)"
+
+#: blocks-src/index.js:12
+msgid "Erklärung zur Barrierefreiheit (BFSG)"
+msgstr "Prohlášení o přístupnosti (BFSG)"
+
+#: blocks-src/index.js:13
+msgid ""
+"Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder "
+"optionalen Block-Attributen aus."
+msgstr ""
+"Zobrazí prohlášení o přístupnosti z uloženého nastavení nebo volitelných "
+"atributů bloku."
+
+#: blocks-src/index.js:45
+msgid "Angaben überschreiben (optional)"
+msgstr "Přepsat údaje (volitelné)"
+
+#: blocks-src/index.js:67
+msgid "Gespeicherte Einstellung verwenden"
+msgstr "Použít uložené nastavení"
+
+#: blocks/anlage-3/block.json
+msgctxt "block title"
+msgid "Erklärung zur Barrierefreiheit (BFSG)"
+msgstr "Prohlášení o přístupnosti (BFSG)"
+
+#: blocks/anlage-3/block.json
+msgctxt "block description"
+msgid ""
+"Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder "
+"optionalen Block-Attributen aus."
+msgstr ""
+"Zobrazí prohlášení o přístupnosti z uloženého nastavení nebo volitelných "
+"atributů bloku."
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "bfsg"
+msgstr "bfsg"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "barrierefreiheit"
+msgstr "přístupnost"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "anlage 3"
+msgstr "příloha 3"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "accessibility"
+msgstr "prohlášení"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"

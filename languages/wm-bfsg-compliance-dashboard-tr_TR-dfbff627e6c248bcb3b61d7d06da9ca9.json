@@ -1,0 +1,375 @@
+{
+  "translation-revision-date": "2026-11-21T13:56:15+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "tr_TR",
+        "plural-forms": "nplurals=2; plural=(n > 1);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "WM BFSG 2025 Yasal Uyum Paneli ve Ek 3 Oluşturucu"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "İşletmecinin girdiği bilgilerden erişilebilirlik beyanını (kısa kod ve blok) oluşturur ve en fazla 20 sayfanın kayıtlı içeriğinde üç desen kontrolü çalıştırır."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Desen Kontrolü ve Beyan"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Desen kontrolü henüz çalıştırılmadı"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Kontrol edilen %2$d sayfadan %1$d sayfada bulgu"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Kayıtlı içerikte üç desen kontrolü – WCAG denetimi değildir"
+      ],
+      "Geprüfte Seiten": [
+        "Kontrol edilen sayfalar"
+      ],
+      "Mit Befunden": [
+        "Bulgulu"
+      ],
+      "nicht angegeben": [
+        "belirtilmedi"
+      ],
+      "Erklärter Stand": [
+        "Beyan edilen düzey"
+      ],
+      "BFSG Dashboard öffnen": [
+        "BFSG Panelini aç"
+      ],
+      "WM BFSG Dashboard": [
+        "WM BFSG Paneli"
+      ],
+      "BFSG Dashboard": [
+        "BFSG Paneli"
+      ],
+      "Übersicht": [
+        "Genel Bakış"
+      ],
+      "Erklärung": [
+        "Beyan"
+      ],
+      "Prüfbericht": [
+        "Kontrol Raporu"
+      ],
+      "Begriffe": [
+        "Terimler"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Erişilebilirlik Beyanı"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Bilgilerinizden beyan oluşturun &bull; kayıtlı içerikte üç desen kontrolü"
+      ],
+      "Part of the WM Suite plugin family": [
+        "WM Suite eklenti ailesinin bir parçası"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Merkez"
+      ],
+      "Standalone": [
+        "Bağımsız"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "UYUM DÜZEYİ BELİRTİLMEDİ"
+      ],
+      "Was dieses Plugin tut": [
+        "Bu eklenti ne yapar"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Bilgilerinizden (öz değerlendirme olarak uyum düzeyi, tarih, iletişim, yaptırım kurumu) bir erişilebilirlik beyanı oluşturur ve bir sayfada kısa kod ile yayınlar. Ayrıca yayınlanmış en fazla 20 sayfa, yazı ve ürünün kayıtlı içeriğini üç desene göre kontrol eder. Bu kontrol WCAG veya EN 301 549 denetiminin yerini tutmaz ve BFSG'nin hizmetinize uygulanıp uygulanmadığını değerlendirmez."
+      ],
+      "Bereiche": [
+        "Bölümler"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Öz değerlendirme, “Beyan” sekmesinde"
+      ],
+      "höchstens 20 je Lauf": [
+        "çalıştırma başına en fazla 20"
+      ],
+      "Seiten mit Befunden": [
+        "Bulgulu sayfalar"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "alt etiketsiz img, boş bağlantılar, atlanan başlık düzeyleri"
+      ],
+      "Letzter Lauf": [
+        "Son çalıştırma"
+      ],
+      "nie": [
+        "hiçbir zaman"
+      ],
+      "nur auf Anforderung": [
+        "yalnızca istek üzerine"
+      ],
+      "Erklärung veröffentlichen": [
+        "Beyanı yayınla"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "“Beyan” sekmesinde uyum düzeyini, iletişim bilgilerini ve yaptırım kurumunu girin."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Bir sayfa oluşturun (ör. “Erişilebilirlik Beyanı”) ve bu kısa kodu ekleyin:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Sayfaya alt bilgide (footer) bağlantı verin."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Desen kontrolünü şimdi çalıştır"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Kayıtlı içerikler kontrol ediliyor …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Yayınlanmış sayfa, yazı veya ürün bulunamadı: hiçbir şey kontrol edilmedi."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Tamamlandı. Kontrol edilen sayfalar:"
+      ],
+      "mit Befunden:": [
+        "bulgulu:"
+      ],
+      "Fehler:": [
+        "Hata:"
+      ],
+      "Angaben für die Erklärung": [
+        "Beyan bilgileri"
+      ],
+      "Name des Unternehmens": [
+        "Şirket adı"
+      ],
+      "Adresse der Website": [
+        "Web sitesi adresi"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Uyum durumu"
+      ],
+      "— bitte wählen —": [
+        "— lütfen seçin —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Kendi öz değerlendirmeniz. Yalnızca web sitenizin incelemesinin desteklediği düzeyi beyan edin."
+      ],
+      "Datum der Selbstbewertung": [
+        "Öz değerlendirme tarihi"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Beyan bu tarihi oluşturulma tarihi olarak belirtir. Kayıtlı tarih yoksa “henüz belirtilmedi” görünür."
+      ],
+      "Ansprechperson (optional)": [
+        "İlgili kişi (isteğe bağlı)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "Geri bildirim e-postası"
+      ],
+      "Telefon (optional)": [
+        "Telefon (isteğe bağlı)"
+      ],
+      "Durchsetzungsstelle": [
+        "Yaptırım kurumu"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Not: Bu adın altında beyan şu anda her zaman Saksonya-Anhalt kurumuna ait bir satır ve e-posta adresi yazdırır."
+      ],
+      "Deinstallation": [
+        "Kaldırma"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Eklenti silindiğinde kayıtlı bilgileri ve kontrol raporunu kaldır"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Varsayılan olarak beyan bilgileri ve son kontrol raporu kaldırma sırasında korunur."
+      ],
+      "Speichern": [
+        "Kaydet"
+      ],
+      "Vorschau": [
+        "Önizleme"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Son desen kontrolü raporu"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Henüz kontrol edilmiş içerikli bir desen kontrolü yok. “Genel Bakış” sekmesinden çalıştırın."
+      ],
+      "Kennung des Laufs": [
+        "Çalıştırma kimliği"
+      ],
+      "Zeitpunkt": [
+        "Zaman"
+      ],
+      "Prüfungen": [
+        "Kontroller"
+      ],
+      "Ergebnis": [
+        "Sonuç"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Sertifika veya yasal uygunluk beyanı değildir: rapor yalnızca üç desenin bulduklarını listeler."
+      ],
+      "Seite": [
+        "Sayfa"
+      ],
+      "Punkte": [
+        "Puan"
+      ],
+      "Befunde": [
+        "Bulgular"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Erişilebilirlik beyanı"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Bu eklentinin ürettiği metin: uyum durumu (öz değerlendirmeniz), oluşturulma tarihi, geri bildirim iletişimi ve yaptırım kurumu. Eklenti, hizmetinizin böyle bir beyana ihtiyaç duyup duymadığını değerlendirmez."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Erişilebilir web içeriği için teknik gereksinim katalogları. Kapsamlı bir inceleme bu eklentideki üç desenden çok daha fazlasını içerir."
+      ],
+      "Musterprüfung": [
+        "Desen kontrolü"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Kayıtlı içerikte alt özniteliği olmayan img öğelerini, metinsiz bağlantıları ve atlanan başlık düzeylerini arar. Tema, menüler, formlar, kontrastlar ve klavye kullanımını görmez."
+      ],
+      "WM BFSG Kennzahlen": [
+        "WM BFSG Metrikleri"
+      ],
+      "BFSG Kennzahl": [
+        "BFSG Metriği"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Beyandan kayıtlı bir bilgiyi veya son desen kontrolü metriğini döndürür."
+      ],
+      "Kennzahl": [
+        "Metrik"
+      ],
+      "noch nicht angegeben": [
+        "henüz belirtilmedi"
+      ],
+      "nicht geprüft": [
+        "kontrol edilmedi"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Erişilebilirlik Beyanı (BFSG Ek 3 ve EGBGB Madde 246 uyarınca)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s, web sitesini (%2$s) Erişilebilirliği Güçlendirme Yasası (BFSG), Avrupa standardı EN 301 549 V3.2.1 ve Web İçeriği Erişilebilirlik Yönergeleri (WCAG 2.2 Seviye AA) ile uyumlu olarak erişilebilir kılmaya özen göstermektedir."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Gereksinimlerle uyum durumu"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "İşletmecinin öz değerlendirmesine göre bu web sitesi, uyumlaştırılmış Avrupa standardı EN 301 549 gereksinimleriyle %s durumundadır."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Uyum durumu henüz belirtilmemiştir."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Bu erişilebilirlik beyanının hazırlanması"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Bu beyan %s tarihinde hazırlanmıştır. Uyum durumuna ilişkin bilgiler işletmecinin öz değerlendirmesine dayanmaktadır."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Hazırlanma tarihi henüz belirtilmemiştir."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Uyum durumuna ilişkin bilgiler işletmecinin öz değerlendirmesine dayanmaktadır."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Geri bildirim ve iletişim bilgileri (geri bildirim mekanizması)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "%s içeriğine engelsiz erişimde eksiklikler mi fark ettiniz? Veya erişilebilirlik uygulamaları hakkında sorularınız mı var? Yetkili iletişim kişimize her zaman başvurabilirsiniz:"
+      ],
+      "Ansprechpartner:": [
+        "İlgili kişi:"
+      ],
+      "E-Mail:": [
+        "E-posta:"
+      ],
+      "Telefon:": [
+        "Telefon:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Yaptırım prosedürü ve piyasa gözetim kurumu"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Erişilebilirlikle ilgili bildirim veya sorularınıza altı hafta içinde tatmin edici bir yanıt alamazsanız yetkili piyasa gözetim ve yaptırım kurumuna başvurabilirsiniz:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Dijital Erişilebilirlik Denetim Kurumu • Saksonya-Anhalt Eyaleti"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Bu beyan %s tarihinde bir öz değerlendirmeye dayanarak hazırlanmıştır. Harici bir kuruluş tarafından yapılan sertifikasyona dayanmamaktadır."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Bu beyan bir öz değerlendirmeye dayanmaktadır. Harici bir kuruluş tarafından yapılan sertifikasyona dayanmamaktadır."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "alt özniteliği olmayan %d görsel (WCAG 1.1.1)",
+        "alt özniteliği olmayan %d görsel (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "metinsiz %d bağlantı (WCAG 2.4.4)",
+        "metinsiz %d bağlantı (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d atlanan başlık düzeyi (WCAG 1.3.1)",
+        "%d atlanan başlık düzeyi (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Erişilebilirlik Beyanı (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Kayıtlı ayarlardan veya isteğe bağlı blok özniteliklerinden erişilebilirlik beyanını gösterir."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Bilgileri geçersiz kıl (isteğe bağlı)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Kayıtlı ayarı kullan"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Erişilebilirlik Beyanı (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Kayıtlı ayarlardan veya isteğe bağlı blok özniteliklerinden erişilebilirlik beyanını gösterir."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "erişilebilirlik"
+      ],
+      "block keyword\u0004anlage 3": [
+        "ek 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "beyan"
+      ]
+    }
+  }
+}

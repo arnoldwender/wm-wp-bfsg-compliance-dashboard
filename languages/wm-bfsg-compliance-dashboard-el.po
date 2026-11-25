@@ -1,0 +1,678 @@
+# Translation of wm-bfsg-compliance-dashboard in el
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-bfsg-compliance-dashboard 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-bfsg-"
+"compliance-dashboard\n"
+"POT-Creation-Date: 2026-11-21T12:56:13+00:00\n"
+"PO-Revision-Date: 2026-11-21 13:56+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-bfsg-"
+"compliance-dashboard/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-bfsg-"
+"compliance-dashboard/issues>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-bfsg-compliance-dashboard\n"
+
+#. Plugin Name of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator"
+msgstr "Πίνακας Νομικής Συμμόρφωσης WM BFSG 2025 & Γεννήτρια Παραρτήματος 3"
+
+#. Plugin URI of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid ""
+"https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+msgstr ""
+"https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+
+#. Description of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid ""
+"Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers "
+"(Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten "
+"Inhalt von bis zu 20 Seiten durch."
+msgstr ""
+"Δημιουργεί τη δήλωση προσβασιμότητας από τα στοιχεία του φορέα εκμετάλλευσης "
+"(shortcode και μπλοκ) και εκτελεί τρεις ελέγχους προτύπων στο αποθηκευμένο "
+"περιεχόμενο έως 20 σελίδων."
+
+#. Author of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-bfsg-compliance-dashboard.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#: includes/Admin/AdminDashboard.php:93
+msgid "WM BFSG — Musterprüfung & Erklärung"
+msgstr "WM BFSG — Έλεγχος προτύπων & Δήλωση"
+
+#: includes/Admin/AdminDashboard.php:114
+msgid "Musterprüfung noch nicht ausgeführt"
+msgstr "Ο έλεγχος προτύπων δεν έχει εκτελεστεί ακόμη"
+
+#. translators: 1: items with findings, 2: items checked
+#: includes/Admin/AdminDashboard.php:117
+#, php-format
+msgid "Befunde auf %1$d von %2$d geprüften Seiten"
+msgstr "Ευρήματα σε %1$d από %2$d ελεγμένες σελίδες"
+
+#: includes/Admin/AdminDashboard.php:121
+msgid "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit"
+msgstr "Τρεις έλεγχοι προτύπων στο αποθηκευμένο περιεχόμενο – όχι έλεγχος WCAG"
+
+#: includes/Admin/AdminDashboard.php:128 includes/Admin/AdminDashboard.php:304
+#: includes/Frontend/BlockIntegrations.php:73
+msgid "Geprüfte Seiten"
+msgstr "Ελεγμένες σελίδες"
+
+#: includes/Admin/AdminDashboard.php:132
+msgid "Mit Befunden"
+msgstr "Με ευρήματα"
+
+#: includes/Admin/AdminDashboard.php:135
+msgid "nicht angegeben"
+msgstr "δεν έχει δηλωθεί"
+
+#: includes/Admin/AdminDashboard.php:136 includes/Admin/AdminDashboard.php:299
+msgid "Erklärter Stand"
+msgstr "Δηλωμένο επίπεδο"
+
+#: includes/Admin/AdminDashboard.php:142
+msgid "BFSG Dashboard öffnen"
+msgstr "Άνοιγμα πίνακα BFSG"
+
+#: includes/Admin/AdminDashboard.php:161
+msgid "WM BFSG Dashboard"
+msgstr "Πίνακας WM BFSG"
+
+#: includes/Admin/AdminDashboard.php:162
+msgid "BFSG Dashboard"
+msgstr "Πίνακας BFSG"
+
+#: includes/Admin/AdminDashboard.php:230
+msgid "Übersicht"
+msgstr "Επισκόπηση"
+
+#: includes/Admin/AdminDashboard.php:231
+msgid "Erklärung"
+msgstr "Δήλωση"
+
+#: includes/Admin/AdminDashboard.php:232
+msgid "Prüfbericht"
+msgstr "Αναφορά ελέγχου"
+
+#: includes/Admin/AdminDashboard.php:233 includes/Admin/AdminDashboard.php:494
+msgid "Begriffe"
+msgstr "Όροι"
+
+#: includes/Admin/AdminDashboard.php:261
+msgid "WM BFSG — Erklärung zur Barrierefreiheit"
+msgstr "WM BFSG — Δήλωση προσβασιμότητας"
+
+#: includes/Admin/AdminDashboard.php:262
+msgid ""
+"Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im "
+"gespeicherten Inhalt"
+msgstr ""
+"Δημιουργία δήλωσης από τα στοιχεία σας &bull; τρεις έλεγχοι προτύπων στο "
+"αποθηκευμένο περιεχόμενο"
+
+#: includes/Admin/AdminDashboard.php:266
+msgid "Part of the WM Suite plugin family"
+msgstr "Μέλος της οικογένειας προσθέτων WM Suite"
+
+#: includes/Admin/AdminDashboard.php:268
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:269
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/Admin/AdminDashboard.php:269
+msgid "Standalone"
+msgstr "Αυτόνομο"
+
+#: includes/Admin/AdminDashboard.php:272
+msgid "STAND DER VEREINBARKEIT NICHT ANGEGEBEN"
+msgstr "ΤΟ ΕΠΙΠΕΔΟ ΣΥΜΜΟΡΦΩΣΗΣ ΔΕΝ ΕΧΕΙ ΔΗΛΩΘΕΙ"
+
+#: includes/Admin/AdminDashboard.php:279
+msgid "Was dieses Plugin tut"
+msgstr "Τι κάνει αυτό το πρόσθετο"
+
+#: includes/Admin/AdminDashboard.php:282
+msgid ""
+"Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der "
+"Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und "
+"gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den "
+"gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und "
+"Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der "
+"Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und "
+"wie das BFSG für Ihr Angebot gilt."
+msgstr ""
+"Δημιουργεί μια δήλωση προσβασιμότητας από τα στοιχεία σας (επίπεδο "
+"συμμόρφωσης ως αυτοαξιολόγηση, ημερομηνία, επικοινωνία, φορέας επιβολής) και "
+"την εμφανίζει μέσω shortcode σε σελίδα. Επιπλέον ελέγχει τρία πρότυπα στο "
+"αποθηκευμένο περιεχόμενο έως 20 δημοσιευμένων σελίδων, άρθρων και προϊόντων. "
+"Ο έλεγχος δεν αντικαθιστά αξιολόγηση κατά WCAG ή EN 301 549 και δεν κρίνει "
+"αν ο BFSG εφαρμόζεται στην υπηρεσία σας."
+
+#: includes/Admin/AdminDashboard.php:287
+msgid "Bereiche"
+msgstr "Ενότητες"
+
+#: includes/Admin/AdminDashboard.php:301
+msgid "Selbstbewertung, im Tab „Erklärung“"
+msgstr "Αυτοαξιολόγηση στην καρτέλα «Δήλωση»"
+
+#: includes/Admin/AdminDashboard.php:306
+msgid "höchstens 20 je Lauf"
+msgstr "έως 20 ανά εκτέλεση"
+
+#: includes/Admin/AdminDashboard.php:309
+#: includes/Frontend/BlockIntegrations.php:77
+msgid "Seiten mit Befunden"
+msgstr "Σελίδες με ευρήματα"
+
+#: includes/Admin/AdminDashboard.php:311
+msgid "img ohne alt, leere Links, Überschriftensprünge"
+msgstr "img χωρίς alt, κενοί σύνδεσμοι, παραλειφθέντα επίπεδα επικεφαλίδων"
+
+#: includes/Admin/AdminDashboard.php:314
+#: includes/Frontend/BlockIntegrations.php:81
+msgid "Letzter Lauf"
+msgstr "Τελευταία εκτέλεση"
+
+#: includes/Admin/AdminDashboard.php:315
+#: includes/Frontend/BlockIntegrations.php:165
+msgid "nie"
+msgstr "ποτέ"
+
+#: includes/Admin/AdminDashboard.php:316
+msgid "nur auf Anforderung"
+msgstr "μόνο κατόπιν αιτήματος"
+
+#: includes/Admin/AdminDashboard.php:321
+msgid "Erklärung veröffentlichen"
+msgstr "Δημοσίευση δήλωσης"
+
+#: includes/Admin/AdminDashboard.php:323
+msgid ""
+"Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle "
+"eintragen."
+msgstr ""
+"Στην καρτέλα «Δήλωση» συμπληρώστε επίπεδο συμμόρφωσης, στοιχεία επικοινωνίας "
+"και φορέα επιβολής."
+
+#: includes/Admin/AdminDashboard.php:324
+msgid ""
+"Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen "
+"Shortcode einfügen:"
+msgstr ""
+"Δημιουργήστε μια σελίδα (π.χ. «Δήλωση προσβασιμότητας») και εισαγάγετε αυτό "
+"το shortcode:"
+
+#: includes/Admin/AdminDashboard.php:325
+msgid "Die Seite im Footer verlinken."
+msgstr "Προσθέστε σύνδεσμο προς τη σελίδα στο υποσέλιδο."
+
+#: includes/Admin/AdminDashboard.php:328
+msgid "Musterprüfung jetzt ausführen"
+msgstr "Εκτέλεση ελέγχου προτύπων τώρα"
+
+#: includes/Admin/AdminDashboard.php:343
+msgid "Prüfe gespeicherte Inhalte …"
+msgstr "Έλεγχος αποθηκευμένου περιεχομένου …"
+
+#: includes/Admin/AdminDashboard.php:353
+msgid ""
+"Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts "
+"geprüft."
+msgstr ""
+"Δεν βρέθηκαν δημοσιευμένες σελίδες, άρθρα ή προϊόντα: δεν ελέγχθηκε τίποτα."
+
+#: includes/Admin/AdminDashboard.php:356
+msgid "Fertig. Geprüfte Seiten:"
+msgstr "Ολοκληρώθηκε. Ελεγμένες σελίδες:"
+
+#: includes/Admin/AdminDashboard.php:356
+msgid "mit Befunden:"
+msgstr "με ευρήματα:"
+
+#: includes/Admin/AdminDashboard.php:359
+msgid "Fehler:"
+msgstr "Σφάλμα:"
+
+#: includes/Admin/AdminDashboard.php:369
+msgid "Angaben für die Erklärung"
+msgstr "Στοιχεία για τη δήλωση"
+
+#: includes/Admin/AdminDashboard.php:374 blocks-src/index.js:49
+msgid "Name des Unternehmens"
+msgstr "Επωνυμία επιχείρησης"
+
+#: includes/Admin/AdminDashboard.php:378 blocks-src/index.js:56
+msgid "Adresse der Website"
+msgstr "Διεύθυνση ιστοτόπου"
+
+#: includes/Admin/AdminDashboard.php:382
+#: includes/Frontend/BlockIntegrations.php:65 blocks-src/index.js:63
+msgid "Stand der Vereinbarkeit"
+msgstr "Κατάσταση συμμόρφωσης"
+
+#: includes/Admin/AdminDashboard.php:390
+msgid "— bitte wählen —"
+msgstr "— επιλέξτε —"
+
+#: includes/Admin/AdminDashboard.php:395
+msgid ""
+"Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt."
+msgstr ""
+"Η αυτοαξιολόγησή σας. Δηλώστε μόνο ό,τι τεκμηριώνεται από έλεγχο του "
+"ιστοτόπου σας."
+
+#: includes/Admin/AdminDashboard.php:399
+#: includes/Frontend/BlockIntegrations.php:69
+msgid "Datum der Selbstbewertung"
+msgstr "Ημερομηνία αυτοαξιολόγησης"
+
+#: includes/Admin/AdminDashboard.php:406
+msgid ""
+"Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes "
+"Datum steht dort „noch nicht angegeben“."
+msgstr ""
+"Η δήλωση αναφέρει αυτή την ημερομηνία ως ημερομηνία σύνταξης. Χωρίς "
+"αποθηκευμένη ημερομηνία εμφανίζεται «δεν έχει δηλωθεί ακόμη»."
+
+#: includes/Admin/AdminDashboard.php:410 blocks-src/index.js:79
+msgid "Ansprechperson (optional)"
+msgstr "Υπεύθυνος επικοινωνίας (προαιρετικό)"
+
+#: includes/Admin/AdminDashboard.php:414 blocks-src/index.js:86
+msgid "E-Mail für Rückmeldungen"
+msgstr "E-mail για σχόλια"
+
+#: includes/Admin/AdminDashboard.php:418 blocks-src/index.js:93
+msgid "Telefon (optional)"
+msgstr "Τηλέφωνο (προαιρετικό)"
+
+#: includes/Admin/AdminDashboard.php:422 blocks-src/index.js:100
+msgid "Durchsetzungsstelle"
+msgstr "Φορέας επιβολής"
+
+#: includes/Admin/AdminDashboard.php:425
+msgid ""
+"Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile "
+"und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle."
+msgstr ""
+"Σημείωση: Κάτω από αυτό το όνομα, η δήλωση εκτυπώνει επί του παρόντος πάντα "
+"μία γραμμή και διεύθυνση e-mail της υπηρεσίας της Σαξονίας-Άνχαλτ."
+
+#: includes/Admin/AdminDashboard.php:429
+msgid "Deinstallation"
+msgstr "Απεγκατάσταση"
+
+#: includes/Admin/AdminDashboard.php:433
+msgid "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen"
+msgstr ""
+"Διαγραφή αποθηκευμένων στοιχείων και αναφοράς ελέγχου κατά τη διαγραφή του "
+"προσθέτου"
+
+#: includes/Admin/AdminDashboard.php:435
+msgid ""
+"Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht "
+"bei der Deinstallation erhalten."
+msgstr ""
+"Από προεπιλογή, τα στοιχεία της δήλωσης και η τελευταία αναφορά διατηρούνται "
+"κατά την απεγκατάσταση."
+
+#: includes/Admin/AdminDashboard.php:439
+msgid "Speichern"
+msgstr "Αποθήκευση"
+
+#: includes/Admin/AdminDashboard.php:444
+msgid "Vorschau"
+msgstr "Προεπισκόπηση"
+
+#: includes/Admin/AdminDashboard.php:455
+msgid "Prüfbericht der letzten Musterprüfung"
+msgstr "Αναφορά του τελευταίου ελέγχου προτύπων"
+
+#: includes/Admin/AdminDashboard.php:457
+msgid ""
+"Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ "
+"ausführen."
+msgstr ""
+"Δεν υπάρχει ακόμη έλεγχος με εξετασμένο περιεχόμενο. Εκτελέστε τον στην "
+"καρτέλα «Επισκόπηση»."
+
+#: includes/Admin/AdminDashboard.php:461
+msgid "Kennung des Laufs"
+msgstr "Αναγνωριστικό εκτέλεσης"
+
+#: includes/Admin/AdminDashboard.php:462
+msgid "Zeitpunkt"
+msgstr "Χρονική στιγμή"
+
+#: includes/Admin/AdminDashboard.php:463
+msgid "Prüfungen"
+msgstr "Έλεγχοι"
+
+#: includes/Admin/AdminDashboard.php:464
+msgid "Ergebnis"
+msgstr "Αποτέλεσμα"
+
+#: includes/Admin/AdminDashboard.php:467
+msgid ""
+"Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt "
+"nur, was die drei Muster gefunden haben."
+msgstr ""
+"Δεν αποτελεί πιστοποιητικό ούτε δήλωση νομικής συμμόρφωσης: η αναφορά "
+"παραθέτει μόνο όσα εντόπισαν τα τρία πρότυπα."
+
+#: includes/Admin/AdminDashboard.php:472
+msgid "Seite"
+msgstr "Σελίδα"
+
+#: includes/Admin/AdminDashboard.php:473
+msgid "Punkte"
+msgstr "Βαθμοί"
+
+#: includes/Admin/AdminDashboard.php:474
+msgid "Befunde"
+msgstr "Ευρήματα"
+
+#: includes/Admin/AdminDashboard.php:497
+msgid "Erklärung zur Barrierefreiheit"
+msgstr "Δήλωση προσβασιμότητας"
+
+#: includes/Admin/AdminDashboard.php:498
+msgid ""
+"Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre "
+"Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und "
+"Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche "
+"Erklärung braucht, beurteilt das Plugin nicht."
+msgstr ""
+"Το κείμενο που παράγει το πρόσθετο: κατάσταση συμμόρφωσης (αυτοαξιολόγηση), "
+"ημερομηνία σύνταξης, επικοινωνία ανατροφοδότησης και φορέας επιβολής. Το "
+"πρόσθετο δεν κρίνει αν η προσφορά σας απαιτεί τέτοια δήλωση."
+
+#: includes/Admin/AdminDashboard.php:501
+msgid "WCAG 2.2 / EN 301 549"
+msgstr "WCAG 2.2 / EN 301 549"
+
+#: includes/Admin/AdminDashboard.php:502
+msgid ""
+"Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung "
+"danach umfasst weit mehr als die drei Muster dieses Plugins."
+msgstr ""
+"Τεχνικοί κατάλογοι απαιτήσεων για προσβάσιμο περιεχόμενο ιστού. Ένας πλήρης "
+"έλεγχος καλύπτει πολύ περισσότερα από τα τρία πρότυπα αυτού του προσθέτου."
+
+#: includes/Admin/AdminDashboard.php:505
+msgid "Musterprüfung"
+msgstr "Έλεγχος προτύπων"
+
+#: includes/Admin/AdminDashboard.php:506
+msgid ""
+"Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text "
+"und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste "
+"und Tastaturbedienung sieht sie nicht."
+msgstr ""
+"Αναζητά στο αποθηκευμένο περιεχόμενο στοιχεία img χωρίς alt, συνδέσμους "
+"χωρίς κείμενο και παραλειφθέντα επίπεδα επικεφαλίδων. Δεν εξετάζει θέμα, "
+"μενού, φόρμες, αντιθέσεις ή πλοήγηση με πληκτρολόγιο."
+
+#: includes/Frontend/BlockIntegrations.php:38
+msgid "WM BFSG Kennzahlen"
+msgstr "Δείκτες WM BFSG"
+
+#: includes/Frontend/BlockIntegrations.php:52
+msgid "BFSG Kennzahl"
+msgstr "Δείκτης BFSG"
+
+#: includes/Frontend/BlockIntegrations.php:56
+msgid ""
+"Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten "
+"Musterprüfung aus."
+msgstr ""
+"Εμφανίζει ένα αποθηκευμένο στοιχείο της δήλωσης ή έναν δείκτη του τελευταίου "
+"ελέγχου προτύπων."
+
+#: includes/Frontend/BlockIntegrations.php:60
+msgid "Kennzahl"
+msgstr "Δείκτης"
+
+#: includes/Frontend/BlockIntegrations.php:138
+#: includes/Frontend/BlockIntegrations.php:142
+msgid "noch nicht angegeben"
+msgstr "δεν έχει δηλωθεί ακόμη"
+
+#: includes/Frontend/BlockIntegrations.php:162
+msgid "nicht geprüft"
+msgstr "δεν ελέγχθηκε"
+
+#: includes/Legal/Anlage3Generator.php:59
+msgid "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)"
+msgstr ""
+"Δήλωση προσβασιμότητας (σύμφωνα με το Παράρτημα 3 BFSG & άρθρο 246 EGBGB)"
+
+#. translators: 1: company name, 2: link to the website
+#: includes/Legal/Anlage3Generator.php:66
+#, php-format
+msgid ""
+"%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem "
+"Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 "
+"V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) "
+"barrierefrei zugänglich zu machen."
+msgstr ""
+"Η %1$s καταβάλλει προσπάθεια ώστε ο ιστότοπός της (%2$s) να είναι "
+"προσβάσιμος σύμφωνα με τον Νόμο Ενίσχυσης της Προσβασιμότητας (BFSG), το "
+"ευρωπαϊκό πρότυπο EN 301 549 V3.2.1 και τις Οδηγίες Προσβασιμότητας "
+"Περιεχομένου Ιστού (WCAG 2.2 επίπεδο AA)."
+
+#: includes/Legal/Anlage3Generator.php:71
+msgid "1. Stand der Vereinbarkeit mit den Anforderungen"
+msgstr "1. Κατάσταση συμμόρφωσης με τις απαιτήσεις"
+
+#. translators: %s: compliance level
+#: includes/Legal/Anlage3Generator.php:74
+#, php-format
+msgid ""
+"Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den "
+"Vorgaben der harmonisierten europäischen Norm EN 301 549 %s."
+msgstr ""
+"Σύμφωνα με την αυτοαξιολόγηση του φορέα εκμετάλλευσης, αυτός ο ιστότοπος "
+"είναι %s με τις απαιτήσεις του εναρμονισμένου ευρωπαϊκού προτύπου EN 301 549."
+
+#: includes/Legal/Anlage3Generator.php:76
+msgid "Der Stand der Vereinbarkeit ist noch nicht angegeben."
+msgstr "Η κατάσταση συμμόρφωσης δεν έχει ακόμη δηλωθεί."
+
+#: includes/Legal/Anlage3Generator.php:79
+msgid "2. Erstellung dieser Erklärung zur Barrierefreiheit"
+msgstr "2. Σύνταξη της παρούσας δήλωσης προσβασιμότητας"
+
+#. translators: %s: assessment date
+#: includes/Legal/Anlage3Generator.php:82
+#, php-format
+msgid ""
+"Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der "
+"Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers."
+msgstr ""
+"Η παρούσα δήλωση συντάχθηκε στις %s. Τα στοιχεία σχετικά με την κατάσταση "
+"συμμόρφωσης βασίζονται σε αυτοαξιολόγηση του φορέα εκμετάλλευσης."
+
+#: includes/Legal/Anlage3Generator.php:84
+msgid "Das Erstellungsdatum ist noch nicht angegeben."
+msgstr "Η ημερομηνία σύνταξης δεν έχει ακόμη δηλωθεί."
+
+#: includes/Legal/Anlage3Generator.php:84
+msgid ""
+"Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung "
+"des Betreibers."
+msgstr ""
+"Τα στοιχεία σχετικά με την κατάσταση συμμόρφωσης βασίζονται σε "
+"αυτοαξιολόγηση του φορέα εκμετάλλευσης."
+
+#: includes/Legal/Anlage3Generator.php:87
+msgid "3. Feedback und Kontaktangaben (Feedback-Mechanismus)"
+msgstr ""
+"3. Υποβολή παρατηρήσεων και στοιχεία επικοινωνίας (μηχανισμός "
+"ανατροφοδότησης)"
+
+#. translators: %s: website URL
+#: includes/Legal/Anlage3Generator.php:89
+#, php-format
+msgid ""
+"Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? "
+"Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich "
+"jederzeit an unsere zuständige Ansprechperson wenden:"
+msgstr ""
+"Παρατηρήσατε ελλείψεις στην προσβάσιμη πρόσβαση σε περιεχόμενο του %s; Ή "
+"έχετε ερωτήσεις σχετικά με την εφαρμογή της προσβασιμότητας; Μπορείτε ανά "
+"πάσα στιγμή να επικοινωνήσετε με τον αρμόδιο υπεύθυνο:"
+
+#: includes/Legal/Anlage3Generator.php:92
+msgid "Ansprechpartner:"
+msgstr "Υπεύθυνος επικοινωνίας:"
+
+#: includes/Legal/Anlage3Generator.php:94
+#: includes/Legal/Anlage3Generator.php:105
+msgid "E-Mail:"
+msgstr "E-mail:"
+
+#: includes/Legal/Anlage3Generator.php:96
+msgid "Telefon:"
+msgstr "Τηλέφωνο:"
+
+#: includes/Legal/Anlage3Generator.php:100
+msgid "4. Durchsetzungsverfahren & Marktüberwachungsbehörde"
+msgstr "4. Διαδικασία επιβολής & αρχή εποπτείας της αγοράς"
+
+#: includes/Legal/Anlage3Generator.php:101
+msgid ""
+"Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb "
+"von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich "
+"an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:"
+msgstr ""
+"Εάν εντός έξι εβδομάδων δεν λάβετε ικανοποιητική απάντηση σε αναφορές ή "
+"ερωτήματα σχετικά με την προσβασιμότητα, μπορείτε να απευθυνθείτε στον "
+"αρμόδιο φορέα εποπτείας της αγοράς και επιβολής:"
+
+#: includes/Legal/Anlage3Generator.php:104
+msgid ""
+"Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt"
+msgstr ""
+"Εποπτική Αρχή Ψηφιακής Προσβασιμότητας • Ομόσπονδο Κρατίδιο Σαξονίας-Άνχαλτ"
+
+#. translators: %s: assessment date
+#: includes/Legal/Anlage3Generator.php:116
+#, php-format
+msgid ""
+"Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. "
+"Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde."
+msgstr ""
+"Η παρούσα δήλωση συντάχθηκε στις %s βάσει αυτοαξιολόγησης. Δεν βασίζεται σε "
+"πιστοποίηση από εξωτερικό φορέα."
+
+#: includes/Legal/Anlage3Generator.php:121
+msgid ""
+"Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch "
+"eine externe Stelle liegt ihr nicht zugrunde."
+msgstr ""
+"Η παρούσα δήλωση βασίζεται σε αυτοαξιολόγηση. Δεν βασίζεται σε πιστοποίηση "
+"από εξωτερικό φορέα."
+
+#. translators: %d: number of images
+#: includes/Scanner/AccessibilityAuditor.php:81
+#, php-format
+msgid "%d Bild ohne alt-Attribut (WCAG 1.1.1)"
+msgid_plural "%d Bilder ohne alt-Attribut (WCAG 1.1.1)"
+msgstr[0] "%d εικόνα χωρίς ιδιότητα alt (WCAG 1.1.1)"
+msgstr[1] "%d εικόνες χωρίς ιδιότητα alt (WCAG 1.1.1)"
+
+#. translators: %d: number of links
+#: includes/Scanner/AccessibilityAuditor.php:89
+#, php-format
+msgid "%d Link ohne Text (WCAG 2.4.4)"
+msgid_plural "%d Links ohne Text (WCAG 2.4.4)"
+msgstr[0] "%d σύνδεσμος χωρίς κείμενο (WCAG 2.4.4)"
+msgstr[1] "%d σύνδεσμοι χωρίς κείμενο (WCAG 2.4.4)"
+
+#. translators: %d: number of skipped heading levels
+#: includes/Scanner/AccessibilityAuditor.php:106
+#, php-format
+msgid "%d übersprungene Überschriftenebene (WCAG 1.3.1)"
+msgid_plural "%d übersprungene Überschriftenebenen (WCAG 1.3.1)"
+msgstr[0] "%d παραλειφθέν επίπεδο επικεφαλίδας (WCAG 1.3.1)"
+msgstr[1] "%d παραλειφθέντα επίπεδα επικεφαλίδων (WCAG 1.3.1)"
+
+#: blocks-src/index.js:12
+msgid "Erklärung zur Barrierefreiheit (BFSG)"
+msgstr "Δήλωση προσβασιμότητας (BFSG)"
+
+#: blocks-src/index.js:13
+msgid ""
+"Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder "
+"optionalen Block-Attributen aus."
+msgstr ""
+"Εμφανίζει τη δήλωση προσβασιμότητας από τις αποθηκευμένες ρυθμίσεις ή "
+"προαιρετικά γνωρίσματα του μπλοκ."
+
+#: blocks-src/index.js:45
+msgid "Angaben überschreiben (optional)"
+msgstr "Παράκαμψη στοιχείων (προαιρετικό)"
+
+#: blocks-src/index.js:67
+msgid "Gespeicherte Einstellung verwenden"
+msgstr "Χρήση αποθηκευμένης ρύθμισης"
+
+#: blocks/anlage-3/block.json
+msgctxt "block title"
+msgid "Erklärung zur Barrierefreiheit (BFSG)"
+msgstr "Δήλωση προσβασιμότητας (BFSG)"
+
+#: blocks/anlage-3/block.json
+msgctxt "block description"
+msgid ""
+"Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder "
+"optionalen Block-Attributen aus."
+msgstr ""
+"Εμφανίζει τη δήλωση προσβασιμότητας από τις αποθηκευμένες ρυθμίσεις ή "
+"προαιρετικά γνωρίσματα του μπλοκ."
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "bfsg"
+msgstr "bfsg"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "barrierefreiheit"
+msgstr "προσβασιμότητα"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "anlage 3"
+msgstr "παράρτημα 3"
+
+#: blocks/anlage-3/block.json
+msgctxt "block keyword"
+msgid "accessibility"
+msgstr "δήλωση"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"

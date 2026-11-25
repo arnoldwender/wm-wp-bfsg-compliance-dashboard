@@ -1,0 +1,378 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:35+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "lt_LT",
+        "plural-forms": "nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : n%10>=2 && n%10<=9 && (n%100<11 || n%100>19) ? 1 : 2);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "WM BFSG 2025 Teisinės atitikties skydelis ir 3 priedo generatorius"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Sudaro prieinamumo pareiškimą pagal operatoriaus duomenis (trumpasis kodas ir blokas) ir atlieka tris šablonų patikras iki 20 puslapių išsaugotame turinyje."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Šablonų patikra ir pareiškimas"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Šablonų patikra dar nevykdyta"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Pastabos %1$d iš %2$d patikrintų puslapių"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Trys šablonų patikros išsaugotame turinyje – tai nėra WCAG auditas"
+      ],
+      "Geprüfte Seiten": [
+        "Patikrinti puslapiai"
+      ],
+      "Mit Befunden": [
+        "Su pastabomis"
+      ],
+      "nicht angegeben": [
+        "nenurodyta"
+      ],
+      "Erklärter Stand": [
+        "Deklaruotas lygis"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Atidaryti BFSG skydelį"
+      ],
+      "WM BFSG Dashboard": [
+        "WM BFSG skydelis"
+      ],
+      "BFSG Dashboard": [
+        "BFSG skydelis"
+      ],
+      "Übersicht": [
+        "Apžvalga"
+      ],
+      "Erklärung": [
+        "Pareiškimas"
+      ],
+      "Prüfbericht": [
+        "Patikros ataskaita"
+      ],
+      "Begriffe": [
+        "Sąvokos"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Prieinamumo pareiškimas"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Generuoti pareiškimą iš jūsų duomenų &bull; trys šablonų patikros išsaugotame turinyje"
+      ],
+      "Part of the WM Suite plugin family": [
+        "WM Suite įskiepių šeimos dalis"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Savarankiškas"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "ATITIKTIES LYGIS NENURODYTAS"
+      ],
+      "Was dieses Plugin tut": [
+        "Ką daro šis įskiepis"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Jis sugeneruoja prieinamumo pareiškimą iš jūsų duomenų (atitikties lygis kaip įsivertinimas, data, kontaktai, priežiūros institucija) ir parodo jį trumpuoju kodu puslapyje. Taip pat tikrina tris šablonus iki 20 paskelbtų puslapių, įrašų ir produktų išsaugotame turinyje. Patikra nepakeičia WCAG ar EN 301 549 vertinimo ir nenustato, ar BFSG taikomas jūsų pasiūlymui."
+      ],
+      "Bereiche": [
+        "Sritys"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Įsivertinimas kortelėje „Pareiškimas“"
+      ],
+      "höchstens 20 je Lauf": [
+        "daugiausia 20 per paleidimą"
+      ],
+      "Seiten mit Befunden": [
+        "Puslapiai su pastabomis"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img be alt, tuščios nuorodos, praleisti antraščių lygiai"
+      ],
+      "Letzter Lauf": [
+        "Paskutinis paleidimas"
+      ],
+      "nie": [
+        "niekada"
+      ],
+      "nur auf Anforderung": [
+        "tik pagal užklausą"
+      ],
+      "Erklärung veröffentlichen": [
+        "Paskelbti pareiškimą"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Kortelėje „Pareiškimas“ įveskite atitikties lygį, kontaktus ir priežiūros instituciją."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Sukurkite puslapį (pvz., „Prieinamumo pareiškimas“) ir įterpkite šį trumpąjį kodą:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Pridėkite puslapio nuorodą poraštėje."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Vykdyti šablonų patikrą dabar"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Tikrinamas išsaugotas turinys …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Paskelbtų puslapių, įrašų ar produktų nerasta: nieko nepatikrinta."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Atlikta. Patikrinta puslapių:"
+      ],
+      "mit Befunden:": [
+        "su pastabomis:"
+      ],
+      "Fehler:": [
+        "Klaida:"
+      ],
+      "Angaben für die Erklärung": [
+        "Pareiškimo duomenys"
+      ],
+      "Name des Unternehmens": [
+        "Įmonės pavadinimas"
+      ],
+      "Adresse der Website": [
+        "Svetainės adresas"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Atitikties būsena"
+      ],
+      "— bitte wählen —": [
+        "— pasirinkite —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Jūsų įsivertinimas. Deklaruokite tik tai, ką pagrindžia jūsų svetainės patikra."
+      ],
+      "Datum der Selbstbewertung": [
+        "Įsivertinimo data"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Pareiškime ši data nurodoma kaip parengimo data. Be išsaugotos datos rodoma „dar nenurodyta“."
+      ],
+      "Ansprechperson (optional)": [
+        "Kontaktinis asmuo (neprivaloma)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "El. paštas atsiliepimams"
+      ],
+      "Telefon (optional)": [
+        "Telefonas (neprivaloma)"
+      ],
+      "Durchsetzungsstelle": [
+        "Įgyvendinimo institucija"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Pastaba: Po šiuo pavadinimu pareiškime šiuo metu visada spausdinama Saksonijos-Anhalto įstaigos eilutė ir el. pašto adresas."
+      ],
+      "Deinstallation": [
+        "Pašalinimas"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Pašalinti išsaugotus duomenis ir patikros ataskaitą ištrinant įskiepį"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Pagal numatytuosius nustatymus pareiškimo duomenys ir paskutinė ataskaita pašalinant išsaugomi."
+      ],
+      "Speichern": [
+        "Išsaugoti"
+      ],
+      "Vorschau": [
+        "Peržiūra"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Paskutinės šablonų patikros ataskaita"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Patikros su patikrintu turiniu dar nėra. Vykdykite ją kortelėje „Apžvalga“."
+      ],
+      "Kennung des Laufs": [
+        "Paleidimo identifikatorius"
+      ],
+      "Zeitpunkt": [
+        "Laikas"
+      ],
+      "Prüfungen": [
+        "Patikros"
+      ],
+      "Ergebnis": [
+        "Rezultatas"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Tai nėra sertifikatas ar teisinės atitikties patvirtinimas: ataskaitoje nurodoma tik tai, ką rado trys šablonai."
+      ],
+      "Seite": [
+        "Puslapis"
+      ],
+      "Punkte": [
+        "Balai"
+      ],
+      "Befunde": [
+        "Pastabos"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Prieinamumo pareiškimas"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Įskiepio generuojamas tekstas: atitikties būsena (įsivertinimas), parengimo data, kontaktas atsiliepimams ir įgyvendinimo institucija. Įskiepis nevertina, ar jūsų paslaugai toks pareiškimas privalomas."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Prieinamo žiniatinklio turinio techninių reikalavimų katalogai. Išsami patikra apima kur kas daugiau nei šio įskiepio trys šablonai."
+      ],
+      "Musterprüfung": [
+        "Šablonų patikra"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Išsaugotame turinyje ieško img elementų be alt, nuorodų be teksto ir praleistų antraščių lygių. Temos, meniu, formų, kontrastų ir klaviatūros valdymo ji nemato."
+      ],
+      "WM BFSG Kennzahlen": [
+        "WM BFSG rodikliai"
+      ],
+      "BFSG Kennzahl": [
+        "BFSG rodiklis"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Išveda išsaugotą pareiškimo reikšmę arba paskutinės šablonų patikros rodiklį."
+      ],
+      "Kennzahl": [
+        "Rodiklis"
+      ],
+      "noch nicht angegeben": [
+        "dar nenurodyta"
+      ],
+      "nicht geprüft": [
+        "netikrinta"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Prieinamumo pareiškimas (pagal BFSG 3 priedą ir EGBGB 246 str.)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s siekia padaryti savo interneto svetainę (%2$s) prieinamą pagal Prieinamumo stiprinimo įstatymą (BFSG), Europos standartą EN 301 549 V3.2.1 ir Žiniatinklio turinio prieinamumo gaires (WCAG 2.2 AA lygis)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Atitikties reikalavimams būsena"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Pagal operatoriaus įsivertinimą ši svetainė yra %s darniojo Europos standarto EN 301 549 reikalavimams."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Atitikties būsena dar nenurodyta."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Šio prieinamumo pareiškimo parengimas"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Šis pareiškimas parengtas %s. Duomenys apie atitikties būseną grindžiami operatoriaus įsivertinimu."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Parengimo data dar nenurodyta."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Duomenys apie atitikties būseną grindžiami operatoriaus įsivertinimu."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Atsiliepimai ir kontaktiniai duomenys (grįžtamojo ryšio mechanizmas)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Ar pastebėjote trūkumų pasiekiant %s turinį? Ar turite klausimų dėl prieinamumo įgyvendinimo? Bet kada galite kreiptis į mūsų atsakingą asmenį:"
+      ],
+      "Ansprechpartner:": [
+        "Kontaktinis asmuo:"
+      ],
+      "E-Mail:": [
+        "El. paštas:"
+      ],
+      "Telefon:": [
+        "Telefonas:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Įgyvendinimo procedūra ir rinkos priežiūros institucija"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Jei per šešias savaites negaunate patenkinamo atsakymo į pranešimus ar užklausas dėl prieinamumo, galite kreiptis į kompetentingą rinkos priežiūros ir įgyvendinimo instituciją:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Skaitmeninio prieinamumo priežiūros institucija • Saksonijos-Anhalto žemė"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Šis pareiškimas parengtas %s įsivertinimo pagrindu. Jis nėra pagrįstas išorinės įstaigos sertifikavimu."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Šis pareiškimas grindžiamas įsivertinimu. Jis nėra pagrįstas išorinės įstaigos sertifikavimu."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d paveikslėlis be alt atributo (WCAG 1.1.1)",
+        "%d paveikslėliai be alt atributo (WCAG 1.1.1)",
+        "%d paveikslėlių be alt atributo (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d nuoroda be teksto (WCAG 2.4.4)",
+        "%d nuorodos be teksto (WCAG 2.4.4)",
+        "%d nuorodų be teksto (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d praleistas antraštės lygis (WCAG 1.3.1)",
+        "%d praleisti antraščių lygiai (WCAG 1.3.1)",
+        "%d praleistų antraščių lygių (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Prieinamumo pareiškimas (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Rodo prieinamumo pareiškimą iš išsaugotų nustatymų arba pasirenkamų bloko atributų."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Perrašyti duomenis (neprivaloma)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Naudoti išsaugotą nustatymą"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Prieinamumo pareiškimas (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Rodo prieinamumo pareiškimą iš išsaugotų nustatymų arba pasirenkamų bloko atributų."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "prieinamumas"
+      ],
+      "block keyword\u0004anlage 3": [
+        "3 priedas"
+      ],
+      "block keyword\u0004accessibility": [
+        "pareiškimas"
+      ]
+    }
+  }
+}

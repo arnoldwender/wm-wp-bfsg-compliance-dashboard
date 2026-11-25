@@ -1,0 +1,384 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:35+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "ga",
+        "plural-forms": "nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "Painéal Comhlíonta Dlí WM BFSG 2025 & Gineadóir Iarscríbhinn 3"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Gineann sé an ráiteas inrochtaineachta ó shonraí an oibreora (gearrchód & bloc) agus ritheann sé trí sheiceáil phatrúin ar ábhar stóráilte suas le 20 leathanach."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Seiceáil Phatrúin & Ráiteas"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Níor ritheadh an tseiceáil phatrúin fós"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Torthaí ar %1$d as %2$d leathanach seiceáilte"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Trí sheiceáil phatrúin ar ábhar stóráilte – ní iniúchadh WCAG é"
+      ],
+      "Geprüfte Seiten": [
+        "Leathanaigh sheiceáilte"
+      ],
+      "Mit Befunden": [
+        "Le torthaí"
+      ],
+      "nicht angegeben": [
+        "gan sonrú"
+      ],
+      "Erklärter Stand": [
+        "Leibhéal dearbhaithe"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Oscail Painéal BFSG"
+      ],
+      "WM BFSG Dashboard": [
+        "Painéal WM BFSG"
+      ],
+      "BFSG Dashboard": [
+        "Painéal BFSG"
+      ],
+      "Übersicht": [
+        "Forléargas"
+      ],
+      "Erklärung": [
+        "Ráiteas"
+      ],
+      "Prüfbericht": [
+        "Tuarascáil seiceála"
+      ],
+      "Begriffe": [
+        "Téarmaí"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Ráiteas Inrochtaineachta"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Gin ráiteas ó do chuid sonraí &bull; trí sheiceáil phatrúin san ábhar stóráilte"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Cuid de theaghlach breiseán WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Mol"
+      ],
+      "Standalone": [
+        "Neamhspleách"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "LEIBHÉAL COMHLÍONTA GAN SONRÚ"
+      ],
+      "Was dieses Plugin tut": [
+        "Cad a dhéanann an breiseán seo"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Gineann sé ráiteas inrochtaineachta ó do chuid sonraí (leibhéal comhlíonta mar fhéinmheasúnú, dáta, teagmháil, comhlacht forfheidhmithe) agus taispeánann sé é trí ghearrchód ar leathanach. Seiceálann sé freisin trí phatrún san ábhar stóráilte de suas le 20 leathanach, postáil agus táirge foilsithe. Ní thagann sé in áit iniúchta WCAG nó EN 301 549."
+      ],
+      "Bereiche": [
+        "Rannóga"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Féinmheasúnú, sa chluaisín “Ráiteas”"
+      ],
+      "höchstens 20 je Lauf": [
+        "20 ar a mhéad in aghaidh an rite"
+      ],
+      "Seiten mit Befunden": [
+        "Leathanaigh le torthaí"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img gan alt, naisc fholmha, ceannteidil scipeáilte"
+      ],
+      "Letzter Lauf": [
+        "An rith is déanaí"
+      ],
+      "nie": [
+        "riamh"
+      ],
+      "nur auf Anforderung": [
+        "ar iarratas amháin"
+      ],
+      "Erklärung veröffentlichen": [
+        "Foilsigh ráiteas"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Sa chluaisín “Ráiteas”, cuir isteach an leibhéal comhlíonta, teagmháil agus comhlacht forfheidhmithe."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Cruthaigh leathanach (m.sh. “Ráiteas Inrochtaineachta”) agus cuir isteach an gearrchód seo:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Cuir nasc leis an leathanach sa bhuntásc."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Rith seiceáil phatrúin anois"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Ábhar stóráilte á sheiceáil …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Níor aimsíodh aon leathanaigh, postálacha ná táirgí foilsithe: níor seiceáladh tada."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Déanta. Leathanaigh sheiceáilte:"
+      ],
+      "mit Befunden:": [
+        "le torthaí:"
+      ],
+      "Fehler:": [
+        "Earráid:"
+      ],
+      "Angaben für die Erklärung": [
+        "Sonraí don ráiteas"
+      ],
+      "Name des Unternehmens": [
+        "Ainm na cuideachta"
+      ],
+      "Adresse der Website": [
+        "Seoladh an tsuímh ghréasáin"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Stádas comhlíonta"
+      ],
+      "— bitte wählen —": [
+        "— roghnaigh le do thoil —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Do fhéinmheasúnú féin. Ná dearbhaigh ach an méid a thacaíonn measúnú ar do shuíomh leis."
+      ],
+      "Datum der Selbstbewertung": [
+        "Dáta an fhéinmheasúnaithe"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Luaitear an dáta seo mar dháta ullmhaithe sa ráiteas. Gan dáta sábháilte taispeántar “gan sonrú fós”."
+      ],
+      "Ansprechperson (optional)": [
+        "Duine teagmhála (roghnach)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "Ríomhphost le haghaidh aiseolais"
+      ],
+      "Telefon (optional)": [
+        "Teileafón (roghnach)"
+      ],
+      "Durchsetzungsstelle": [
+        "Comhlacht forfheidhmithe"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Nóta: Faoin ainm seo, priontálann an ráiteas líne agus seoladh ríomhphoist oifig Shacsain-Anhalt i gcónaí faoi láthair."
+      ],
+      "Deinstallation": [
+        "Díshuiteáil"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Bain sonraí sábháilte agus an tuarascáil seiceála nuair a scriostar an breiseán"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "De réir réamhshocraithe, coinnítear sonraí an ráitis agus an tuarascáil is déanaí le linn díshuiteála."
+      ],
+      "Speichern": [
+        "Sábháil"
+      ],
+      "Vorschau": [
+        "Réamhamharc"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Tuarascáil na seiceála patrúin is déanaí"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Níl aon seiceáil le hábhar seiceáilte ann fós. Rith í sa chluaisín “Forléargas”."
+      ],
+      "Kennung des Laufs": [
+        "Aitheantóir an rite"
+      ],
+      "Zeitpunkt": [
+        "Am"
+      ],
+      "Prüfungen": [
+        "Seiceálacha"
+      ],
+      "Ergebnis": [
+        "Toradh"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Ní deimhniú ná ráiteas comhlíonta dlíthiúil é: ní luann an tuarascáil ach a bhfuair na trí phatrún."
+      ],
+      "Seite": [
+        "Leathanach"
+      ],
+      "Punkte": [
+        "Pointí"
+      ],
+      "Befunde": [
+        "Torthaí"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Ráiteas inrochtaineachta"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "An téacs a ghineann an breiseán seo: stádas comhlíonta (féinmheasúnú), dáta ullmhaithe, teagmháil aiseolais agus comhlacht forfheidhmithe. Ní mheasann an breiseán an bhfuil a leithéid ag teastáil ó do sheirbhís."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Catalóga riachtanas teicniúil le haghaidh ábhar gréasáin inrochtana. Clúdaíonn measúnú iomlán i bhfad níos mó ná trí phatrún an bhreiseáin seo."
+      ],
+      "Musterprüfung": [
+        "Seiceáil phatrúin"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Cuardaíonn sé san ábhar stóráilte eilimintí img gan alt, naisc gan téacs agus leibhéil cheannteidil scipeáilte. Ní fheiceann sé an téama, biachláir, foirmeacha, codarsnachtaí ná nascleanúint méarchláir."
+      ],
+      "WM BFSG Kennzahlen": [
+        "Méadrachtaí WM BFSG"
+      ],
+      "BFSG Kennzahl": [
+        "Méadracht BFSG"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Aschuireann sé sonra sábháilte ón ráiteas nó méadracht ón tseiceáil phatrúin is déanaí."
+      ],
+      "Kennzahl": [
+        "Méadracht"
+      ],
+      "noch nicht angegeben": [
+        "gan sonrú fós"
+      ],
+      "nicht geprüft": [
+        "gan seiceáil"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Ráiteas Inrochtaineachta (de réir Iarscríbhinn 3 BFSG & Airteagal 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "Déanann %1$s a dhícheall a shuíomh gréasáin (%2$s) a dhéanamh inrochtana i gcomhréir leis an Acht um Neartú Inrochtaineachta (BFSG), an caighdeán Eorpach EN 301 549 V3.2.1 agus na Treoirlínte Inrochtaineachta Ábhair Ghréasáin (WCAG 2.2 Leibhéal AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Stádas comhlíonta leis na ceanglais"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Bunaithe ar fhéinmheasúnú an oibreora, tá an suíomh gréasáin seo %s le ceanglais an chaighdeáin Eorpaigh chomhchuibhithe EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Níl an stádas comhlíonta sonraithe fós."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Ullmhú an ráitis inrochtaineachta seo"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Ullmhaíodh an ráiteas seo ar %s. Tá na sonraí maidir le stádas comhlíonta bunaithe ar fhéinmheasúnú an oibreora."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Níl an dáta ullmhaithe sonraithe fós."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Tá na sonraí maidir le stádas comhlíonta bunaithe ar fhéinmheasúnú an oibreora."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Aiseolas agus sonraí teagmhála (sásra aiseolais)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Ar thug tú faoi deara aon easnaimh maidir le rochtain inrochtana ar ábhar %s? Nó an bhfuil ceisteanna agat faoi chur i bhfeidhm na hinrochtaineachta? Is féidir leat dul i dteagmháil lenár nduine freagrach am ar bith:"
+      ],
+      "Ansprechpartner:": [
+        "Duine teagmhála:"
+      ],
+      "E-Mail:": [
+        "Ríomhphost:"
+      ],
+      "Telefon:": [
+        "Teileafón:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Nós imeachta forfheidhmithe & údarás faireachais margaidh"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Mura bhfaigheann tú freagra sásúil ar fhógraí nó ar fhiosrúcháin maidir le hinrochtaineacht laistigh de shé seachtaine, féadfaidh tú dul i dteagmháil leis an gcomhlacht inniúil faireachais margaidh agus forfheidhmithe:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Údarás Maoirseachta um Inrochtaineacht Dhigiteach • Stát Shacsain-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Ullmhaíodh an ráiteas seo ar %s ar bhonn féinmheasúnaithe. Níl sé bunaithe ar dheimhniú ó chomhlacht seachtrach."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Tá an ráiteas seo bunaithe ar fhéinmheasúnú. Níl sé bunaithe ar dheimhniú ó chomhlacht seachtrach."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d íomhá gan tréith alt (WCAG 1.1.1)",
+        "%d íomhá gan tréith alt (WCAG 1.1.1)",
+        "%d íomhá gan tréith alt (WCAG 1.1.1)",
+        "%d n-íomhá gan tréith alt (WCAG 1.1.1)",
+        "%d íomhá gan tréith alt (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d nasc gan téacs (WCAG 2.4.4)",
+        "%d nasc gan téacs (WCAG 2.4.4)",
+        "%d nasc gan téacs (WCAG 2.4.4)",
+        "%d nasc gan téacs (WCAG 2.4.4)",
+        "%d nasc gan téacs (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d leibhéal ceannteidil scipeáilte (WCAG 1.3.1)",
+        "%d leibhéal ceannteidil scipeáilte (WCAG 1.3.1)",
+        "%d leibhéal ceannteidil scipeáilte (WCAG 1.3.1)",
+        "%d leibhéal ceannteidil scipeáilte (WCAG 1.3.1)",
+        "%d leibhéal ceannteidil scipeáilte (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Ráiteas Inrochtaineachta (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Taispeánann sé an ráiteas inrochtaineachta ó na socruithe sábháilte nó ó thréithe roghnacha an bhloic."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Sáraigh sonraí (roghnach)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Úsáid an socrú sábháilte"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Ráiteas Inrochtaineachta (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Taispeánann sé an ráiteas inrochtaineachta ó na socruithe sábháilte nó ó thréithe roghnacha an bhloic."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "inrochtaineacht"
+      ],
+      "block keyword\u0004anlage 3": [
+        "iarscríbhinn 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "ráiteas"
+      ]
+    }
+  }
+}

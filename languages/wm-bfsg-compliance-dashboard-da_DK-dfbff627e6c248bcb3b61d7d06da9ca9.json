@@ -1,0 +1,375 @@
+{
+  "translation-revision-date": "2026-11-21T13:56:15+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "da_DK",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "WM BFSG 2025 Juridisk Compliance-dashboard & Bilag 3-generator"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Opretter tilgængelighedserklæringen ud fra operatørens oplysninger (shortcode og blok) og kører tre mønsterkontroller på det gemte indhold på op til 20 sider."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Mønsterkontrol & Erklæring"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Mønsterkontrol endnu ikke kørt"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Fund på %1$d af %2$d kontrollerede sider"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Tre mønsterkontroller i gemt indhold – ingen WCAG-audit"
+      ],
+      "Geprüfte Seiten": [
+        "Kontrollerede sider"
+      ],
+      "Mit Befunden": [
+        "Med fund"
+      ],
+      "nicht angegeben": [
+        "ikke angivet"
+      ],
+      "Erklärter Stand": [
+        "Erklæret niveau"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Åbn BFSG Dashboard"
+      ],
+      "WM BFSG Dashboard": [
+        "WM BFSG Dashboard"
+      ],
+      "BFSG Dashboard": [
+        "BFSG Dashboard"
+      ],
+      "Übersicht": [
+        "Oversigt"
+      ],
+      "Erklärung": [
+        "Erklæring"
+      ],
+      "Prüfbericht": [
+        "Kontrolrapport"
+      ],
+      "Begriffe": [
+        "Begreber"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Tilgængelighedserklæring"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Opret erklæring ud fra dine oplysninger &bull; tre mønsterkontroller i gemt indhold"
+      ],
+      "Part of the WM Suite plugin family": [
+        "En del af WM Suite-pluginfamilien"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Selvstændig"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "OVERENSSTEMMELSESNIVEAU IKKE ANGIVET"
+      ],
+      "Was dieses Plugin tut": [
+        "Hvad dette plugin gør"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Det opretter en tilgængelighedserklæring ud fra dine oplysninger (overensstemmelsesniveau som selvvurdering, dato, kontakt, håndhævelsesmyndighed) og viser den via shortcode på en side. Derudover kontrolleres det gemte indhold på op til 20 publicerede sider, indlæg og produkter for tre mønstre. Kontrollen erstatter ikke en WCAG- eller EN 301 549-vurdering og afgør ikke, om BFSG gælder for dit tilbud."
+      ],
+      "Bereiche": [
+        "Sektioner"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Selvvurdering, på fanen »Erklæring«"
+      ],
+      "höchstens 20 je Lauf": [
+        "højst 20 pr. kørsel"
+      ],
+      "Seiten mit Befunden": [
+        "Sider med fund"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img uden alt, tomme links, oversprungne overskrifter"
+      ],
+      "Letzter Lauf": [
+        "Seneste kørsel"
+      ],
+      "nie": [
+        "aldrig"
+      ],
+      "nur auf Anforderung": [
+        "kun på anmodning"
+      ],
+      "Erklärung veröffentlichen": [
+        "Offentliggør erklæring"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Angiv overensstemmelsesniveau, kontakt og håndhævelsesmyndighed på fanen »Erklæring«."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Opret en side (f.eks. »Tilgængelighedserklæring«) og indsæt denne shortcode:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Link til siden i sidefoden."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Kør mønsterkontrol nu"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Kontrollerer gemt indhold …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Ingen publicerede sider, indlæg eller produkter fundet: intet kontrolleret."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Færdig. Kontrollerede sider:"
+      ],
+      "mit Befunden:": [
+        "med fund:"
+      ],
+      "Fehler:": [
+        "Fejl:"
+      ],
+      "Angaben für die Erklärung": [
+        "Oplysninger til erklæringen"
+      ],
+      "Name des Unternehmens": [
+        "Virksomhedens navn"
+      ],
+      "Adresse der Website": [
+        "Webstedets adresse"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Overensstemmelsesstatus"
+      ],
+      "— bitte wählen —": [
+        "— vælg venligst —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Din selvvurdering. Erklær kun det, en gennemgang af dit websted underbygger."
+      ],
+      "Datum der Selbstbewertung": [
+        "Dato for selvvurdering"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Erklæringen angiver denne dato som oprettelsesdato. Uden gemt dato vises »endnu ikke angivet«."
+      ],
+      "Ansprechperson (optional)": [
+        "Kontaktperson (valgfrit)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-mail til feedback"
+      ],
+      "Telefon (optional)": [
+        "Telefon (valgfrit)"
+      ],
+      "Durchsetzungsstelle": [
+        "Håndhævelsesmyndighed"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Bemærk: Under dette navn udskriver erklæringen i øjeblikket altid en linje og en e-mailadresse fra kontoret i Sachsen-Anhalt."
+      ],
+      "Deinstallation": [
+        "Afinstallation"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Fjern gemte oplysninger og kontrolrapport ved sletning af pluginet"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Som standard bevares erklæringsdata og den seneste rapport ved afinstallation."
+      ],
+      "Speichern": [
+        "Gem"
+      ],
+      "Vorschau": [
+        "Forhåndsvisning"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Rapport over seneste mønsterkontrol"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Endnu ingen mønsterkontrol med kontrolleret indhold. Kør den på fanen »Oversigt«."
+      ],
+      "Kennung des Laufs": [
+        "Kørsels-ID"
+      ],
+      "Zeitpunkt": [
+        "Tidspunkt"
+      ],
+      "Prüfungen": [
+        "Kontroller"
+      ],
+      "Ergebnis": [
+        "Resultat"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Intet certifikat og ingen udtalelse om lovmæssig overensstemmelse: rapporten viser kun, hvad de tre mønstre fandt."
+      ],
+      "Seite": [
+        "Side"
+      ],
+      "Punkte": [
+        "Point"
+      ],
+      "Befunde": [
+        "Fund"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Tilgængelighedserklæring"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Teksten som dette plugin opretter: overensstemmelsesstatus (din selvvurdering), oprettelsesdato, feedbackkontakt og håndhævelsesmyndighed. Pluginet vurderer ikke, om dit tilbud kræver en sådan erklæring."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Tekniske kravkataloger for tilgængeligt webindhold. En fuld test omfatter langt mere end de tre mønstre i dette plugin."
+      ],
+      "Musterprüfung": [
+        "Mønsterkontrol"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Søger i gemt indhold efter img-elementer uden alt, links uden tekst og oversprungne overskriftsniveauer. Tema, menuer, formularer, kontraster og tastaturbetjening kontrolleres ikke."
+      ],
+      "WM BFSG Kennzahlen": [
+        "WM BFSG Nøgletal"
+      ],
+      "BFSG Kennzahl": [
+        "BFSG Nøgletal"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Viser en gemt oplysning fra erklæringen eller et nøgletal fra den seneste mønsterkontrol."
+      ],
+      "Kennzahl": [
+        "Nøgletal"
+      ],
+      "noch nicht angegeben": [
+        "endnu ikke angivet"
+      ],
+      "nicht geprüft": [
+        "ikke kontrolleret"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Tilgængelighedserklæring (i henhold til bilag 3 BFSG & art. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "%1$s bestræber sig på at gøre sit websted (%2$s) tilgængeligt i overensstemmelse med Barrierefreiheitsstärkungsgesetz (BFSG), den europæiske standard EN 301 549 V3.2.1 samt Web Content Accessibility Guidelines (WCAG 2.2 niveau AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Overensstemmelsesstatus med kravene"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Ifølge operatørens selvvurdering er dette websted %s med kravene i den harmoniserede europæiske standard EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Overensstemmelsesstatus er endnu ikke angivet."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Udarbejdelse af denne tilgængelighedserklæring"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Denne erklæring blev udarbejdet den %s. Oplysningerne om overensstemmelsesstatus bygger på en selvvurdering foretaget af operatøren."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Oprettelsesdatoen er endnu ikke angivet."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Oplysningerne om overensstemmelsesstatus bygger på en selvvurdering foretaget af operatøren."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Feedback og kontaktoplysninger (feedbackmekanisme)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Har du bemærket mangler ved den tilgængelige adgang til indhold på %s? Eller har du spørgsmål om implementeringen af tilgængelighed? Du kan til enhver tid kontakte vores ansvarlige kontaktperson:"
+      ],
+      "Ansprechpartner:": [
+        "Kontaktperson:"
+      ],
+      "E-Mail:": [
+        "E-mail:"
+      ],
+      "Telefon:": [
+        "Telefon:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Håndhævelsesprocedure & markedsovervågningsmyndighed"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Hvis du ikke modtager et tilfredsstillende svar på henvendelser eller spørgsmål om tilgængelighed inden for seks uger, kan du kontakte den kompetente markedsovervågnings- og håndhævelsesmyndighed:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Tilsynsmyndighed for digital tilgængelighed • Delstaten Sachsen-Anhalt"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Denne erklæring blev udarbejdet den %s på grundlag af en selvvurdering. Den bygger ikke på certificering fra en ekstern instans."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Denne erklæring bygger på en selvvurdering. Den bygger ikke på certificering fra en ekstern instans."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d billede uden alt-attribut (WCAG 1.1.1)",
+        "%d billeder uden alt-attribut (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d link uden tekst (WCAG 2.4.4)",
+        "%d links uden tekst (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d oversprunget overskriftsniveau (WCAG 1.3.1)",
+        "%d oversprungne overskriftsniveauer (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Tilgængelighedserklæring (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Viser tilgængelighedserklæringen ud fra gemte indstillinger eller valgfrie blokattributter."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Tilsidesæt oplysninger (valgfrit)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Brug gemt indstilling"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Tilgængelighedserklæring (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Viser tilgængelighedserklæringen ud fra gemte indstillinger eller valgfrie blokattributter."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "tilgængelighed"
+      ],
+      "block keyword\u0004anlage 3": [
+        "bilag 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "erklæring"
+      ]
+    }
+  }
+}

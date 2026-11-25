@@ -1,0 +1,55 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm/bfsg-anlage-3",
+	"version": "1.2.2",
+	"title": "Erklärung zur Barrierefreiheit (BFSG)",
+	"category": "widgets",
+	"icon": "universal-access-alt",
+	"description": "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.",
+	"keywords": [
+		"bfsg",
+		"barrierefreiheit",
+		"anlage 3",
+		"accessibility"
+	],
+	"textdomain": "wm-bfsg-compliance-dashboard",
+	"attributes": {
+		"company": {
+			"type": "string",
+			"default": ""
+		},
+		"url": {
+			"type": "string",
+			"default": ""
+		},
+		"level": {
+			"type": "string",
+			"default": ""
+		},
+		"email": {
+			"type": "string",
+			"default": ""
+		},
+		"phone": {
+			"type": "string",
+			"default": ""
+		},
+		"officer": {
+			"type": "string",
+			"default": ""
+		},
+		"authority": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"supports": {
+		"html": false,
+		"align": [
+			"wide",
+			"full"
+		]
+	},
+	"editorScript": "wm-bfsg-dashboard-blocks-editor"
+}

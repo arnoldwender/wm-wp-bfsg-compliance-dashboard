@@ -1,0 +1,375 @@
+{
+  "translation-revision-date": "2026-11-21T13:56:15+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "hu_HU",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "WM BFSG 2025 Jogi Megfelelőségi Irányítópult és 3. melléklet Generátor"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Az üzemeltető adataiból előállítja az akadálymentességi nyilatkozatot (rövidkód és blokk), és három mintaellenőrzést futtat legfeljebb 20 oldal mentett tartalmán."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Mintaellenőrzés és nyilatkozat"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "A mintaellenőrzés még nem futott le"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Találatok %2$d ellenőrzött oldalból %1$d oldalon"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Három mintaellenőrzés a mentett tartalomban – nem WCAG-audit"
+      ],
+      "Geprüfte Seiten": [
+        "Ellenőrzött oldalak"
+      ],
+      "Mit Befunden": [
+        "Találattal"
+      ],
+      "nicht angegeben": [
+        "nincs megadva"
+      ],
+      "Erklärter Stand": [
+        "Nyilatkozott szint"
+      ],
+      "BFSG Dashboard öffnen": [
+        "BFSG irányítópult megnyitása"
+      ],
+      "WM BFSG Dashboard": [
+        "WM BFSG irányítópult"
+      ],
+      "BFSG Dashboard": [
+        "BFSG irányítópult"
+      ],
+      "Übersicht": [
+        "Áttekintés"
+      ],
+      "Erklärung": [
+        "Nyilatkozat"
+      ],
+      "Prüfbericht": [
+        "Ellenőrzési jelentés"
+      ],
+      "Begriffe": [
+        "Fogalmak"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Akadálymentességi nyilatkozat"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Nyilatkozat létrehozása az Ön adataiból &bull; három mintaellenőrzés a mentett tartalomban"
+      ],
+      "Part of the WM Suite plugin family": [
+        "A WM Suite bővítménycsalád része"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Önálló"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "A MEGFELELŐSÉGI SZINT NINCS MEGADVA"
+      ],
+      "Was dieses Plugin tut": [
+        "Mit csinál ez a bővítmény"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Az Ön adataiból (megfelelőségi szint mint önértékelés, dátum, kapcsolat, végrehajtó szerv) akadálymentességi nyilatkozatot készít, és rövidkóddal megjeleníti egy oldalon. Emellett három mintára ellenőrzi legfeljebb 20 közzétett oldal, bejegyzés és termék mentett tartalmát. Az ellenőrzés nem helyettesíti a WCAG vagy EN 301 549 szerinti vizsgálatot, és nem bírálja el, hogy a BFSG vonatkozik-e az Ön szolgáltatására."
+      ],
+      "Bereiche": [
+        "Területek"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Önértékelés a „Nyilatkozat” fülön"
+      ],
+      "höchstens 20 je Lauf": [
+        "futásonként legfeljebb 20"
+      ],
+      "Seiten mit Befunden": [
+        "Találatos oldalak"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "alt nélküli img, üres hivatkozások, kihagyott címsorszintek"
+      ],
+      "Letzter Lauf": [
+        "Utolsó futtatás"
+      ],
+      "nie": [
+        "soha"
+      ],
+      "nur auf Anforderung": [
+        "csak kérésre"
+      ],
+      "Erklärung veröffentlichen": [
+        "Nyilatkozat közzététele"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "A „Nyilatkozat” fülön adja meg a megfelelőségi szintet, a kapcsolattartót és a végrehajtó szervet."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Hozzon létre egy oldalt (pl. „Akadálymentességi nyilatkozat”), és illessze be ezt a rövidkódot:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Hivatkozza be az oldalt a láblécben."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Mintaellenőrzés indítása most"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Mentett tartalom ellenőrzése …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Nem található közzétett oldal, bejegyzés vagy termék: semmi sem lett ellenőrizve."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Kész. Ellenőrzött oldalak:"
+      ],
+      "mit Befunden:": [
+        "találattal:"
+      ],
+      "Fehler:": [
+        "Hiba:"
+      ],
+      "Angaben für die Erklärung": [
+        "A nyilatkozat adatai"
+      ],
+      "Name des Unternehmens": [
+        "Vállalkozás neve"
+      ],
+      "Adresse der Website": [
+        "Webhely címe"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Megfelelőségi állapot"
+      ],
+      "— bitte wählen —": [
+        "— kérjük, válasszon —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Az Ön önértékelése. Csak azt nyilatkozza, amit webhelye vizsgálata alátámaszt."
+      ],
+      "Datum der Selbstbewertung": [
+        "Önértékelés dátuma"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "A nyilatkozat ezt a dátumot tünteti fel készítési dátumként. Mentett dátum nélkül „még nincs megadva” jelenik meg."
+      ],
+      "Ansprechperson (optional)": [
+        "Kapcsolattartó (opcionális)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-mail visszajelzésekhez"
+      ],
+      "Telefon (optional)": [
+        "Telefon (opcionális)"
+      ],
+      "Durchsetzungsstelle": [
+        "Végrehajtó szerv"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Megjegyzés: E név alatt a nyilatkozat jelenleg mindig megjeleníti a Szász-Anhalt tartományi hivatal sorát és e-mail-címét."
+      ],
+      "Deinstallation": [
+        "Eltávolítás"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Mentett adatok és ellenőrzési jelentés törlése a bővítmény eltávolításakor"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Alapértelmezés szerint a nyilatkozat adatai és az utolsó jelentés megmaradnak eltávolításkor."
+      ],
+      "Speichern": [
+        "Mentés"
+      ],
+      "Vorschau": [
+        "Előnézet"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Az utolsó mintaellenőrzés jelentése"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Még nem történt tartalomellenőrzés. Futtassa az „Áttekintés” fülön."
+      ],
+      "Kennung des Laufs": [
+        "Futtatás azonosítója"
+      ],
+      "Zeitpunkt": [
+        "Időpont"
+      ],
+      "Prüfungen": [
+        "Ellenőrzések"
+      ],
+      "Ergebnis": [
+        "Eredmény"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Nem tanúsítvány és nem jogi megfelelőségi állásfoglalás: a jelentés csak a három minta találatait sorolja fel."
+      ],
+      "Seite": [
+        "Oldal"
+      ],
+      "Punkte": [
+        "Pontszám"
+      ],
+      "Befunde": [
+        "Találatok"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Akadálymentességi nyilatkozat"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "A bővítmény által előállított szöveg: megfelelőségi állapot (önértékelés), készítés dátuma, visszajelzési kapcsolat és végrehajtó szerv. A bővítmény nem vizsgálja, hogy az Ön ajánlatához szükséges-e ilyen nyilatkozat."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Az akadálymentes webes tartalom műszaki követelménykatalógusai. A teljes vizsgálat jóval túlmutat a bővítmény három mintáján."
+      ],
+      "Musterprüfung": [
+        "Mintaellenőrzés"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "A mentett tartalomban alt nélküli img elemeket, szöveg nélküli hivatkozásokat és átugrott címsorszinteket keres. A sablont, menüket, űrlapokat, kontrasztokat és billentyűzetkezelést nem látja."
+      ],
+      "WM BFSG Kennzahlen": [
+        "WM BFSG Mutatók"
+      ],
+      "BFSG Kennzahl": [
+        "BFSG Mutató"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Megjeleníti a nyilatkozat egyik mentett adatát vagy az utolsó mintaellenőrzés mutatóját."
+      ],
+      "Kennzahl": [
+        "Mutató"
+      ],
+      "noch nicht angegeben": [
+        "még nincs megadva"
+      ],
+      "nicht geprüft": [
+        "nincs ellenőrizve"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Akadálymentességi nyilatkozat (a BFSG 3. melléklete és az EGBGB 246. cikke szerint)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "A(z) %1$s törekszik arra, hogy webhelyét (%2$s) az akadálymentesítési törvénnyel (BFSG), az EN 301 549 V3.2.1 európai szabvánnyal, valamint a Webes Tartalmak Akadálymentesítési Útmutatójával (WCAG 2.2 AA szint) összhangban akadálymentessé tegye."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. A követelményeknek való megfelelés állapota"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Az üzemeltető önértékelése alapján ez a webhely az EN 301 549 harmonizált európai szabvány előírásainak %s."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "A megfelelés állapota még nincs megadva."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Jelen akadálymentességi nyilatkozat elkészítése"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Ez a nyilatkozat %s napján készült. A megfelelés állapotára vonatkozó adatok az üzemeltető önértékelésén alapulnak."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Az elkészítés dátuma még nincs megadva."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "A megfelelés állapotára vonatkozó adatok az üzemeltető önértékelésén alapulnak."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Visszajelzés és elérhetőségek (visszajelzési mechanizmus)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Akadálymentességi hiányosságot tapasztalt a(z) %s tartalmainak elérésekor? Vagy kérdése van az akadálymentesítés megvalósításával kapcsolatban? Bármikor fordulhat illetékes kapcsolattartónkhoz:"
+      ],
+      "Ansprechpartner:": [
+        "Kapcsolattartó:"
+      ],
+      "E-Mail:": [
+        "E-mail:"
+      ],
+      "Telefon:": [
+        "Telefon:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Végrehajtási eljárás és piacfelügyeleti hatóság"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Amennyiben hat héten belül nem kap kielégítő választ az akadálymentességgel kapcsolatos jelzésekre vagy megkeresésekre, az illetékes piacfelügyeleti és végrehajtó szervhez fordulhat:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Digitális Akadálymentességi Felügyeleti Hatóság • Szász-Anhalt tartomány"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Ez a nyilatkozat %s napján önértékelés alapján készült. Külső szervezet általi tanúsítás nem képezi az alapját."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Ez a nyilatkozat önértékelésen alapul. Külső szervezet általi tanúsítás nem képezi az alapját."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d kép alt attribútum nélkül (WCAG 1.1.1)",
+        "%d kép alt attribútum nélkül (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d szöveg nélküli hivatkozás (WCAG 2.4.4)",
+        "%d szöveg nélküli hivatkozás (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d átugrott címsorszint (WCAG 1.3.1)",
+        "%d átugrott címsorszint (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Akadálymentességi nyilatkozat (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Megjeleníti az akadálymentességi nyilatkozatot a mentett beállításokból vagy a blokk opcionális attribútumaiból."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Adatok felülbírálása (opcionális)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Mentett beállítás használata"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Akadálymentességi nyilatkozat (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Megjeleníti az akadálymentességi nyilatkozatot a mentett beállításokból vagy a blokk opcionális attribútumaiból."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "akadálymentesség"
+      ],
+      "block keyword\u0004anlage 3": [
+        "3. melléklet"
+      ],
+      "block keyword\u0004accessibility": [
+        "nyilatkozat"
+      ]
+    }
+  }
+}

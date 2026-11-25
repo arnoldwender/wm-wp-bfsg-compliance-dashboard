@@ -1,0 +1,378 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:35+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "sk_SK",
+        "plural-forms": "nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "Prehľad právneho súladu WM BFSG 2025 a generátor Prílohy 3"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "Vytvára vyhlásenie o prístupnosti z údajov prevádzkovateľa (shortcode a blok) a vykonáva tri kontroly vzorov v uloženom obsahu až 20 stránok."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — Kontrola vzorov a vyhlásenie"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "Kontrola vzorov ešte nebola spustená"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "Zistenia na %1$d z %2$d skontrolovaných stránok"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "Tri kontroly vzorov v uloženom obsahu – nejde o audit WCAG"
+      ],
+      "Geprüfte Seiten": [
+        "Skontrolované stránky"
+      ],
+      "Mit Befunden": [
+        "So zisteniami"
+      ],
+      "nicht angegeben": [
+        "neuvedené"
+      ],
+      "Erklärter Stand": [
+        "Deklarovaný stav"
+      ],
+      "BFSG Dashboard öffnen": [
+        "Otvoriť prehľad BFSG"
+      ],
+      "WM BFSG Dashboard": [
+        "Prehľad WM BFSG"
+      ],
+      "BFSG Dashboard": [
+        "Prehľad BFSG"
+      ],
+      "Übersicht": [
+        "Prehľad"
+      ],
+      "Erklärung": [
+        "Vyhlásenie"
+      ],
+      "Prüfbericht": [
+        "Správa z kontroly"
+      ],
+      "Begriffe": [
+        "Pojmy"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — Vyhlásenie o prístupnosti"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "Vytvoriť vyhlásenie z vašich údajov &bull; tri kontroly vzorov v uloženom obsahu"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Súčasť rodiny pluginov WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Samostatný"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "STAV SÚLADU NEUVEDENÝ"
+      ],
+      "Was dieses Plugin tut": [
+        "Čo tento plugin robí"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "Vytvára vyhlásenie o prístupnosti z vašich údajov (stav súladu ako sebahodnotenie, dátum, kontakt, orgán dohľadu) a zobrazuje ho cez shortcode na stránke. Zároveň kontroluje tri vzory v uloženom obsahu až 20 publikovaných stránok, príspevkov a produktov. Kontrola nenahrádza posúdenie podľa WCAG ani EN 301 549 a nehodnotí, či sa BFSG vzťahuje na vašu ponuku."
+      ],
+      "Bereiche": [
+        "Sekcie"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "Sebahodnotenie na karte „Vyhlásenie“"
+      ],
+      "höchstens 20 je Lauf": [
+        "najviac 20 na beh"
+      ],
+      "Seiten mit Befunden": [
+        "Stránky so zisteniami"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "img bez alt, prázdne odkazy, preskočené nadpisy"
+      ],
+      "Letzter Lauf": [
+        "Posledný beh"
+      ],
+      "nie": [
+        "nikdy"
+      ],
+      "nur auf Anforderung": [
+        "iba na vyžiadanie"
+      ],
+      "Erklärung veröffentlichen": [
+        "Zverejniť vyhlásenie"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "Na karte „Vyhlásenie“ zadajte stav súladu, kontakt a orgán dohľadu."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "Vytvorte stránku (napr. „Vyhlásenie o prístupnosti“) a vložte tento shortcode:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "Odkaz na stránku pridajte do pätičky."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "Spustiť kontrolu vzorov teraz"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "Kontrolujem uložený obsah …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "Nenašli sa žiadne publikované stránky, príspevky ani produkty: nič nebolo skontrolované."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "Hotovo. Skontrolované stránky:"
+      ],
+      "mit Befunden:": [
+        "so zisteniami:"
+      ],
+      "Fehler:": [
+        "Chyba:"
+      ],
+      "Angaben für die Erklärung": [
+        "Údaje pre vyhlásenie"
+      ],
+      "Name des Unternehmens": [
+        "Názov spoločnosti"
+      ],
+      "Adresse der Website": [
+        "Adresa webu"
+      ],
+      "Stand der Vereinbarkeit": [
+        "Stav súladu"
+      ],
+      "— bitte wählen —": [
+        "— vyberte —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "Vaše sebahodnotenie. Deklarujte iba to, čo podopiera kontrola vášho webu."
+      ],
+      "Datum der Selbstbewertung": [
+        "Dátum sebahodnotenia"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "Vyhlásenie uvádza tento dátum ako dátum vypracovania. Bez uloženého dátumu sa zobrazí „zatiaľ neuvedené“."
+      ],
+      "Ansprechperson (optional)": [
+        "Kontaktná osoba (voliteľné)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "E-mail pre spätnú väzbu"
+      ],
+      "Telefon (optional)": [
+        "Telefón (voliteľné)"
+      ],
+      "Durchsetzungsstelle": [
+        "Orgán presadzovania"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "Poznámka: Pod týmto názvom vyhlásenie v súčasnosti vždy uvádza riadok a e-mailovú adresu úradu v Sasku-Anhaltsku."
+      ],
+      "Deinstallation": [
+        "Odinštalácia"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "Pri odstránení pluginu vymazať uložené údaje a správu z kontroly"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "Štandardne zostávajú údaje vyhlásenia a posledná správa pri odinštalácii zachované."
+      ],
+      "Speichern": [
+        "Uložiť"
+      ],
+      "Vorschau": [
+        "Náhľad"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "Správa z poslednej kontroly vzorov"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "Zatiaľ neprebehla žiadna kontrola s obsahom. Spustite ju na karte „Prehľad“."
+      ],
+      "Kennung des Laufs": [
+        "Identifikátor behu"
+      ],
+      "Zeitpunkt": [
+        "Čas"
+      ],
+      "Prüfungen": [
+        "Kontroly"
+      ],
+      "Ergebnis": [
+        "Výsledok"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "Nejde o certifikát ani o právne posúdenie súladu: správa uvádza len nálezy troch vzorov."
+      ],
+      "Seite": [
+        "Stránka"
+      ],
+      "Punkte": [
+        "Body"
+      ],
+      "Befunde": [
+        "Zistenia"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "Vyhlásenie o prístupnosti"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "Text generovaný týmto pluginom: stav súladu (sebahodnotenie), dátum vypracovania, kontakt pre spätnú väzbu a orgán presadzovania. Plugin neposudzuje, či vaša služba takéto vyhlásenie vyžaduje."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "Technické katalógy požiadaviek na prístupný webový obsah. Kontrola podľa nich zahŕňa oveľa viac než tri vzory tohto pluginu."
+      ],
+      "Musterprüfung": [
+        "Kontrola vzorov"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "Hľadá v uloženom obsahu prvky img bez alt, odkazy bez textu a preskočené úrovne nadpisov. Tému, menu, formuláre, kontrasty ani ovládanie klávesnicou nevidí."
+      ],
+      "WM BFSG Kennzahlen": [
+        "Metriky WM BFSG"
+      ],
+      "BFSG Kennzahl": [
+        "Metrika BFSG"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "Vypíše uložený údaj vyhlásenia alebo metriku poslednej kontroly vzorov."
+      ],
+      "Kennzahl": [
+        "Metrika"
+      ],
+      "noch nicht angegeben": [
+        "zatiaľ neuvedené"
+      ],
+      "nicht geprüft": [
+        "nekontrolované"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "Vyhlásenie o prístupnosti (podľa prílohy 3 BFSG a čl. 246 EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "Spoločnosť %1$s sa usiluje sprístupniť svoje webové sídlo (%2$s) v súlade so zákonom o posilnení prístupnosti (BFSG), európskou normou EN 301 549 V3.2.1 a usmerneniami pre prístupnosť webového obsahu (WCAG 2.2 úroveň AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. Stav súladu s požiadavkami"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "Podľa sebahodnotenia prevádzkovateľa je toto webové sídlo %s s požiadavkami harmonizovanej európskej normy EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "Stav súladu zatiaľ nebol uvedený."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. Vypracovanie tohto vyhlásenia o prístupnosti"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Toto vyhlásenie bolo vypracované dňa %s. Údaje o stave súladu vychádzajú zo sebahodnotenia prevádzkovateľa."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "Dátum vypracovania zatiaľ nebol uvedený."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "Údaje o stave súladu vychádzajú zo sebahodnotenia prevádzkovateľa."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. Spätná väzba a kontaktné údaje (mechanizmus spätnej väzby)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "Zaznamenali ste nedostatky v bezbariérovom prístupe k obsahu na %s? Alebo máte otázky týkajúce sa zabezpečenia prístupnosti? Kedykoľvek sa môžete obrátiť na našu zodpovednú osobu:"
+      ],
+      "Ansprechpartner:": [
+        "Kontaktná osoba:"
+      ],
+      "E-Mail:": [
+        "E-mail:"
+      ],
+      "Telefon:": [
+        "Telefón:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. Postup presadzovania a orgán dohľadu nad trhom"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "Ak do šiestich týždňov nedostanete uspokojivú odpoveď na podnety alebo otázky týkajúce sa prístupnosti, môžete sa obrátiť na príslušný orgán dohľadu nad trhom a presadzovania:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "Orgán dohľadu pre digitálnu prístupnosť • Spolková krajina Sasko-Anhaltsko"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Toto vyhlásenie bolo vypracované dňa %s na základe sebahodnotenia. Nezakladá sa na certifikácii externým subjektom."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "Toto vyhlásenie vychádza zo sebahodnotenia. Nezakladá sa na certifikácii externým subjektom."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d obrázok bez atribútu alt (WCAG 1.1.1)",
+        "%d obrázky bez atribútu alt (WCAG 1.1.1)",
+        "%d obrázkov bez atribútu alt (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d odkaz bez textu (WCAG 2.4.4)",
+        "%d odkazy bez textu (WCAG 2.4.4)",
+        "%d odkazov bez textu (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d preskočená úroveň nadpisu (WCAG 1.3.1)",
+        "%d preskočené úrovne nadpisov (WCAG 1.3.1)",
+        "%d preskočených úrovní nadpisov (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "Vyhlásenie o prístupnosti (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Zobrazí vyhlásenie o prístupnosti z uložených nastavení alebo voliteľných atribútov bloku."
+      ],
+      "Angaben überschreiben (optional)": [
+        "Prepísať údaje (voliteľné)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "Použiť uložené nastavenie"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "Vyhlásenie o prístupnosti (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "Zobrazí vyhlásenie o prístupnosti z uložených nastavení alebo voliteľných atribútov bloku."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "prístupnosť"
+      ],
+      "block keyword\u0004anlage 3": [
+        "príloha 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "vyhlásenie"
+      ]
+    }
+  }
+}

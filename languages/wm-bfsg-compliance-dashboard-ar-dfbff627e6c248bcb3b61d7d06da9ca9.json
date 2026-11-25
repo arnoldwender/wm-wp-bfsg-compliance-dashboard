@@ -1,0 +1,387 @@
+{
+  "translation-revision-date": "2026-11-21T18:10:35+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-bfsg-compliance-dashboard",
+        "lang": "ar",
+        "plural-forms": "nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);"
+      },
+      "WM BFSG 2025 Legal Compliance Dashboard & Anlage 3 Generator": [
+        "لوحة الامتثال القانوني WM BFSG 2025 ومولّد الملحق 3"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-bfsg-compliance-dashboard/"
+      ],
+      "Erzeugt die Erklärung zur Barrierefreiheit aus den Angaben des Betreibers (Shortcode & Block) und führt drei Musterprüfungen auf dem gespeicherten Inhalt von bis zu 20 Seiten durch.": [
+        "ينشئ بيان إمكانية الوصول استناداً إلى بيانات المشغّل (كود قصير ومكوّن) ويجري ثلاثة فحوصات نمطية على المحتوى المخزّن لما يصل إلى 20 صفحة."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "WM BFSG — Musterprüfung & Erklärung": [
+        "WM BFSG — فحص الأنماط والبيان"
+      ],
+      "Musterprüfung noch nicht ausgeführt": [
+        "لم يتم تشغيل فحص الأنماط بعد"
+      ],
+      "Befunde auf %1$d von %2$d geprüften Seiten": [
+        "ملاحظات في %1$d من أصل %2$d صفحات مفحوصة"
+      ],
+      "Drei Musterprüfungen im gespeicherten Inhalt – kein WCAG-Audit": [
+        "ثلاثة فحوصات نمطية في المحتوى المخزّن – ليس تدقيق WCAG"
+      ],
+      "Geprüfte Seiten": [
+        "الصفحات المفحوصة"
+      ],
+      "Mit Befunden": [
+        "بها ملاحظات"
+      ],
+      "nicht angegeben": [
+        "غير محدّد"
+      ],
+      "Erklärter Stand": [
+        "المستوى المعلن"
+      ],
+      "BFSG Dashboard öffnen": [
+        "فتح لوحة BFSG"
+      ],
+      "WM BFSG Dashboard": [
+        "لوحة WM BFSG"
+      ],
+      "BFSG Dashboard": [
+        "لوحة BFSG"
+      ],
+      "Übersicht": [
+        "نظرة عامة"
+      ],
+      "Erklärung": [
+        "البيان"
+      ],
+      "Prüfbericht": [
+        "تقرير الفحص"
+      ],
+      "Begriffe": [
+        "مصطلحات"
+      ],
+      "WM BFSG — Erklärung zur Barrierefreiheit": [
+        "WM BFSG — بيان إمكانية الوصول"
+      ],
+      "Erklärung aus Ihren Angaben erzeugen &bull; drei Musterprüfungen im gespeicherten Inhalt": [
+        "إنشاء البيان من بياناتك &bull; ثلاثة فحوصات نمطية في المحتوى المخزّن"
+      ],
+      "Part of the WM Suite plugin family": [
+        "جزء من عائلة إضافات WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "المركز"
+      ],
+      "Standalone": [
+        "مستقل"
+      ],
+      "STAND DER VEREINBARKEIT NICHT ANGEGEBEN": [
+        "مستوى التوافق غير محدّد"
+      ],
+      "Was dieses Plugin tut": [
+        "ماذا تفعل هذه الإضافة"
+      ],
+      "Es erzeugt eine Erklärung zur Barrierefreiheit aus Ihren Angaben (Stand der Vereinbarkeit als Selbstbewertung, Datum, Kontakt, Durchsetzungsstelle) und gibt sie per Shortcode auf einer Seite aus. Zusätzlich prüft es den gespeicherten Inhalt von bis zu 20 veröffentlichten Seiten, Beiträgen und Produkten auf drei Muster. Die Musterprüfung ersetzt keine Prüfung der Website nach WCAG oder EN 301 549, und das Plugin beurteilt nicht, ob und wie das BFSG für Ihr Angebot gilt.": [
+        "تنشئ بيان إمكانية الوصول من بياناتك (مستوى التوافق كتقييم ذاتي، التاريخ، جهة الاتصال، هيئة الإنفاذ) وتعرضه عبر كود قصير في صفحة. كما تفحص ثلاثة أنماط في المحتوى المخزّن لما يصل إلى 20 صفحة ومقالة ومنتجاً منشوراً. لا يغني هذا الفحص عن تقييم WCAG أو EN 301 549 ولا يبتّ في مدى انطباق قانون BFSG على خدمتك."
+      ],
+      "Bereiche": [
+        "الأقسام"
+      ],
+      "Selbstbewertung, im Tab „Erklärung“": [
+        "تقييم ذاتي، في تبويب «البيان»"
+      ],
+      "höchstens 20 je Lauf": [
+        "بحد أقصى 20 لكل تشغيل"
+      ],
+      "Seiten mit Befunden": [
+        "صفحات بها ملاحظات"
+      ],
+      "img ohne alt, leere Links, Überschriftensprünge": [
+        "عناصر img بدون alt، روابط فارغة، مستويات عناوين متخطّاة"
+      ],
+      "Letzter Lauf": [
+        "آخر تشغيل"
+      ],
+      "nie": [
+        "أبداً"
+      ],
+      "nur auf Anforderung": [
+        "عند الطلب فقط"
+      ],
+      "Erklärung veröffentlichen": [
+        "نشر البيان"
+      ],
+      "Im Tab „Erklärung“ Stand der Vereinbarkeit, Kontakt und Durchsetzungsstelle eintragen.": [
+        "في تبويب «البيان»، أدخل مستوى التوافق وبيانات الاتصال وهيئة الإنفاذ."
+      ],
+      "Eine Seite anlegen (z. B. „Erklärung zur Barrierefreiheit“) und diesen Shortcode einfügen:": [
+        "أنشئ صفحة (مثل «بيان إمكانية الوصول») وأدرج هذا الكود القصير:"
+      ],
+      "Die Seite im Footer verlinken.": [
+        "أضف رابط الصفحة في تذييل الموقع."
+      ],
+      "Musterprüfung jetzt ausführen": [
+        "تشغيل فحص الأنماط الآن"
+      ],
+      "Prüfe gespeicherte Inhalte …": [
+        "جارٍ فحص المحتوى المخزّن …"
+      ],
+      "Keine veröffentlichten Seiten, Beiträge oder Produkte gefunden: nichts geprüft.": [
+        "لم يتم العثور على صفحات أو مقالات أو منتجات منشورة: لم يتم فحص أي شيء."
+      ],
+      "Fertig. Geprüfte Seiten:": [
+        "تم. الصفحات المفحوصة:"
+      ],
+      "mit Befunden:": [
+        "بها ملاحظات:"
+      ],
+      "Fehler:": [
+        "خطأ:"
+      ],
+      "Angaben für die Erklärung": [
+        "بيانات البيان"
+      ],
+      "Name des Unternehmens": [
+        "اسم الشركة"
+      ],
+      "Adresse der Website": [
+        "عنوان الموقع الإلكتروني"
+      ],
+      "Stand der Vereinbarkeit": [
+        "حالة التوافق"
+      ],
+      "— bitte wählen —": [
+        "— يرجى الاختيار —"
+      ],
+      "Ihre Selbstbewertung. Erklären Sie nur, was eine Prüfung Ihrer Website trägt.": [
+        "تقييمك الذاتي. لا تعلن إلا عمّا يدعمه فحص موقعك الإلكتروني."
+      ],
+      "Datum der Selbstbewertung": [
+        "تاريخ التقييم الذاتي"
+      ],
+      "Die Erklärung nennt dieses Datum als Erstellungsdatum. Ohne gespeichertes Datum steht dort „noch nicht angegeben“.": [
+        "يذكر البيان هذا التاريخ كتاريخ للإعداد. عند عدم حفظ تاريخ يظهر «غير محدّد بعد»."
+      ],
+      "Ansprechperson (optional)": [
+        "جهة الاتصال (اختياري)"
+      ],
+      "E-Mail für Rückmeldungen": [
+        "البريد الإلكتروني للملاحظات"
+      ],
+      "Telefon (optional)": [
+        "الهاتف (اختياري)"
+      ],
+      "Durchsetzungsstelle": [
+        "هيئة الإنفاذ"
+      ],
+      "Hinweis: Die Erklärung druckt unter diesem Namen derzeit immer eine Zeile und eine E-Mail-Adresse der Sachsen-Anhalt-Stelle.": [
+        "ملاحظة: يطبع البيان تحت هذا الاسم حالياً سطراً وعنوان بريد إلكتروني لمكتب ولاية ساكسونيا-أنهالت دائماً."
+      ],
+      "Deinstallation": [
+        "إلغاء التثبيت"
+      ],
+      "Gespeicherte Angaben und Prüfbericht beim Löschen des Plugins entfernen": [
+        "حذف البيانات المحفوظة وتقرير الفحص عند حذف الإضافة"
+      ],
+      "Standardmäßig bleiben die Angaben zur Erklärung und der letzte Prüfbericht bei der Deinstallation erhalten.": [
+        "افتراضياً، يتم الاحتفاظ ببيانات البيان وآخر تقرير فحص عند إلغاء التثبيت."
+      ],
+      "Speichern": [
+        "حفظ"
+      ],
+      "Vorschau": [
+        "معاينة"
+      ],
+      "Prüfbericht der letzten Musterprüfung": [
+        "تقرير آخر فحص للأنماط"
+      ],
+      "Noch keine Musterprüfung mit geprüften Inhalten. Im Tab „Übersicht“ ausführen.": [
+        "لا يوجد فحص بمحتوى مفحوص بعد. قم بتشغيله من تبويب «نظرة عامة»."
+      ],
+      "Kennung des Laufs": [
+        "معرّف التشغيل"
+      ],
+      "Zeitpunkt": [
+        "التوقيت"
+      ],
+      "Prüfungen": [
+        "الفحوصات"
+      ],
+      "Ergebnis": [
+        "النتيجة"
+      ],
+      "Kein Zertifikat und keine Aussage über Rechtskonformität: der Bericht nennt nur, was die drei Muster gefunden haben.": [
+        "ليس شهادة ولا إقراراً بالمطابقة القانونية: يسرد التقرير فقط ما رصدته الأنماط الثلاثة."
+      ],
+      "Seite": [
+        "الصفحة"
+      ],
+      "Punkte": [
+        "النقاط"
+      ],
+      "Befunde": [
+        "الملاحظات"
+      ],
+      "Erklärung zur Barrierefreiheit": [
+        "بيان إمكانية الوصول"
+      ],
+      "Der Text, den dieses Plugin erzeugt: Stand der Vereinbarkeit (Ihre Selbstbewertung), Erstellungsdatum, Kontakt für Rückmeldungen und Durchsetzungsstelle. Ob und in welcher Form Ihr Angebot eine solche Erklärung braucht, beurteilt das Plugin nicht.": [
+        "النص الذي تنشئه هذه الإضافة: حالة التوافق (تقييمك الذاتي)، تاريخ الإعداد، جهة الاتصال للملاحظات وهيئة الإنفاذ. لا تقيّم الإضافة ما إذا كان عرضك يتطلب مثل هذا البيان."
+      ],
+      "WCAG 2.2 / EN 301 549": [
+        "WCAG 2.2 / EN 301 549"
+      ],
+      "Technische Anforderungskataloge für barrierefreie Webinhalte. Eine Prüfung danach umfasst weit mehr als die drei Muster dieses Plugins.": [
+        "أدلة المتطلبات التقنية لمحتوى الويب الميسّر. يشمل الفحص الكامل وفقها أكثر بكثير من الأنماط الثلاثة في هذه الإضافة."
+      ],
+      "Musterprüfung": [
+        "فحص الأنماط"
+      ],
+      "Sucht im gespeicherten Inhalt nach img-Elementen ohne alt, Links ohne Text und übersprungenen Überschriftenebenen. Theme, Menüs, Formulare, Kontraste und Tastaturbedienung sieht sie nicht.": [
+        "يبحث في المحتوى المخزّن عن عناصر img بدون alt، وروابط بلا نص، ومستويات عناوين متخطّاة. لا يفحص القالب أو القوائم أو النماذج أو التباين أو لوحة المفاتيح."
+      ],
+      "WM BFSG Kennzahlen": [
+        "مؤشرات WM BFSG"
+      ],
+      "BFSG Kennzahl": [
+        "مؤشر BFSG"
+      ],
+      "Gibt eine gespeicherte Angabe der Erklärung oder Kennzahl der letzten Musterprüfung aus.": [
+        "يعرض بياناً محفوظاً من التصريح أو مؤشراً من آخر فحص للأنماط."
+      ],
+      "Kennzahl": [
+        "المؤشر"
+      ],
+      "noch nicht angegeben": [
+        "غير محدّد بعد"
+      ],
+      "nicht geprüft": [
+        "غير مفحوص"
+      ],
+      "Erklärung zur Barrierefreiheit (gemäß Anlage 3 BFSG & Art. 246 EGBGB)": [
+        "بيان إمكانية الوصول (وفقاً للملحق 3 من BFSG والمادة 246 من EGBGB)"
+      ],
+      "%1$s ist bemüht, ihren Webauftritt (%2$s) im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG), der europäischen Norm EN 301 549 V3.2.1 sowie den Web Content Accessibility Guidelines (WCAG 2.2 Level AA) barrierefrei zugänglich zu machen.": [
+        "تسعى %1$s إلى جعل موقعها الإلكتروني (%2$s) متاحاً وسهل الوصول وفقاً لقانون تعزيز إمكانية الوصول (BFSG) والمعيار الأوروبي EN 301 549 V3.2.1 وإرشادات إمكانية الوصول إلى محتوى الويب (WCAG 2.2 المستوى AA)."
+      ],
+      "1. Stand der Vereinbarkeit mit den Anforderungen": [
+        "1. حالة التوافق مع المتطلبات"
+      ],
+      "Nach der Selbstbewertung des Betreibers ist dieser Webauftritt mit den Vorgaben der harmonisierten europäischen Norm EN 301 549 %s.": [
+        "بناءً على التقييم الذاتي للمشغّل، فإن هذا الموقع الإلكتروني %s مع متطلبات المعيار الأوروبي المنسّق EN 301 549."
+      ],
+      "Der Stand der Vereinbarkeit ist noch nicht angegeben.": [
+        "لم يتم تحديد حالة التوافق بعد."
+      ],
+      "2. Erstellung dieser Erklärung zur Barrierefreiheit": [
+        "2. إعداد بيان إمكانية الوصول هذا"
+      ],
+      "Diese Erklärung wurde am %s erstellt. Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "تم إعداد هذا البيان بتاريخ %s. تستند البيانات المتعلقة بحالة التوافق إلى تقييم ذاتي أجراه المشغّل."
+      ],
+      "Das Erstellungsdatum ist noch nicht angegeben.": [
+        "لم يتم تحديد تاريخ الإعداد بعد."
+      ],
+      "Die Angaben zum Stand der Vereinbarkeit beruhen auf einer Selbstbewertung des Betreibers.": [
+        "تستند البيانات المتعلقة بحالة التوافق إلى تقييم ذاتي أجراه المشغّل."
+      ],
+      "3. Feedback und Kontaktangaben (Feedback-Mechanismus)": [
+        "3. الملاحظات وبيانات الاتصال (آلية تلقي الملاحظات)"
+      ],
+      "Sind Ihnen Mängel beim barrierefreien Zugang zu Inhalten von %s aufgefallen? Oder haben Sie Fragen zur Umsetzung der Barrierefreiheit? Sie können sich jederzeit an unsere zuständige Ansprechperson wenden:": [
+        "هل لاحظتم أي قصور في الوصول الميسّر إلى محتوى %s؟ أو لديكم استفسارات حول تطبيق إمكانية الوصول؟ يمكنكم التواصل في أي وقت مع الشخص المسؤول لدينا:"
+      ],
+      "Ansprechpartner:": [
+        "جهة الاتصال:"
+      ],
+      "E-Mail:": [
+        "البريد الإلكتروني:"
+      ],
+      "Telefon:": [
+        "الهاتف:"
+      ],
+      "4. Durchsetzungsverfahren & Marktüberwachungsbehörde": [
+        "4. إجراءات الإنفاذ وهيئة مراقبة السوق"
+      ],
+      "Sollten Sie auf Mitteilungen oder Anfragen zur Barrierefreiheit innerhalb von sechs Wochen keine zufriedenstellende Antwort erhalten, können Sie sich an die zuständige Marktüberwachungs- und Durchsetzungsstelle wenden:": [
+        "في حال عدم تلقيكم رداً مرضياً على البلاغات أو الاستفسارات المتعلقة بإمكانية الوصول خلال ستة أسابيع، يمكنكم التوجه إلى هيئة مراقبة السوق والإنفاذ المختصة:"
+      ],
+      "Aufsichtsbehörde für digitale Barrierefreiheit • Bundesland Sachsen-Anhalt": [
+        "هيئة الرقابة على إمكانية الوصول الرقمي • ولاية ساكسونيا-أنهالت"
+      ],
+      "Diese Erklärung wurde am %s auf Grundlage einer Selbstbewertung erstellt. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "تم إعداد هذا البيان بتاريخ %s استناداً إلى تقييم ذاتي، ولا يستند إلى شهادة صادرة عن جهة خارجية."
+      ],
+      "Diese Erklärung beruht auf einer Selbstbewertung. Eine Zertifizierung durch eine externe Stelle liegt ihr nicht zugrunde.": [
+        "يستند هذا البيان إلى تقييم ذاتي، ولا يستند إلى شهادة صادرة عن جهة خارجية."
+      ],
+      "%d Bild ohne alt-Attribut (WCAG 1.1.1)": [
+        "%d صورة بدون سمة alt (WCAG 1.1.1)",
+        "%d صورة بدون سمة alt (WCAG 1.1.1)",
+        "%d صورتان بدون سمة alt (WCAG 1.1.1)",
+        "%d صور بدون سمة alt (WCAG 1.1.1)",
+        "%d صورة بدون سمة alt (WCAG 1.1.1)",
+        "%d صورة بدون سمة alt (WCAG 1.1.1)"
+      ],
+      "%d Link ohne Text (WCAG 2.4.4)": [
+        "%d رابط بدون نص (WCAG 2.4.4)",
+        "%d رابط بدون نص (WCAG 2.4.4)",
+        "%d رابطان بدون نص (WCAG 2.4.4)",
+        "%d روابط بدون نص (WCAG 2.4.4)",
+        "%d رابطًا بدون نص (WCAG 2.4.4)",
+        "%d رابط بدون نص (WCAG 2.4.4)"
+      ],
+      "%d übersprungene Überschriftenebene (WCAG 1.3.1)": [
+        "%d مستوى عنوان متخطّى (WCAG 1.3.1)",
+        "%d مستوى عنوان متخطّى (WCAG 1.3.1)",
+        "%d مستويا عنوان متخطّيان (WCAG 1.3.1)",
+        "%d مستويات عناوين متخطّاة (WCAG 1.3.1)",
+        "%d مستوى عنوان متخطّى (WCAG 1.3.1)",
+        "%d مستوى عنوان متخطّى (WCAG 1.3.1)"
+      ],
+      "Erklärung zur Barrierefreiheit (BFSG)": [
+        "بيان إمكانية الوصول (BFSG)"
+      ],
+      "Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "يعرض بيان إمكانية الوصول من الإعدادات المحفوظة أو سمات المكوّن الاختيارية."
+      ],
+      "Angaben überschreiben (optional)": [
+        "تجاوز البيانات (اختياري)"
+      ],
+      "Gespeicherte Einstellung verwenden": [
+        "استخدام الإعداد المحفوظ"
+      ],
+      "block title\u0004Erklärung zur Barrierefreiheit (BFSG)": [
+        "بيان إمكانية الوصول (BFSG)"
+      ],
+      "block description\u0004Gibt die Erklärung zur Barrierefreiheit aus den gespeicherten Angaben oder optionalen Block-Attributen aus.": [
+        "يعرض بيان إمكانية الوصول من الإعدادات المحفوظة أو سمات المكوّن الاختيارية."
+      ],
+      "block keyword\u0004bfsg": [
+        "bfsg"
+      ],
+      "block keyword\u0004barrierefreiheit": [
+        "إمكانية الوصول"
+      ],
+      "block keyword\u0004anlage 3": [
+        "الملحق 3"
+      ],
+      "block keyword\u0004accessibility": [
+        "بيان"
+      ]
+    }
+  }
+}

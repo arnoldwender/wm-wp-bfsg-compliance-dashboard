@@ -1,0 +1,35 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-11-16T23:30:00Z",
+    "component": {
+      "type": "application",
+      "name": "wm-bfsg-compliance-dashboard",
+      "version": "1.2.2",
+      "description": "Builds the German accessibility statement from the operator's settings (shortcode & block) and runs three pattern checks on stored content of up to 20 pages.",
+      "supplier": {
+        "name": "Arnold Wender",
+        "url": [
+          "https://arnoldwender.com"
+        ]
+      },
+      "licenses": [
+        {
+          "license": {
+            "id": "GPL-2.0-or-later"
+          }
+        }
+      ],
+      "purl": "pkg:wordpress/wm-bfsg-compliance-dashboard@1.2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a5b24264dca74c6f17274b0e402c79e2521f5f90aee36aa721083fb988f4a08c"
+        }
+      ]
+    }
+  },
+  "components": []
+}
